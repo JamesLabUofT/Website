@@ -1,0 +1,44 @@
+---
+title: "Léo Jourdan"
+sortby: "Jourdan, Léo"
+subtitle: "MScF"
+image: LeoJourdan.jpg
+started: "Winter 2022"
+ended: "Current"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+---
+
+::: {#person-profile}
+## Biography
+
+Léo is in his fourth year of undergraduate studies in Computer Science and Mathematics at the University of Toronto. In the James Lab, he is currently helping to devise a method for analyzing point clouds collected from forests using a Terrestrial LiDAR Scanner. This work brings a new element to Léo's studies, as he is changing paths to focus on the environment. When not busy changing paths, he is either cooking or thinking about the next thing he is going to cook.
+
+
+## Education
+
+-   **University of Toronto**<br /> Undergrad: Computer Science and Mathematics
+
+## Role in the lab
+
+Doing an MScF to compare stands of trees affected by JPBW...
+
+## Conferences
+
+## Publications
+
+:::
+ __________________________________________
+::: {.grid}
+
+::: {.g-col-4}
+![LidarTree](LeoJourdan/VoxelTree.gif)
+:::
+
+::: {.g-col-8}
+This shows the cool stuff you can do with lidar and voxels
+:::
+
+:::

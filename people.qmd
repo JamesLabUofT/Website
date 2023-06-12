@@ -1,0 +1,89 @@
+---
+title: "People"
+---
+
+## Current members of the James Lab
+
+---
+pagetitle: "People"
+toc: false
+listing:
+  - id: supervisor
+    contents: "people/supervisor/*.qmd"
+    type: grid
+    image-height: 225px
+    grid-columns: 1
+    fields: [image, title, subtitle]
+    grid-item-align: center
+    sort: sortby
+    field-display-names: 
+      started: "Started"
+  - id: postdoc
+    contents: "people/postdoc/*.qmd"
+    type: grid
+    image-height: 225px
+    grid-columns: 3
+    sort: sortby
+    fields: [image, title, subtitle, started]
+    field-display-names: 
+      started: "Started"
+    grid-item-align: center
+  - id: grad
+    contents: "people/grad/*.qmd"
+    type: grid
+    image-height: 225px
+    grid-columns: 3
+    sort: sortby
+    fields: [image, title, subtitle, started]
+    field-display-names: 
+      started: "Started"
+    grid-item-align: center
+  - id: undergrad
+    contents: "people/undergrad/*.qmd"
+    type: grid
+    image-height: 225px
+    grid-columns: 3
+    sort: sortby
+    fields: [image, title, subtitle, started]
+    field-display-names: 
+      started: "Started"
+    grid-item-align: center
+  - id: alumni
+    contents: "people/alumni/*.qmd"
+    type: table
+    sort: sortby
+    fields: [title, subtitle, started, ended]
+    sort-ui: [title, subtitle, started, ended]
+    filter-ui: [title, subtitle, started, ended]
+    field-display-names: 
+      title: "Name"
+      subtitle: "Role"
+      started: "Started"
+      ended: "Ended"
+---
+
+
+## Supervisor
+
+:::{#supervisor}
+:::
+
+## Postdoctoral researchers
+
+:::{#postdoc}
+:::
+
+## Graduate students
+
+:::{#grad}
+:::
+
+## Undergraduate students
+
+:::{#undergrad}
+:::
+
+## Alumni
+
+:::{#alumni}
+:::

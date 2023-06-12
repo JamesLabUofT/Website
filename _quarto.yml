@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "LabWebsite"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: people.qmd
+        text: People
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

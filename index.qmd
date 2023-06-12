@@ -1,0 +1,6 @@
+---
+title: "LabWebsite"
+---
+
+## James Lab
+We are a group of spatial ecologists interested in how heterogeneity in space and time affects ecological and evolutionary processes. Our research focuses on forests from the scale of genes to ecosystems, with particular emphasis on forest disturbances such as wildfires and insect outbreaks. Using empirical, simulation, and statistical modelling approaches, we seek to improve our understanding of the links between forest patterns and processes to better forecast the consequences of land-use and climate change on forest health and to inform forest policy.
