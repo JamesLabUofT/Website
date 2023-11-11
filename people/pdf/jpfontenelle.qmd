@@ -1,10 +1,10 @@
 ---
-title: "first Last"
-sortby: "Last, First"
-subtitle: "Position in the lab"
-image: image.jpg
-started: "Season Year"
-ended: "Current or Season Year"
+title: "João Pedro (JP) Fontenelle"
+sortby: "Fontenelle, JP"
+subtitle: "OG-CO Postdoctoral Fellow in Genome Data Science"
+image: jpfontenelle.jpg
+started: "Winter 2020"
+ended: "Current"
 toc: false
 about:
   id: person-profile
@@ -14,9 +14,21 @@ about:
 ::: {#person-profile}
 ## Biography
 
-Your Biography here
+JP has a BSc in biological sciences and a MSc in zoology from the Universidade de São Paulo (USP), Brazil, and a PhD in Environmental Sciences from the University of Toronto, Canada. JP is interested on the ecological and evolutionary mechanisms that are involved in diversification, distribution patterns, and adaptation. JP is interested in identifying genetic and genomic patterns of ecological and evolutionary differentiation, also focusing in phylogeography and biogeography. As part of the James lab, JP uses molecular, bioinformatic, and simulation tools to examine the spatial and temporal eco-evolutionary consequences of cyclic irruptive population dynamics at genetic diversity and structure, and how data can inform on demographic changes in populations. When not in the lab, JP spends his time between hanging out with his son, enjoying a nice espresso and/or beer, and zipping around on his bike (when not feeding his fluffy cat). 
+
+JP’s research is funded by a CANSSI / Ontario Genomics Postdoctoral Fellowship in Genome Data Science
 
 ## Education
 
--   **University name**<br /> Degree
+-   **University of Toronto**<br /> Doctor of Philosophy : Environmental Sciences (2015-2020)
+-   **Universidade de São Paulo**<br /> Master of Sciences: Zoology (2011-2013)
+-   **Universidade de São Paulo**<br /> Bachelor of Sciences: Biological Sciences (2006-2010)
+
+## Role in the lab
+
+JP is currently investigating the effects of demographic changes related to irruptive cyclic outbreaks on genetic composition, structure and diversity at the genomic level using individual-based computer models and empirical datasets.
+
+## Publications
+
+
 :::
