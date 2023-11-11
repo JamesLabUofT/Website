@@ -1,10 +1,10 @@
 ---
-title: "first Last"
+title: "Jack A. Goldman"
 sortby: "Last, First"
-subtitle: "Position in the lab"
+subtitle: "PhD Candidate"
 image: image.jpg
-started: "Season Year"
-ended: "Current or Season Year"
+started: "2020"
+ended: "Present"
 toc: false
 about:
   id: person-profile
