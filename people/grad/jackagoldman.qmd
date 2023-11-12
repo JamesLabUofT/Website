@@ -9,6 +9,15 @@ toc: false
 about:
   id: person-profile
   template: jolla
+  links:
+    - text: ResearchGate
+      href: https://www.researchgate.net/profile/Jack-Goldman-2
+    - text: Twitter
+      href: https://twitter.com/jandrewgoldman
+    - text: GitHub
+      href: https://github.com/jackagoldman
+    - text: Email
+      href: mailto:jack.goldman@mail.utoronto.ca
 ---
 
 ::: {#person-profile}
