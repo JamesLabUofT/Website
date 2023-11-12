@@ -1,0 +1,22 @@
+---
+title: "Jessica Underwood"
+sortby: "Underwood, Jessica"
+subtitle: "Undergrad"
+image: image.jpg
+started: "Summer 2023"
+ended: "Current"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+---
+
+::: {#person-profile}
+## Biography
+
+Jessica is in her 5th year of undergraduate studies at the University of Toronto. She is pursuing a double major in Ecology and Evolutionary Biology and Biodiversity and Conservation Major with a minor in Psychology. In the James lab, she has assisted in a community outreach project trapping Spongy Moths across Ontario. Currently, she is working on a senior thesis about Spruce Budworm cyclic population outbreaks.
+
+## Education
+
+-   **University name**<br /> Degree
+:::
