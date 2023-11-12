@@ -2,7 +2,7 @@
 title: "Léo Jourdan"
 sortby: "Jourdan, Léo"
 subtitle: "MScF"
-image: LeoJourdan.jpg
+image: ../images/LeoJoudan/LeoJourdan.jpg
 started: "Winter 2022"
 ended: "Current"
 toc: false
@@ -34,7 +34,7 @@ Doing an MScF to compare stands of trees affected by JPBW...
 ::: {.grid}
 
 ::: {.g-col-4}
-![LidarTree](LeoJourdan/VoxelTree.gif)
+![LidarTree](../images/LeoJourdan/VoxelTree.gif)
 :::
 
 ::: {.g-col-8}
