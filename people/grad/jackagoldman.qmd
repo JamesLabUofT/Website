@@ -23,15 +23,41 @@ about:
 ::: {#person-profile}
 ## Biography
 
-I am a disturbance ecologist interested in seasonally snow-covered forest ecosystems and the context dependent interactions between natural disturbances and climate change. My current research leverages large spatial and temporal datasets through remote sensing and other publicaly available sources to address the climate and ecological drivers of wildfire burn severity in the boreal forest. I incorporate methods from different fields, from remote sensing, spatial and temmporal modelling, and structural equation modelling to machine learning. 
+I am a disturbance ecologist interested in seasonally snow-covered forest ecosystems and the context dependent interactions between natural disturbances and climate change. My current research leverages large spatial and temporal datasets through remote sensing and other publicaly available sources to address the climate and ecological drivers of wildfire burn severity in the boreal forest. I incorporate methods from different fields, from remote sensing, spatial and temmporal modelling, and structural equation modelling to machine learning. Outside of his reseach, Jack is an avid cyclist, and can be found riding or racing his bike all over Ontario and Quebec.
+ 
 
 
 
 ## Education
 
--   **University of Toronto**<br /> B.Sc<br /> 2013-2017
--   **Concordia Unviersity**<br /> M.Sc<br /> 2017-2019
+-   **Concordia Unviersity**<br /> M.Sc  2017-2019
+-   **University of Toronto**<br /> B.Sc  2013-2017
+## Role in the lab 
 
-##
+Jack is currenly modelling wildfire burn severity across Ontario's boreal shield ecoregion. Specifcally he is trying to better udnerstand the role of global change and insect disturbance on wildfire burn severity and ecosystem recover following wildfire.
 
+
+## Publications
+
+### In Prep
+
+**Goldman JA**, Fortin MJ, James PMA. Direct and indirect effects of snow free date and forest structural diversity on wildfire burn severity in the boreal forest across spatial scales
+
+**Goldman JA**, Fortin MJ, James PMA. Moisture availability at short timescales influences wildfire burn severity in the boreal forest
+
+### Published
+
+7). **Goldman JA**, Crane A, Feyten, LEA, E Collins, Brown GE. (2022) Disturbance cue communication is shaped by emitter diet and receiver background risk in Trinidadian guppies. Current Zoology 68(4), 433-440
+
+6). Messaoud Y, Reid A, Tchebakova NM, **Goldman JA**, Hofgaard A. (2022) The Historical Complexity of Tree Height Growth Dynamic Associated with Climate Change in Western North America. Forests 13(5), 738
+
+5). Crane AL, Bairos-Novak KR, **Goldman JA**, Brown GE. (2021) Chemical disturbance cues in aquatic systems - a review and prospectus. Ecological Monographs 92(1), e10487 [Link](https://doi.org/10.1002/ecm.1487)
+
+4). Brown GE, Demers EM, **Goldman JA**, Singh A, Ferrari MCO, Chivers DP. (2020) Unpredictable risk enhances induced neophobia in Northern red-bellied dace. Animal Behaviour 168, 121-127.
+
+3). **Goldman JA**, Desormeaux IS, Brown GE. (2020) Disturbance cues function as sources of risk assessment information under natural conditions. Freshwater Biology. 65(5), 981-986.
+
+2). **Goldman JA**, Feyten LEA, Ramnarine IW, Brown GE. (2020). Sender and receiver experience with risk alters the response to disturbance cues by Trinidadian guppies. Current Zoology 66(3), 255-261.
+
+1). **Goldman JA**, Singh A, Demers EM, Feyten LEA, Brown GE. (2019) Does donor group size matter? The response of Trinidadian guppies and Convict cichlids to disturbance cues from conspecific and heterospecific donors. Canadian Journal of Zoology, 97(4) 319-325. \*Selected as Editor's Choice
 :::

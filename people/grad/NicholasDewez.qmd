@@ -1,0 +1,24 @@
+---
+title: "Nick Dewez"
+sortby: "Last, First"
+subtitle: "Ph.D. Student"
+image: NicholasDewez.jpg
+started: "Fall 2023"
+ended: "Current"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+---
+
+::: {#person-profile}
+## Biography
+
+Nick earned his BS in Forestry from the University of Idaho (USA) and a MS in  Biology from Texas A&M – Kingsville (TAMUK) (USA). He is certified in GIS from  TAMUK and as an Associate Ecologist with the Ecological Society of America. He has  spent many seasons in the field where he was a certified tree climber. In his work with the James Lab, Nick is focused on modelling wildfire and defoliator interactions in Canada’s eastern boreal forests under climate change.
+
+## Education
+
+-   **Texas A&M University - Kingsville**<br /> M.S. Biology
+
+-   **University of Idaho** <br /> B.S. Forestry
+:::

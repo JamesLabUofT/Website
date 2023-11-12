@@ -1,6 +1,6 @@
 ---
-title: "LabWebsite"
+title: "Forest Analytics and Disturbance Ecology Lab @ U of T"
 ---
 
 ## James Lab
-We are a group of spatial ecologists interested in how heterogeneity in space and time affects ecological and evolutionary processes. Our research focuses on forests from the scale of genes to ecosystems, with particular emphasis on forest disturbances such as wildfires and insect outbreaks. Using empirical, simulation, and statistical modelling approaches, we seek to improve our understanding of the links between forest patterns and processes to better forecast the consequences of land-use and climate change on forest health and to inform forest policy.
+We are a group of disturbance ecologists in the Institute of Forestry and Conservation at the University of Toronto. Our research explores the impacts of wildfire, insect disturbance and land-use on Canadian forest ecosystems in the current era of global change. We investigate these important problems through the application of a range of novel, data driven tools and methods.
