@@ -2,7 +2,7 @@
 title: "Jack A. Goldman"
 sortby: "Last, First"
 subtitle: "PhD Candidate"
-image: image.jpg
+image: images/Rushmore-headshot.jpeg
 started: "2020"
 ended: "Present"
 toc: false
@@ -14,9 +14,15 @@ about:
 ::: {#person-profile}
 ## Biography
 
-Your Biography here
+I am a disturbance ecologist interested in seasonally snow-covered forest ecosystems and the context dependent interactions between natural disturbances and climate change. My current research leverages large spatial and temporal datasets through remote sensing and other publicaly available sources to address the climate and ecological drivers of wildfire burn severity in the boreal forest. I incorporate methods from different fields, from remote sensing, spatial and temmporal modelling, and structural equation modelling to machine learning. 
+
+
 
 ## Education
 
--   **University name**<br /> Degree
+-   **University of Toronto**<br /> B.Sc<br /> 2013-2017
+-   **Concordia Unviersity**<br /> M.Sc<br /> 2017-2019
+
+##
+
 :::
