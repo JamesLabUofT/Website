@@ -9,6 +9,15 @@ toc: false
 about:
   id: person-profile
   template: jolla
+   links:
+    - text: ResearchGate
+      href: https://www.researchgate.net/profile/Joao-Pedro-Fontenelle
+    - text: Google Scholar
+      href: https://scholar.google.ca/citations?user=oVtKbp0AAAAJ&hl=en
+    - text: GitHub
+      href: https://github.com/jpfontenelle
+    - text: Email
+      href: mailto:jp.fontenelle@utoronto.ca
 ---
 
 ::: {#person-profile}
