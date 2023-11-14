@@ -3,12 +3,28 @@ project:
 
 website:
   title: "LabWebsite"
+  favicon: "path/to/favicon"
   navbar:
+    collapse: true
     left:
       - href: index.qmd
         text: Home
       - href: people.qmd
         text: People
+  search: 
+    location: navbar
+    type: overlay
+    limit: 5
+    copy-button: true
+
+
+page-footer:
+  border: false
+  background:
+  foreground:
+  left: "2023"
+  right: 
+    - 
 
 format:
   html:
