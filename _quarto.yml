@@ -2,13 +2,15 @@ project:
   type: website
 
 website:
-  title: "LabWebsite"
-  favicon: "path/to/favicon"
+  title: "The James Lab"
+  favicon: "images/JamesLabLogo_Small.png"
   navbar:
     collapse: true
     left:
       - href: index.qmd
         text: Home
+      - href: news.qmd
+        text: News
       - href: people.qmd
         text: People
   search: 
@@ -22,7 +24,7 @@ page-footer:
   border: false
   background:
   foreground:
-  left: "2023"
+  left: "2024"
   right: 
     - 
 

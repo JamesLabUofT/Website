@@ -2,7 +2,16 @@
   {
     "listing": "/people.html",
     "items": [
-      "/people/grad/LeoJourdan.html"
+      "/people/pdf/jpfontenelle.html",
+      "/people/grad/NicholasDewez.html",
+      "/people/grad/jackagoldman.html",
+      "/people/grad/LeoJourdan.html",
+      "/people/undergrad/JessicaUnderwood.html",
+      "/people/alumni/franckGandiaga.html"
     ]
+  },
+  {
+    "listing": "/news.html",
+    "items": []
   }
 ]

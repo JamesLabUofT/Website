@@ -1,8 +1,8 @@
 ---
 title: "Jack A. Goldman"
-sortby: "Last, First"
+sortby: "Goldman, Jack"
 subtitle: "PhD Candidate"
-image: images/Rushmore-headshot.jpeg
+image: /images/people/jackagoldman/Rushmore-headshot.jpeg
 started: "2020"
 ended: "Present"
 toc: false
@@ -10,32 +10,30 @@ about:
   id: person-profile
   template: jolla
   links:
-    - text: ResearchGate
-      href: https://www.researchgate.net/profile/Jack-Goldman-2
-    - text: Twitter
-      href: https://twitter.com/jandrewgoldman
-    - text: GitHub
-      href: https://github.com/jackagoldman
-    - text: Email
-      href: mailto:jack.goldman@mail.utoronto.ca
+  - text: ResearchGate
+    href: https://www.researchgate.net/profile/Jack-Goldman-2
+  - text: Twitter
+    href: https://twitter.com/jandrewgoldman
+  - text: GitHub
+    href: https://github.com/jackagoldman
+  - text: Email
+    href: mailto:jack.goldman@mail.utoronto.ca
 ---
 
 ::: {#person-profile}
+:::
 ## Biography
 
 I am a disturbance ecologist interested in seasonally snow-covered forest ecosystems and the context dependent interactions between natural disturbances and climate change. My current research leverages large spatial and temporal datasets through remote sensing and other publicaly available sources to address the climate and ecological drivers of wildfire burn severity in the boreal forest. I incorporate methods from different fields, from remote sensing, spatial and temmporal modelling, and structural equation modelling to machine learning. Outside of his reseach, Jack is an avid cyclist, and can be found riding or racing his bike all over Ontario and Quebec.
- 
-
-
 
 ## Education
 
--   **Concordia Unviersity**<br /> M.Sc  2017-2019
--   **University of Toronto**<br /> B.Sc  2013-2017
-## Role in the lab 
+-   **Concordia Unviersity**<br /> M.Sc 2017-2019
+-   **University of Toronto**<br /> B.Sc 2013-2017 
+
+## Role in the lab
 
 Jack is currenly modelling wildfire burn severity across Ontario's boreal shield ecoregion. Specifcally he is trying to better udnerstand the role of global change and insect disturbance on wildfire burn severity and ecosystem recover following wildfire.
-
 
 ## Publications
 
@@ -60,4 +58,3 @@ Jack is currenly modelling wildfire burn severity across Ontario's boreal shield
 2). **Goldman JA**, Feyten LEA, Ramnarine IW, Brown GE. (2020). Sender and receiver experience with risk alters the response to disturbance cues by Trinidadian guppies. Current Zoology 66(3), 255-261.
 
 1). **Goldman JA**, Singh A, Demers EM, Feyten LEA, Brown GE. (2019) Does donor group size matter? The response of Trinidadian guppies and Convict cichlids to disturbance cues from conspecific and heterospecific donors. Canadian Journal of Zoology, 97(4) 319-325. \*Selected as Editor's Choice
-:::

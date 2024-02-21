@@ -30,6 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<link href="./images/JamesLabLogo_Small.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-listing/list.min.js"></script>
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
@@ -43,11 +44,11 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
-  "copy-button": false,
+  "copy-button": true,
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 5,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -101,7 +102,7 @@ ul.task-list li input[type="checkbox"] {
     const options = {
       valueNames: ['listing-image','listing-title','listing-subtitle','listing-started',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: [],
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -157,7 +158,7 @@ ul.task-list li input[type="checkbox"] {
     const options = {
       valueNames: ['listing-image','listing-title','listing-subtitle','listing-started',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: [],
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -217,7 +218,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
     <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">LabWebsite</span>
+    <span class="navbar-title">The James Lab</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -229,6 +230,10 @@ ul.task-list li input[type="checkbox"] {
   <li class="nav-item">
     <a class="nav-link" href="./index.html" rel="" target="">
  <span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./news.html" rel="" target="">
+ <span class="menu-text">News</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="./people.html" rel="" target="" aria-current="page">
@@ -284,7 +289,35 @@ No matching items
 <h2 class="anchored" data-anchor-id="postdoctoral-researchers">Postdoctoral researchers</h2>
 <div id="listing-postdoc" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1708540656394" data-listing-reading-time-sort="2">
+<a href="./people/pdf/jpfontenelle.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center">
+<p class="card-img-top">
+<img src="./images/people/jpfontenelle/jpfontenelle.jpg" class="thumbnail-image card-img" style="height: 225px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+João Pedro (JP) Fontenelle
+</h5>
+<div class="card-subtitle listing-subtitle">
+OG-CO Postdoctoral Fellow in Genome Data Science
+</div>
 
+<table class="card-other-values">
+<tbody><tr>
+<td>
+Started
+</td>
+<td class="started">
+Winter 2020
+</td>
+</tr>
+
+</tbody></table>
+</div>
+</div>
+</a>
+</div>
 </div>
 <div class="listing-no-matching d-none">
 No matching items
@@ -295,11 +328,69 @@ No matching items
 <h2 class="anchored" data-anchor-id="graduate-students">Graduate students</h2>
 <div id="listing-grad" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1686593353218" data-listing-reading-time-sort="1">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1708540403256" data-listing-reading-time-sort="1">
+<a href="./people/grad/NicholasDewez.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center">
+<p class="card-img-top">
+<img src="./images/people/NicholasDewez/NicholasDewez.jpg" class="thumbnail-image card-img" style="height: 225px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Nick Dewez
+</h5>
+<div class="card-subtitle listing-subtitle">
+Ph.D.&nbsp;Student
+</div>
+
+<table class="card-other-values">
+<tbody><tr>
+<td>
+Started
+</td>
+<td class="started">
+Fall 2023
+</td>
+</tr>
+
+</tbody></table>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1708547943582" data-listing-reading-time-sort="3">
+<a href="./people/grad/jackagoldman.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center">
+<p class="card-img-top">
+<img src="./images/people/jackagoldman/Rushmore-headshot.jpeg" class="thumbnail-image card-img" style="height: 225px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Jack A. Goldman
+</h5>
+<div class="card-subtitle listing-subtitle">
+PhD Candidate
+</div>
+
+<table class="card-other-values">
+<tbody><tr>
+<td>
+Started
+</td>
+<td class="started">
+2020
+</td>
+</tr>
+
+</tbody></table>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1708547292404" data-listing-reading-time-sort="1">
 <a href="./people/grad/LeoJourdan.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center">
 <p class="card-img-top">
-<img src="./people/grad/LeoJourdan.jpg" class="thumbnail-image card-img" style="height: 225px;">
+<img src="./images/people/LeoJourdan/LeoJourdan.jpg" class="thumbnail-image card-img" style="height: 225px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -334,7 +425,35 @@ No matching items
 <h2 class="anchored" data-anchor-id="undergraduate-students">Undergraduate students</h2>
 <div id="listing-undergrad" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1708527592410" data-listing-reading-time-sort="1">
+<a href="./people/undergrad/JessicaUnderwood.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center">
+<p class="card-img-top">
+<img src="./people/undergrad/image.jpg" class="thumbnail-image card-img" style="height: 225px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Jessica Underwood
+</h5>
+<div class="card-subtitle listing-subtitle">
+Undergrad
+</div>
 
+<table class="card-other-values">
+<tbody><tr>
+<td>
+Started
+</td>
+<td class="started">
+Summer 2023
+</td>
+</tr>
+
+</tbody></table>
+</div>
+</div>
+</a>
+</div>
 </div>
 <div class="listing-no-matching d-none">
 No matching items
@@ -388,6 +507,20 @@ No matching items
 </tr>
 </thead>
 <tbody class="list">
+<tr data-index="0" data-listing-file-modified-sort="1708547215261" data-listing-reading-time-sort="1" data-listing-title-sort="Franck Gandiaga" data-listing-filename-sort="franckGandiaga.qmd">
+<td>
+<a href="./people/alumni/franckGandiaga.html" class="title listing-title">Franck Gandiaga</a>
+</td>
+<td>
+<span class="listing-subtitle">PDF</span>
+</td>
+<td>
+<span class="listing-started">Fall 2020</span>
+</td>
+<td>
+<span class="listing-ended">Summer 2023</span>
+</td>
+</tr>
 </tbody>
 
 </table>

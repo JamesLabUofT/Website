@@ -2,25 +2,28 @@
 title: "João Pedro (JP) Fontenelle"
 sortby: "Fontenelle, JP"
 subtitle: "OG-CO Postdoctoral Fellow in Genome Data Science"
-image: ../images/jpfontenelle/jpfontenelle.jpg
+image: /images/people/jpfontenelle/jpfontenelle.jpg
 started: "Winter 2020"
 ended: "Current"
 toc: false
 about:
+  links:
+  - text: ResearchGate
+    href: https://www.researchgate.net/profile/Joao-Pedro-Fontenelle
+  - text: Google Scholar
+    href: https://scholar.google.ca/citations?user=oVtKbp0AAAAJ&hl=en
+  - text: GitHub
+    href: https://github.com/jpfontenelle
+  - text: Email
+    href: mailto:jp.fontenelle@utoronto.ca
   id: person-profile
   template: jolla
-   links:
-    - text: ResearchGate
-      href: https://www.researchgate.net/profile/Joao-Pedro-Fontenelle
-    - text: Google Scholar
-      href: https://scholar.google.ca/citations?user=oVtKbp0AAAAJ&hl=en
-    - text: GitHub
-      href: https://github.com/jpfontenelle
-    - text: Email
-      href: mailto:jp.fontenelle@utoronto.ca
 ---
 
 ::: {#person-profile}
+
+:::
+
 ## Biography
 
 JP has a BSc in biological sciences and a MSc in zoology from the Universidade de São Paulo (USP), Brazil, and a PhD in Environmental Sciences from the University of Toronto, Canada. JP is interested on the ecological and evolutionary mechanisms that are involved in diversification, distribution patterns, and adaptation. JP is interested in identifying genetic and genomic patterns of ecological and evolutionary differentiation, also focusing in phylogeography and biogeography. As part of the James lab, JP uses molecular, bioinformatic, and simulation tools to examine the spatial and temporal eco-evolutionary consequences of cyclic irruptive population dynamics at genetic diversity and structure, and how data can inform on demographic changes in populations. When not in the lab, JP spends his time between hanging out with his son, enjoying a nice espresso and/or beer, and zipping around on his bike (when not feeding his fluffy cat). 
@@ -39,5 +42,3 @@ JP is currently investigating the effects of demographic changes related to irru
 
 ## Publications
 
-
-:::

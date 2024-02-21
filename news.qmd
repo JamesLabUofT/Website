@@ -1,0 +1,19 @@
+---
+pagetitle: "News"
+toc: false
+listing:
+- id: news
+  sort:
+    - "date desc"
+  contents: 
+    - news/news.yml
+  template: news/newsTemplate.ejs
+  date-format: "MMMM YYYY"
+  field-types:
+    date: date
+---
+
+## News from the James Lab
+
+::: {#news}
+:::
