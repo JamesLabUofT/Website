@@ -2,7 +2,7 @@
 title: "Patrick James"
 #sortby: "Last, First"
 subtitle: "Lab PI"
-image: image.jpg
+image: /images/people/patrickjames/PJ3.jpg
 started: "A long long time ago... "
 #ended: "Current or Season Year"
 toc: false
