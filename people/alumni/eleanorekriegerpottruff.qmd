@@ -11,7 +11,7 @@ about:
   template: jolla
   #links:
   #- text: GitHub
-  #  href: https://github.com/yourgithub
+  #  href: https://github.com/lnrkp
   #- text: Email
   #  href: mailto:eleanore.kriegerpottruff@mail.utoronto.ca
 ---
