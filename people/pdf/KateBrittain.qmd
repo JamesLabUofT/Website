@@ -2,7 +2,7 @@
 title: "Kate Brittain"
 sortby: "Brittain, Kate"
 subtitle: "Postdoctoral Fellow"
-image: images/people/KateBrittain/Kate_lab_photo.jpg
+image: /images/people/KateBrittain/Kate_lab_photo.jpg
 started: "Winter 2024"
 ended: "Current"
 toc: false
