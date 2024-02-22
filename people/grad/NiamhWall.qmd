@@ -1,0 +1,36 @@
+---
+title: "Niamh Wall"
+sortby: "Last, First"
+subtitle: "PhD Candidate"
+image: "/images/people/NiamhWall/niamhwall_bltu.JPG" 
+started: "Fall 2019"
+ended: "Present"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  #links:
+  #- text: GitHub
+  #  href: https://github.com/yourgithub
+  #- text: Email
+  #  href: niamh.wall@mail.utoronto.ca
+---
+
+::: {#person-profile}
+:::
+## Biography
+
+I am an ecologist interested in the influences determining the extinction or persistence of threatened species with a focus on the influence of habitat loss on the genetics of long-lived species. My PhD research focuses on the landscape and genetic connectivity of turtle populations in southern Ontario, Canada. I am particularly attracted to the challenge of linking ecological research to on-the-ground conservation. 
+
+## Education
+
+-   **University of Toronto**<br /> Masters of Forest Conservation
+-   **University of Guelph**<br /> Bachelors of Environmental Management
+
+## Conference Presentations
+
+Wall, N., Davy, C.M., Fortin, M-J, James, P.M.A. Landscapes of Change: conservation of common and endangered freshwater turtles in southern Ontario, Canada. IALE-NA. Riverside, California. March 19 - 23, 2023
+
+Wall, N., Avsec, A. James, P.M.A, Fortin, M-J. Spatial ecology and habitat protection of Blanding's turtles (Emydoidea blandingii) in Ontario, Canada. IALE-NA. Virtual conference. May 11-14, 2020
+
+Wall, N., Pearce, D. Policy Options for Moose Management in Ontario: an ENGO Perspective. 50th North American Moose Conference. Brandon, Manitoba. September 6, 2016
