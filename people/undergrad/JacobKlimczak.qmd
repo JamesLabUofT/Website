@@ -1,0 +1,32 @@
+---
+title: "Jacob Klimczak"
+sortby: "Klimczak, Jacob"
+subtitle: "Undergrad"
+image: image.jpg
+started: "October 2022"
+ended: "Current"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  links:
+  - text: Email
+    href: mailto:jacob.klimczak@mail.utoronto.ca
+---
+
+::: {#person-profile}
+## Biography
+
+Jacob a research assistant in the lab. He is in the 3rd year of a degree in
+Computer Science, with interests in analyzing
+spatial structure of stands with terrestrial laser scanning.
+
+## Education
+
+-   **University of Toronto**<br /> B.Sc in Computer Science (2021 - PRESENT)
+
+## Role In The Lab
+Jacob is examining the different efficiencies of various TLS scanning methodologies. Additionally, he is examining
+ways to quantify scan efficiency, as well as ways to compute physical fuel attributes from TLS scans.
+
+:::
