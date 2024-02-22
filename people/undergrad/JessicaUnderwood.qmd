@@ -1,7 +1,7 @@
 ---
 title: "Jessica Underwood"
 sortby: "Underwood, Jessica"
-subtitle: "Undergrad"
+subtitle: "Undergraduate Student"
 image: /images/people/JessicaUnderwood/JessicaUnderwood.jpg
 started: "Summer 2023"
 ended: "Current"
