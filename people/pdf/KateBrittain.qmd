@@ -1,0 +1,33 @@
+---
+title: "Kate Brittain"
+sortby: "Brittain, Kate"
+subtitle: "Postdoctoral Fellow"
+image: image.jpg
+started: "Winter 2024"
+ended: "Current"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  #links:
+  #- text: GitHub
+  #  href: https://github.com/kate-brittain
+  #- text: Email
+  #  href: mailto:kate.brittain@utoronto.ca
+---
+
+::: {#person-profile}
+:::
+## Biography
+
+Kate has a Bachelor of Animal and Veterinary Bioscience and PhD from the University of Sydney, Australia. She is passionate about using population genetics and genomics to investigate changing genetic dynamics for the purposes of improving conservation outcomes for species and ecosystems. In the James Lab, Kate is working on investigating spatial and temporal population dynamics to manage outbreaking insect species.
+
+## Education
+
+-   **The University of Sydney**<br /> Doctor of Philosophy (Science)
+
+-   **The University of Sydney**<br /> Bachelor of Animal and Veterinary Bioscience
+
+## Publications
+
+
