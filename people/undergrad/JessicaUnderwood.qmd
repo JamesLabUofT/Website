@@ -2,7 +2,7 @@
 title: "Jessica Underwood"
 sortby: "Underwood, Jessica"
 subtitle: "Undergrad"
-image: image.jpg
+image: /images/people/JessicaUnderwood/image.jpg
 started: "Summer 2023"
 ended: "Current"
 toc: false
