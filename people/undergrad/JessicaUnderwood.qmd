@@ -2,7 +2,7 @@
 title: "Jessica Underwood"
 sortby: "Underwood, Jessica"
 subtitle: "Undergrad"
-image: /images/people/JessicaUnderwood/image.jpg
+image: /images/people/JessicaUnderwood/JessicaUnderwood.jpg
 started: "Summer 2023"
 ended: "Current"
 toc: false
@@ -19,4 +19,5 @@ Jessica is in her 5th year of undergraduate studies at the University of Toronto
 ## Education
 
 -   **University of Toronto**<br /> Honours Bachelor of Science
+
 :::
