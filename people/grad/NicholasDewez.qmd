@@ -1,6 +1,6 @@
 ---
 title: "Nick Dewez"
-sortby: "Dewez, Nickt"
+sortby: "Dewez, Nick"
 subtitle: "Ph.D. Student"
 image: /images/people/NicholasDewez/NicholasDewez.jpg
 started: "Fall 2023"
