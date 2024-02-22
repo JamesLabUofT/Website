@@ -2,7 +2,7 @@
 title: "Eleanore Krieger-Pottruff"
 sortby: "Krieger-Pottruff, Eleanore"
 subtitle: "Reasearch Assistant"
-image: image.jpg
+image: /images/people/eleanorekriegerpottruff/lnrkp.jpg
 started: "2022"
 ended: "Present"
 toc: false
