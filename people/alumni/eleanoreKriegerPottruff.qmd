@@ -4,7 +4,7 @@ sortby: "Krieger-Pottruff, Eleanore"
 subtitle: "Reasearch Assistant"
 image: image.jpg
 started: "2022"
-ended: "Present"f
+ended: "Present"
 toc: false
 about:
   id: person-profile
