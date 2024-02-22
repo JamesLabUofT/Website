@@ -10,10 +10,10 @@ about:
   id: person-profile
   template: jolla
   #links:
-  #- text: GitHub
-  #  href: https://github.com/yourgithub
-  #- text: Email
-  #  href: niamh.wall@mail.utoronto.ca
+  - text: GitHub
+    href: https://github.com/niamhmwall
+  - text: Email
+    href: niamh.wall@mail.utoronto.ca
 ---
 
 ::: {#person-profile}
