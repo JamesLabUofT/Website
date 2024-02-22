@@ -2,7 +2,7 @@
 title: "Zackary Shakeri"
 sortby: "Shakeri, Zackary"
 subtitle: "PDF researcher"
-image: /images/people/ZackShakeri/IMG_1809.jpg
+image: /images/people/ZackShakeri/IMG_1809.jpeg
 started: "January 2024"
 ended: "Current"
 toc: false
@@ -13,7 +13,7 @@ about:
   #- text: GitHub
   #  href: https://github.com/yourgithub
   #- text: Email
-  #  href: mailto:youremail@utoronto.ca
+  #  href: mailto:z.shakeri@utoronto.ca
 ---
 
 ::: {#person-profile}
