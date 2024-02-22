@@ -2,16 +2,16 @@
 title: "Eleanore Krieger-Pottruff"
 sortby: "Krieger-Pottruff, Eleanore"
 subtitle: "Reasearch Assistant"
-image: image.jpg
+image: /images/people/eleanorekriegerpottruff/lnrkp.jpg
 started: "2022"
-ended: "Present"f
+ended: "Present"
 toc: false
 about:
   id: person-profile
   template: jolla
   #links:
   #- text: GitHub
-  #  href: https://github.com/yourgithub
+  #  href: https://github.com/lnrkp
   #- text: Email
   #  href: mailto:eleanore.kriegerpottruff@mail.utoronto.ca
 ---
