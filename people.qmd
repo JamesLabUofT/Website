@@ -38,7 +38,7 @@ listing:
     field-display-names: 
       started: "Started"
     grid-item-align: center
-   - id: RA
+  - id: RA
     contents: "people/RA/*.qmd"
     type: grid
     image-height: 225px
