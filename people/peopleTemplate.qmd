@@ -9,9 +9,15 @@ toc: false
 about:
   id: person-profile
   template: jolla
+  #links:
+  #- text: GitHub
+  #  href: https://github.com/yourgithub
+  #- text: Email
+  #  href: mailto:youremail@utoronto.ca
 ---
 
 ::: {#person-profile}
+:::
 ## Biography
 
 Your Biography here
@@ -19,4 +25,3 @@ Your Biography here
 ## Education
 
 -   **University name**<br /> Degree
-:::

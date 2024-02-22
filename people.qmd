@@ -19,7 +19,7 @@ listing:
     field-display-names: 
       started: "Started"
   - id: postdoc
-    contents: "people/postdoc/*.qmd"
+    contents: "people/pdf/*.qmd"
     type: grid
     image-height: 225px
     grid-columns: 3

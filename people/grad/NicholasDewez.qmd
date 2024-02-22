@@ -1,8 +1,8 @@
 ---
 title: "Nick Dewez"
-sortby: "Last, First"
+sortby: "Dewez, Nickt"
 subtitle: "Ph.D. Student"
-image: NicholasDewez.jpg
+image: /images/people/NicholasDewez/NicholasDewez.jpg
 started: "Fall 2023"
 ended: "Current"
 toc: false
