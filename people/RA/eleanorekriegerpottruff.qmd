@@ -1,0 +1,27 @@
+---
+title: "Eleanore Krieger-Pottruff"
+sortby: "Krieger-Pottruff, Eleanore"
+subtitle: "Research Assistant"
+image: /images/people/eleanorekriegerpottruff/lnrkp.jpeg
+started: "2022"
+ended: "Present"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  #links:
+  #- text: GitHub
+  #  href: https://github.com/lnrkp
+  #- text: Email
+  #  href: mailto:eleanore.kriegerpottruff@mail.utoronto.ca
+---
+
+::: {#person-profile}
+:::
+## Biography
+
+Eleanore is presently a research assistant and lab technician helping process data on mountain pine beetle/forest fire interactions in British Columbia and peatland fire ignitions in Alberta. Eleanore completed her BSc at the University of Toronto, specializing in forest conservation science, ecology and evolutionary biology, and GIS with a summer semester doing ecology work in Haida Gwaii. She has spent 4 summers in British Columbia and Alberta planting trees.
+
+## Education
+
+-   **University of Toronto**<br /> Honours B.Sc.
