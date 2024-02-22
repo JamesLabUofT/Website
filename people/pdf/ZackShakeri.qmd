@@ -21,7 +21,7 @@ about:
 ## Biography
 
 My lifelong passion for insects, plants, trees, and forests has been the driving force behind my academic and professional journey. It all began with my Ph.D. studies at the University of Tehran in 2012, under the guidance of esteemed mentors Dan Simberloff, Reza Marvi-e-Mohadjer, and Lutz Eckstein. There, I delved deep into the intricacies of Oriental beech forest ecosystems, laying the foundation for my career in academia.
-Throughout my career spanning from 2006 to 2018, I have had the privilege of working in diverse forest ecosystems across the globe, including Mangrove, Sub-tropical, Arid, Mediterranean, and Temperate forests. However, it was in 2018, during my first visit to Boreal forests, that I experienced an undeniable connection with these remarkable ecosystems. Since then, my focus has shifted towards understanding historical ecology, dendrochronology, and fire ecology in the Canadian Boreal Forest. As a member of the James lab, I am dedicated to investigating the impacts of climate change on disturbance regimes within boreal forests. I am particularly fascinated by the resilience of boreal vegetation and its ability to adapt to the ever-evolving environmental challenges.
+Throughout my career spanning from 2006 to 2018, I have had the privilege of working in diverse forest ecosystems across the globe, including Mangrove, Sub-tropical, Arid, Mediterranean, and Temperate forests. However, it was in 2018, during my first visit to Boreal forests, that I experienced an undeniable connection with these remarkable ecosystems. Since then, my focus has shifted towards understanding historical ecology, dendrochronology, and fire ecology in the Canadian Boreal Forest. 
 
 ## Education
 
@@ -29,6 +29,6 @@ Throughout my career spanning from 2006 to 2018, I have had the privilege of wor
 
 ## Role in the lab
 
-
+As a member of the James lab, I am dedicated to investigating the impacts of climate change on disturbance regimes within boreal forests. I am particularly fascinated by the resilience of boreal vegetation and its ability to adapt to the ever-evolving environmental challenges.
 
 ## Publications
