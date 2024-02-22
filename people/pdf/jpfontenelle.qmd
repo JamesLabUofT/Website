@@ -26,7 +26,7 @@ about:
 
 ## Biography
 
-JP has a BSc in biological sciences and a MSc in zoology from the Universidade de São Paulo (USP), Brazil, and a PhD in Environmental Sciences from the University of Toronto, Canada. JP is interested on the ecological and evolutionary mechanisms that are involved in diversification, distribution patterns, and adaptation. JP is interested in identifying genetic and genomic patterns of ecological and evolutionary differentiation, also focusing in phylogeography and biogeography. As part of the James lab, JP uses molecular, bioinformatic, and simulation tools to examine the spatial and temporal eco-evolutionary consequences of cyclic irruptive population dynamics at genetic diversity and structure, and how data can inform on demographic changes in populations. When not in the lab, JP spends his time between hanging out with his son, enjoying a nice espresso and/or beer, and zipping around on his bike (when not feeding his fluffy cat). 
+JP has a BSc in biological sciences and a MSc in zoology from the Universidade de São Paulo (USP), Brazil, and a PhD in Environmental Sciences from the University of Toronto, Canada. JP´s overall research focus on the ecological and evolutionary mechanisms that are involved in diversification, distribution patterns, and adaptation. JP is interested in using empirical and simulated genomic datasets to model, describe and investigate changes in diversity at population and species level, also focussing in phylogeography and biogeography. As part of the James lab, JP uses molecular, bioinformatic, and simulation tools to examine the spatial and temporal eco-evolutionary consequences of cyclic irruptive population dynamics at genetic diversity and structure, and how data can inform on demographic changes in populations. When not in the lab, JP spends his time between hanging out with his son, enjoying a nice espresso and/or beer, and zipping around on his bike (when not feeding his fluffy cat). 
 
 JP’s research is funded by a CANSSI / Ontario Genomics Postdoctoral Fellowship in Genome Data Science
 
@@ -38,7 +38,58 @@ JP’s research is funded by a CANSSI / Ontario Genomics Postdoctoral Fellowship
 
 ## Role in the lab
 
-JP is currently investigating the effects of demographic changes related to irruptive cyclic outbreaks on genetic composition, structure and diversity at the genomic level using individual-based computer models and empirical datasets.
+JP is currently investigating the effects of demographic changes related to irruptive cyclic outbreaks on genetic composition, structure and diversity at the genomic level using individual-based computer models and empirical datasets. By combining simulation models and empirical data, JP's research aims to document how different demographic patterns of cyclic outbreaks affect our ability to identify the temporal context of outbreaks using a combination of genetic inference methods.
 
 ## Publications
 
+### In review
+
+**Fontenelle, JP**; Larroque, J; Legault, S; Wittische, J; Underwood, JAR; James, PMA. Multi-year genotype characterization of eastern spruce budworm outbreaking populations from Quebec and adjacent regions. _Submitted to Ecology_.
+
+Magnuson, A.; Dean, M. N.; Weaver, J.; **Fontenelle, J. P.**; Lovejoy, N. R.; Kolmann, M. A. Independent transitions to freshwater environments promote phenotypic divergence, not convergence, in stingrays. _Submitted to Integrative and Comparative Biology_.
+
+### In Prep
+
+**Fontenelle, J. P.**; Marques, F. P. L; Lujan, N. K.; Lovejoy, N. R. Phylogenomics of the Neotropical freshwater stingrays reveal lineage introgression and diversification under gene-flow in Amazon basin rivers. _In preparation for Systematic Biology_.
+
+**Fontenelle, J. P.**; Crampton, W.; Lovejoy, N. R. Diversity, genetic structure and distribution of the weakly electric fish genus Steatogenys (Gymnotiformes: Hypopomidae) is influenced by environment and river topology. _In preparation for Molecular Phylogenetics and Evolution_.
+
+Marques, F. P. L.; **Fontenelle, J. P.**; Lovejoy, N. R. Phylogenomics and population structure of Paratrygon (Myliobatiformes: Potamotrygoninae) support morphology-based diversity hypothesis. _In preparation for Systematic Biology_.
+
+**Fontenelle, J. P.**; James, P. A. Population range expansion and false discovery rates of neutral alleles: it is a matter of time. _In preparation for Proceedings of the National Academy of Sciences of the United States of America_.
+
+**Fontenelle, J. P.**; James, P. A; Sensitivity of landscape genomic outlier detection methods to demographic context and sampling quality in an outbreaking system. _In preparation for Molecular Ecology_.
+
+### Published
+
+16). Perez, T. J., **Fontenelle, J. P.**, Kolmann, M. A., Angulo, A., López-Fernández, H., & Lovejoy, N. R. (2023). Comparing Approaches to Specimen Identification using Neotropical Freshwater Fishes in the Barra del Colorado Wildlife Refuge, Costa Rica. _bioRxiv_, 2023-10.
+
+15). de Brito, V.; Betancur-R, R.; Burns, M. D., Buser; T. J.; Conway, K. W.; **Fontenelle, J. P.**; Kolmann, M. A.; McCraney, W. T.; Thacker, J. P.;Bloom, D. D. (2023). Species interactions and niche conservatism limit phenotypic diversification following marine/freshwater transitions in fishes. _INTEGRATIVE AND COMPARATIVE BIOLOGY_.
+
+14). Elbassiouny, A. A., **Fontenelle, J. P.**, Kocovsky, P. M., Mandrak, N. E., Lovejoy, N. R. (2023). Genetic structure of the Silver Chub indicates distinctiveness of Lake Erie population. _North American Journal of Fisheries Management_. [DOI](https://doi.org/10.1002/nafm.10888)
+
+13). Taphorn, D. C., Liverpool, E., Lujan, N. K., DoNascimiento, C., Hemraj, D. D., Crampton, W. G. R., Kolmann, M. A., **Fontenelle, J. P.**, de Souza, L. S., Werneke, D. C., Ram, M., Bloom, D. D., Sidlauskas, B. L., Holm, E., Lundberg, J. G., Sabaj, M. H., Bernard, C., López-Fernández, H., Armbruster, J. W. (2022). Annotated checklist of the primarily freshwater fishes of Guyana. _Proceedings of the Academy of Natural Sciences of Philadelphia_, 168(1), 1-95. [DOI](https://doi.org/10.1635/053.168.0101)
+
+12). de Brito, V.; Betancur-R, R.; Burns, M. D.; Buser, T. J.; Conway, K.; **Fontenelle, J. P.**; Kolmann, M. A.; McCraney, W. T.; Thacker, J. P.; Bloom, D.D. (2022). Patterns of Phenotypic Evolution Associated with Marine/Freshwater Transitions in Fishes. _Integrative and Comparative Biology_. [DOI](https://doi.org/10.1093/icb/icac085).
+
+11). Kolmann, M. K., Marques, F. P. L., Weaver, J., Dean, M. N., **Fontenelle, J. P.**, Lovejoy, N. R. (2022). Ecological and Phenotypic Diversification After A Continental Invasion in Neotropical Freshwater Stingrays. Integrative and Comparative Biology. [DOI](https://doi.org/10.1093/icb/icac019).
+
+10). Frable, B. W., Melo, B. F., **Fontenelle, J. P.**, Oliveira, C., Sidlauskas, B. L. (2022). Biogeographic reconstruction of the migratory Neotropical fish family Prochilodontidae (Teleostei: Characiformes). _Zoologica Scripta_ 51.3 (2022): 348-364. [DOI](https://doi.org/10.1111/zsc.12531)
+
+9). **Fontenelle, J. P.**, Lovejoy, N. R, Kolmann, M. A., Marques, F. P. L. (2021). Molecular phylogeny for the Neotropical Freshwater Stingrays (Myliobatiformes: Potamotrygoninae) reveals limitations fo traditional taxonomy. _The Biological Journal of the Linnean Society_. [DOI](https://doi.org/10.1093/biolinnean/blab090)
+
+8). Albert, J. S., Bernt, M. J., Fronk, A. H., **Fontenelle, J. P.**, Kuznar, S. L., Lovejoy, N. R. (2021). Neogene megariver captures and the Great Amazonian Biotic Interchange. _Global Planetary Change_. [DOI](https://doi.org/10.1016/j.gloplacha.2021.103554)
+
+7). **Fontenelle, J. P.**, Marques, F. P. L., Kolmann, M. A., Lovejoy, N. R. (2021). Biogeography of the Neotropical freshwater stingrays (Myliobatiformes: Potamotrygoninae) reveals the effects of continent-scale paleogeography and drainage evolution. _Journal of Biogeography_. [DOI](https://doi.org/10.1111/jbi.14086)
+
+6). Hauser, F. E., **Fontenelle, J. P.**, Elbassiouny, A. A., Mandrak, N. E. and Lovejoy, N. R. (2019). Genetic structure of endangered lake chubsucker _Erimyzon sucetta_ in Canada reveals a differentiated population in a precarious habitat. _Journal of Fish Biology_. [DOI](10.1111/jfb.14155)doi:10.1111/jfb.14155
+
+5). Calegari, B. B., **Fontenelle, J. P.** (2018). Geographic distribution maps tutorial. Part II – Hypsometric Map. _Boletim da Sociedade Brasileira de Ictiologia_ No 124. P. 14 – 34.
+
+4). **Fontenelle, J. P.**, Loboda, T. S., Kolmann, M., Carvalho, M. R. (2017). Angular cartilage variation and structure among Neotropical freshwater stingrays (Chondrichthyes: Myliobatiformes: Potamotrygonidae), with comments on function and evolution. _Zoological Journal of the Linnean Society_. P. 1 – 22. 
+
+3). **Fontenelle, J. P.**, Carvalho, M. R. (2017). Systematic revision of the _Potamotrygon scobina_ Garman, 1913 species-complex (Chondrichthyes: Myliobatiformes: Potamotrygonidae), with the description of three new freshwater stingray species from Brazil and comments on their distribution and biogeography. _Zootaxa_ 4310 (1) P. 1 - 63.
+
+2). **Fontenelle, J. P.**, Carvalho, M. R. (2016). Systematic implications of brain morphology in Potamotrygonidae (Chondrichthyes: Myliobatiformes). _Journal of Morphology_ 277 (2) P. 252 – 263.
+
+1). **Fontenelle, J. P.**, Silva, J. P. C. B., Carvalho, M. R. (2014). _Potamotrygon limai_, sp. nov. a new species of freshwater stingray from the upper Madeira River system, Amazon basin (Chondrichthyes: Myliobatiformes: Potamotrygonidae). _Zootaxa_ (3), P. 249 – 268.

@@ -3,7 +3,7 @@ title: "Patrick James"
 #sortby: "Last, First"
 subtitle: "Lab PI"
 image: /images/people/patrickjames/PJ3.jpg
-started: "A long long time ago... "
+started: "A long long time ago..."
 #ended: "Current or Season Year"
 toc: false
 about:
@@ -14,6 +14,9 @@ about:
   #  href: https://github.com/yourgithub
   - text: Email
     href: mailto:patrick.james@utoronto.ca
+  - text: Google Scholar
+    href: https://scholar.google.ca/citations?user=1NjclyMAAAAJ&hl=en
+  
 ---
 
 ::: {#person-profile}
@@ -22,7 +25,12 @@ about:
 
 Patrick completed his BSc and PhD from the University of Toronto and undertook a post-doc at the University of Alberta. After several years working at the Univeriste de Montreal, he returned Daniels Forestry at the UofT. His varied research interests include interactions among forest disturbances, insect outbreaks, wildfire, spatial genetic consequences of outbreaking populations, landscape genetics, and community ecology. When not in the office Patrick can be found making PB&J sandwiches for his two daughters or checking Strava for PRs on his most recent bike ride.
 
-## Education
+## Academic History
 
--   **University of Toronto - Forestry**<br /> Ph.D.
--   **University of Toronto - Zoology**<br /> B.Sc    
+-   Associate Prof.  U of T - Daniels Forestry. 2019 - present
+-   Associate Prof.  UdeM - Sciences biologiques 2016 - 2019
+-   Assistant Prof.  UdeM - Sciences biologiques. 2011 - 2016
+-   Killam Post-Doc.  U of A - Biological Sciences. 2009 - 2011
+-   Ph.D.  U of T - Forestry.  2009
+-   B.Sc.  U of T  - Zoology. 2002
+
