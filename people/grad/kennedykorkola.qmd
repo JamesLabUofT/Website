@@ -1,0 +1,28 @@
+---
+title: "Kennedy Korkola"
+sortby: "Korkola, Kennedy"
+subtitle: "PhD Student"
+image: /images/people/kennedykorkola/headshot_KK.jpg
+started: "2020"
+ended: "Present"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  links:
+  #- text: GitHub
+  #  href: https://github.com/yourgithub
+  - text: Email
+    href: mailto:kennedy.korkola@mail.utoronto.ca
+---
+
+::: {#person-profile}
+:::
+
+## Biography
+
+Kennedy completed her BSc in Ecology and Evolutionary Biology and Human Biology at the University of Toronto. She has experience as a Fire Ranger in Northwestern Ontario which provides her with practical knowledge on fire behaviour and management in Ontario. Her PhD investigates the structural fuel changes following a spruce budworm outbreak and how these changes affect wildfire behaviour.
+
+## Education
+
+-   **University of Toronto**<br /> B.Sc 2016-2020
