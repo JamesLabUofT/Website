@@ -2,7 +2,7 @@
 title: "Emily Jones"
 sortby: "Jones, Emily"
 subtitle: "Graduate Research Assistant"
-image: images/people/emilyjones/emilyjones.jpeg
+image: /images/people/emilyjones/emilyjones.jpeg
 started: "2023"
 ended: "Present"
 toc: false
