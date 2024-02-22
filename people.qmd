@@ -12,7 +12,7 @@ listing:
     contents: "people/supervisor/*.qmd"
     type: grid
     image-height: 225px
-    grid-columns: 1
+    grid-columns: 2
     fields: [image, title, subtitle]
     grid-item-align: center
     sort: sortby

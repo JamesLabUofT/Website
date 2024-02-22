@@ -23,6 +23,9 @@ about:
 
 Kennedy completed her BSc in Ecology and Evolutionary Biology and Human Biology at the University of Toronto. She has experience as a Fire Ranger in Northwestern Ontario which provides her with practical knowledge on fire behaviour and management in Ontario. Her PhD investigates the structural fuel changes following a spruce budworm outbreak and how these changes affect wildfire behaviour.
 
+## Role in the lab
+Kennedy uses various machine learning and statistical modelling techniques to better understand how insect-altered fuels affect initial attack success and area burned in Ontario. She also leads field work in Northern Ontario in SBW and JPBW affected stands to better quantify these structural fuel changes with terrestrial LiDAR.
+
 ## Education
 
 -   **University of Toronto**<br /> B.Sc 2016-2020
@@ -40,3 +43,7 @@ Kennedy completed her BSc in Ecology and Evolutionary Biology and Human Biology 
 -   Korkola, K., Beverly, J., James, P. M. A. (June 23, 2022) Disturbance interactions in the boreal forest: the impacts of spruce budworm defoliation on fire suppression effectiveness. Oral presentation to the North American Forest Ecology Workshop (NAFEW; International). Sault St. Marie, ON. Presented as part of doctoral thesis. 
 
 -   Korkola, K., Beverly, J., James, P. M. A. (November 24, 2021) Influence of spruce budworm defoliation on fire escape probability in Ontario. Oral presentation to the Canada Wildfire NSERC Strategic Network (National). Presented as part of doctoral thesis. 
+
+## Gallery 
+![Field work](/images/people/kennedykorkola/lidar_kk_field.jpg)
+![FireRanger](/images/people/kennedykorkola/fire_kk_omnr.jpg)

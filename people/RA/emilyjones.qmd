@@ -1,19 +1,19 @@
 ---
 title: "Emily Jones"
 sortby: "Jones, Emily"
-subtitle: "Research Assistant"
-image: emilyjones.jpg
+subtitle: "Graduate Research Assistant"
+image: /images/people/emilyjones/emilyjones.jpeg
 started: "2023"
 ended: "Present"
 toc: false
 about:
   id: person-profile
   template: jolla
-  #links:
+  links:
   #- text: GitHub
   #  href: https://github.com/yourgithub
-  #- text: Email
-  #  href: mailto:youremail@utoronto.ca
+  - text: Email
+    href: mailto:emily.g.jones1999@gmail.com
 ---
 
 ::: {#person-profile}
@@ -26,4 +26,7 @@ Emily is a conservation biologist and holds and MSc in conservation and biodiver
 
 -   **University of Exeter**<br /> MSc Conservation and Biodiversity (2021-2022)
 -   **University of St Andrews**<br /> BSc (Hons) Zoology (2017-2021)
+
+## Publications
+### In Prep
 ---
