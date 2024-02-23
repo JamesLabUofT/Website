@@ -1,7 +1,7 @@
 ---
 title: "Jessica Underwood"
 sortby: "Underwood, Jessica"
-subtitle: "Undergrad"
+subtitle: "Undergraduate Student"
 image: /images/people/JessicaUnderwood/JessicaUnderwood.jpg
 started: "Summer 2023"
 ended: "Current"
@@ -15,6 +15,8 @@ about:
 ---
 
 ::: {#person-profile}
+
+:::
 ## Biography
 
 Jessica is in her 5th year of undergraduate studies at the University of Toronto. She is pursuing a double major in Ecology and Evolutionary Biology and Biodiversity and Conservation Major with a minor in Psychology. In the James lab, she has assisted in the summer community outreach project trapping Spongy Moths across Ontario. Currently, she is working on a senior thesis regarding effective population estimates of Spruce Budworms.
@@ -30,4 +32,3 @@ Jessica is in her 5th year of undergraduate studies at the University of Toronto
 ### In Review
 
 Fontenelle, JP; Larroque, J; Legault, S; Wittische, J; **Underwood, JAR**; James, PMA. Multi-year genotype characterization of eastern spruce budworm outbreaking populations from Quebec and adjacent regions. _Submitted to Ecology_.
-:::

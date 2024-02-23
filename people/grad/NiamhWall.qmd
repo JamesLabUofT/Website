@@ -1,6 +1,6 @@
 ---
 title: "Niamh Wall"
-sortby: "Last, First"
+sortby: "Wall, Niamh"
 subtitle: "PhD Candidate"
 image: "/images/people/NiamhWall/niamhwall_bltu.JPG" 
 started: "Fall 2019"
@@ -9,11 +9,11 @@ toc: false
 about:
   id: person-profile
   template: jolla
-  #links:
-  #- text: GitHub
-  #  href: https://github.com/yourgithub
-  #- text: Email
-  #  href: niamh.wall@mail.utoronto.ca
+  links:
+  - text: GitHub
+    href: https://github.com/niamhmwall
+  - text: Email
+    href: niamh.wall@mail.utoronto.ca
 ---
 
 ::: {#person-profile}
