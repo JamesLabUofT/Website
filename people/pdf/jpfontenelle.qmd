@@ -46,7 +46,9 @@ JP is currently investigating the effects of demographic changes related to irru
 
 **Fontenelle, JP**; Larroque, J; Legault, S; Wittische, J; Underwood, JAR; James, PMA. Multi-year genotype characterization of eastern spruce budworm outbreaking populations from Quebec and adjacent regions. _Submitted to Ecology_.
 
-Magnuson, A.; Dean, M. N.; Weaver, J.; **Fontenelle, J. P.**; Lovejoy, N. R.; Kolmann, M. A. Independent transitions to freshwater environments promote phenotypic divergence, not convergence, in stingrays. _Submitted to Integrative and Comparative Biology_.
+Magnuson, A.D.; Dean, M.N.; Weaver, J.; **Fontenelle, J.P.**; Lovejoy, N.R.; Kolmann, M.A. Ecological and phenotypic diversification after a continental invasion in Neotropical freshwater stingrays. _Submitted to Integrative & Comparative Biology_.
+
+::: {.content-hidden}
 
 ### In Prep
 
@@ -59,6 +61,8 @@ Marques, F. P. L.; **Fontenelle, J. P.**; Lovejoy, N. R. Phylogenomics and popul
 **Fontenelle, J. P.**; James, P. A. Population range expansion and false discovery rates of neutral alleles: it is a matter of time. _In preparation for Proceedings of the National Academy of Sciences of the United States of America_.
 
 **Fontenelle, J. P.**; James, P. A; Sensitivity of landscape genomic outlier detection methods to demographic context and sampling quality in an outbreaking system. _In preparation for Molecular Ecology_.
+
+:::
 
 ### Published
 
