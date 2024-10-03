@@ -10,6 +10,8 @@ about:
   id: person-profile
   template: jolla
   #links:
+  #- text: Google Scholar
+  #  href: https://scholar.google.com/citations?user=yAjMRuoAAAAJ&hl=en  
   #- text: GitHub
   #  href: https://github.com/yourgithub
   #- text: Email
@@ -25,10 +27,30 @@ Throughout my career spanning from 2006 to 2018, I have had the privilege of wor
 
 ## Education
 
--   **University Tehran**<br /> Ph.D.
+-   **University of Tehran**<br /> Doctor of Philosophy : Forest Ecology (2008-2012)
+-   **University of Tehran**<br /> Master of Science : Forest Ecology (2005-2007)
+-   **University of Kurdistan**<br /> B.Sc. : Forestry (2000-2005)
+
 
 ## Role in the lab
 
-As a member of the James lab, I am dedicated to investigating the impacts of climate change on disturbance regimes within boreal forests. I am particularly fascinated by the resilience of boreal vegetation and its ability to adapt to the ever-evolving environmental challenges.
+ZS is investigating the impacts of climate change on disturbance regimes within boreal forests. He is particularly fascinated by the resilience of boreal vegetation and its ability to adapt to the ever-evolving environmental challenges. In his current project, he investigates how jack pine budworm outbreak impacts fuel and stand dynamics in Ontario's boreal forests. 
 
 ## Publications
+### In review
+Danneyrolles, V., Chavardès, R.D., Girardin, M.P., Ali, A.A., Arseneault, D., Asselin, H., Bélisle, A.C., Boucher, Y., Cyr, D., Drobyshev, I., Erni, S., Gaboriau, D.M., Gauthier, S., Gennaretti, F., Johnson, E.A., Larsen, C.P.S., Leduc, A., Parisien, M.A., Portier, J., **Shakeri, Z.**, Wallenius, T.H. & Y. Bergeron. Contextualizing the 2023 Canadian boreal fire season within the past two centuries: decadal burn rates still within historical variability. _Canadian Journal of Forest Research_
+
+Keybondori, S., Abdi, E., Deljouei, A., Cislaghi, A., **Shakeri, Z.** & Etemad, V. Stabilizing Gravel Roadside Slopes in Northern Iran's Steep Forests: A Bioengineering Approach Utilizing Forest Understory. _Ecological Engineering_ 
+
+### In preparation 
+**Shakeri, Z.** & James P. Post-defoliation fuel dynamics following jack pine budworm outbreaks in Ontario boreal forests. _In preparation for CJFS_.
+
+**Shakeri, Z.**, Arseneault, D. & Simard M. Is self-resistance strong enough to protect boreal forest from very short-interval wildfires? _In preparation for Environmental Research Letters_.
+
+**Shakeri, Z.**, Arseneault, D., Simard, M., Sirois, L. & Parisien M.A. Historical relationships between global synoptic meteorological patterns and fire activity in the Northeastern Canadian taiga forest. _In preparation for Frontiers in Forests and Global Change_.
+	
+**Shakeri, Z.**, Arseneault, D. & Simard M. Multi-scale resistance of fire refugia to high burn rates in the North American boreal forests. _In preparation for Global Change Biology_.
+	
+Vakili, M., **Shakeri, Z.**, Motahary, S., Farahani, M. & Scheller R. Climate change overwhelms Hyrcanian forests' resilience. _In preparation for Forests_.
+ 
+
