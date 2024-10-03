@@ -11,7 +11,9 @@ about:
   - text: GitHub
     href: https://github.com/niamhmwall
   - text: Email
-    href: niamh.wall@mail.utoronto.ca
+    href: mailto:niamh.wall@mail.utoronto.ca
+  - text: LinkedIn
+    href: https://www.linkedin.com/in/niamh-wall/
   id: person-profile
   template: jolla    
     
