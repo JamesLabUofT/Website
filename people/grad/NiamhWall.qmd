@@ -7,20 +7,21 @@ started: "Fall 2019"
 ended: "Present"
 toc: false
 about:
-  id: person-profile
-  template: jolla
   links:
   - text: GitHub
     href: https://github.com/niamhmwall
   - text: Email
     href: niamh.wall@mail.utoronto.ca
+  id: person-profile
+  template: jolla    
+    
 ---
 
 ::: {#person-profile}
 :::
 ## Biography
 
-I am an ecologist interested in the influences determining the extinction or persistence of threatened species with a focus on the influence of habitat loss on the genetics of long-lived species. My PhD research focuses on the landscape and genetic connectivity of turtle populations in southern Ontario, Canada. I am particularly attracted to the challenge of linking ecological research to on-the-ground conservation. 
+I am a landscape ecologist and landscape genetics enthusiast. I am currently a PhD student in the James lab and Fortin lab at the University of Toronto. My PhD research focuses on the landscape and genetic connectivity of turtle populations in southern Ontario, Canada. I spend a lot of time thinking about how ecological research can be linked to on-the-ground conservation. 
 
 ## Education
 

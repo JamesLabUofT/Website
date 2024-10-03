@@ -14,6 +14,8 @@ about:
     href: https://scholar.google.ca/citations?user=oVtKbp0AAAAJ&hl=en
   - text: GitHub
     href: https://github.com/jpfontenelle
+  - text: LinkedIn
+    href: https://www.linkedin.com/in/jpfontenelle/
   - text: Email
     href: mailto:jp.fontenelle@utoronto.ca
   id: person-profile
@@ -27,6 +29,8 @@ about:
 ## Biography
 
 JP has a BSc in biological sciences and a MSc in zoology from the Universidade de São Paulo (USP), Brazil, and a PhD in Environmental Sciences from the University of Toronto, Canada. JP´s overall research focus on the ecological and evolutionary mechanisms that are involved in diversification, distribution patterns, and adaptation. JP is interested in using empirical and simulated genomic datasets to model, describe and investigate changes in diversity at population and species level, also focussing in phylogeography and biogeography. As part of the James lab, JP uses molecular, bioinformatic, and simulation tools to examine the spatial and temporal eco-evolutionary consequences of cyclic irruptive population dynamics at genetic diversity and structure, and how data can inform on demographic changes in populations. When not in the lab, JP spends his time between hanging out with his son, enjoying a nice espresso and/or beer, and zipping around on his bike (when not feeding his fluffy cat). 
+
+Currently, JP is a Visiting Scholar at Museu Paraense Emilio Goeldi (Brazil)
 
 JP’s research is funded by a CANSSI / Ontario Genomics Postdoctoral Fellowship in Genome Data Science
 
@@ -44,9 +48,12 @@ JP is currently investigating the effects of demographic changes related to irru
 
 ### In review
 
-**Fontenelle, JP**; Larroque, J; Legault, S; Wittische, J; Underwood, JAR; James, PMA. Multi-year genotype characterization of eastern spruce budworm outbreaking populations from Quebec and adjacent regions. _Submitted to Ecology_.
+Charvet, P., **Fontenelle, J. P.**, Rincón, G., Rosa, R. S., de Araújo, M. L. G., Prang, G., Torres, Y. (all authors made an equal
+contribution to this chapter). River Jewels. IUCN Red List – IUCN SSC Shark Specialist Group.
 
-Magnuson, A.D.; Dean, M.N.; Weaver, J.; **Fontenelle, J.P.**; Lovejoy, N.R.; Kolmann, M.A. Ecological and phenotypic diversification after a continental invasion in Neotropical freshwater stingrays. _Submitted to Integrative & Comparative Biology_.
+### Accepted for Publication
+
+**Fontenelle, JP**; Larroque, J; Legault, S; Wittische, J; Underwood, JAR; James, PMA. Multi-year genotype characterization of eastern spruce budworm outbreaking populations from Quebec and adjacent regions. _Ecology_.
 
 ::: {.content-hidden}
 
@@ -65,6 +72,8 @@ Marques, F. P. L.; **Fontenelle, J. P.**; Lovejoy, N. R. Phylogenomics and popul
 :::
 
 ### Published
+
+17). Magnuson, A.D.; Dean, M.N.; Weaver, J.; **Fontenelle, J.P.**; Lovejoy, N.R.; Kolmann, M.A. (2024) Ecological and phenotypic diversification after a continental invasion in Neotropical freshwater stingrays.Integrative and Comparative Biology, icae023.
 
 16). Perez, T. J., **Fontenelle, J. P.**, Kolmann, M. A., Angulo, A., López-Fernández, H., & Lovejoy, N. R. (2023). Comparing Approaches to Specimen Identification using Neotropical Freshwater Fishes in the Barra del Colorado Wildlife Refuge, Costa Rica. _bioRxiv_, 2023-10.
 
@@ -97,3 +106,26 @@ Marques, F. P. L.; **Fontenelle, J. P.**; Lovejoy, N. R. Phylogenomics and popul
 2). **Fontenelle, J. P.**, Carvalho, M. R. (2016). Systematic implications of brain morphology in Potamotrygonidae (Chondrichthyes: Myliobatiformes). _Journal of Morphology_ 277 (2) P. 252 – 263.
 
 1). **Fontenelle, J. P.**, Silva, J. P. C. B., Carvalho, M. R. (2014). _Potamotrygon limai_, sp. nov. a new species of freshwater stingray from the upper Madeira River system, Amazon basin (Chondrichthyes: Myliobatiformes: Potamotrygonidae). _Zootaxa_ (3), P. 249 – 268.
+
+### Fundings and Awards
+
+- Ontario Genomics / CANSSI Ontario Postdoctoral Fellowship in Genome Data Science
+- International PhD Scholarship (CNPq)
+- International Research Award (FAPESP)
+- Masters in Science Scholarship (FAPESP)
+- Undergraduate Research Scholarship (FAPESP)
+- Top Cited Article - Journal of Biogeography (WILEY)
+- Graduate Student Research Award (UTSC)
+- Edward C. Raney Fund Award (ASIH)
+- Best Student Paper Award (NIA)
+- Best Student Oral Presentation Award (3rd place) (ISPCNF)
+- T-Holder's Academic Excellence Award (UofT)
+
+### Society Memberships
+
+- Society for the Study of Evolution (SSE)
+- Canadian Society of Ecology and Evolution (CSEE)
+- Ecological Society of America (ESA)
+- American Society of Ichthyology and Herpetology (ASIH)
+- Sociedade Brasileira de Ictiologia (SBI)
+- Neotropical Ichthyology Association (NIA)

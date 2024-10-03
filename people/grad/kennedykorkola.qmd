@@ -1,7 +1,7 @@
 ---
 title: "Kennedy Korkola"
 sortby: "Korkola, Kennedy"
-subtitle: "PhD Student"
+subtitle: "PhD Candidate"
 image: /images/people/kennedykorkola/headshot_KK.jpg
 started: "2020"
 ended: "Present"
@@ -14,6 +14,10 @@ about:
   #  href: https://github.com/yourgithub
   - text: Email
     href: mailto:kennedy.korkola@mail.utoronto.ca
+  - text: LinkedIn
+    href: https://www.linkedin.com/in/kennedy-korkola-6a21381b8/
+  - text: Wildfire Analytics Lab
+    href: https://wildfireanalytics.org/index.html
 ---
 
 ::: {#person-profile}
@@ -28,11 +32,18 @@ Kennedy uses various machine learning and statistical modelling techniques to be
 
 ## Education
 
--   **University of Toronto**<br /> B.Sc 2016-2020
+-   **University of Toronto**<br /> B.Sc. 2016-2020
+-   **University of Toronto**<br /> Ph.D. 2020-present
 
 ## Publications
 
+Korkola, K., Wheatley, M., Beverly, J., James, P. M. A. (2024). A comparative analysis of wildfire initial attack objectives and modelling strategies in Ontario, Canada. International Journal of Wildland Fire. 
+
 ## Conferences
+
+-   Korkola, K., Beverly, J., James, P. M. A. (April 16, 2024). Quantifying the influence of spruce budworm on fuel structure through time using terrestrial LiDAR. Oral presentation at the Fuels and Fire Behaviour Conference (International). Boise, Idaho. Presented as part of doctoral thesis. 
+
+-   Korkola, K., Beverly, J., James, P. M. A. (February 28, 2024). The effects of eastern spruce budworm defoliation on models of forest fire containment in Ontario. Oral presentation for CIFFC Students of Fire National Conversations. Presented as part of doctoral thesis. 
 
 -   Korkola, K., James, P. M. A. (October 25, 2023) The impacts of spruce budworm defoliation on wildfire behaviour. Oral presentation at Forest Health Review. Orillia, ON. Presented as part of doctoral thesis.
 
@@ -46,4 +57,7 @@ Kennedy uses various machine learning and statistical modelling techniques to be
 
 ## Gallery 
 ![Field work](/images/people/kennedykorkola/lidar_kk_field.jpg)
+Field work in northern Ontario using terrestrial LiDAR to measure fuel changes following eastern spruce budworm defoliation.
+
 ![FireRanger](/images/people/kennedykorkola/fire_kk_omnr.jpg)
+Fighting fires in Dryden, Ontario. 

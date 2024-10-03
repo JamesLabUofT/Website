@@ -59,12 +59,14 @@ listing:
       started: "Started"
     grid-item-align: center
   - id: alumni
-    contents: "people/alumni/*.qmd"
+    contents: 
+    - "people/alumni/*.qmd"
+    - "people/alumni/alumni.yml"
     type: table
     sort: sortby
-    fields: [title, subtitle, started, ended]
-    sort-ui: [title, subtitle, started, ended]
-    filter-ui: [title, subtitle, started, ended]
+    fields: [title, subtitle, ended]
+    sort-ui: [title, subtitle, ended]
+    filter-ui: [title, subtitle, ended]
     field-display-names: 
       title: "Name"
       subtitle: "Role"
@@ -98,7 +100,7 @@ listing:
 :::{#undergrad}
 :::
 
-## Alumni
+## Gone but not forgotten: Lab Alumnis
 
 :::{#alumni}
 :::
