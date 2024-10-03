@@ -13,7 +13,7 @@ about:
   #- text: GitHub
   #  href: https://github.com/sophia-romualdi
   #- text: Email
-  #  href: sophia.romualdi@mail.utoronto.ca
+    href: sophia.romualdi@mail.utoronto.ca
 ---
 
 ::: {#person-profile}
