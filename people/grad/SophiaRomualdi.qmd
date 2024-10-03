@@ -2,7 +2,7 @@
 title: "Sophia Romualdi"
 sortby: "Romualdi, Sophia"
 subtitle: "MScF"
-image: : /images/people/SophiaRomualdi/SBW.jpg
+image: : /images/people/SophiaRomualdi/SR_webiste_photo.jpg
 started: "Fall 2024"
 ended: "Current"
 toc: false
@@ -25,7 +25,7 @@ Sophia has a BSc from the University of Toronto in Ecology and Evolutionary Biol
 ## Education
 
 -   **University of Toronto**<br /> Undergraduate degree: Double major in Ecology and Evolutionary Biology, and Environmental Biology 
- **University of Toronto**<br /> MScF. 2024-now
+ **University of Toronto**<br /> MScF. 2024-Present
 
 ## Confernces 
 
