@@ -12,8 +12,8 @@ about:
   links:
   - text: Google Scholar
     href: https://scholar.google.com/citations?user=yAjMRuoAAAAJ&hl=en  
-  #- text: GitHub
-  #  href: https://github.com/yourgithub
+  - text: GitHub
+    href: https://github.com/ZackShak/Personal-Website
   - text: Email
     href: mailto:z.shakeri@utoronto.ca
 ---
