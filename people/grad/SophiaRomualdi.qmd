@@ -9,10 +9,10 @@ toc: false
 about:
   id: person-profile
   template: jolla
-  #links:
+  links:
   #- text: GitHub
   #  href: https://github.com/sophia-romualdi
-  #- text: Email
+  - text: Email
     href: sophia.romualdi@mail.utoronto.ca
 ---
 
