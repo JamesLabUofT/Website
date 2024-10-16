@@ -23,12 +23,20 @@ about:
 :::
 ## Biography
 
-I am a landscape ecologist and landscape genetics enthusiast. I am currently a PhD student in the James lab and Fortin lab at the University of Toronto. My PhD research focuses on the landscape and genetic connectivity of turtle populations in southern Ontario, Canada. I spend a lot of time thinking about how ecological research can be linked to on-the-ground conservation. 
+I am a landscape ecologist in training and landscape genetics enthusiast. I am currently a PhD student in the James lab and Fortin lab at the University of Toronto's Institute of Forestry and Conservation. My PhD research focuses on the landscape and genetic connectivity of freshwater turtle populations in southern Ontario, Canada. I spend a lot of time thinking about how ecological research can be linked to on-the-ground conservation. 
 
 ## Education
 
 -   **University of Toronto**<br /> Masters of Forest Conservation
 -   **University of Guelph**<br /> Bachelors of Environmental Management
+
+## Publications
+
+### In review
+
+Davy, Christina M., Newton, Erica, **Wall, Niamh M., Murphy, Robert W.
+Comparative spatial genetics of three at-risk freshwater turtles near their northern
+range limits. _Submitted to Animal Conservation_ 
 
 ## Conference Presentations
 
