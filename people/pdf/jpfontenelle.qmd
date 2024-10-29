@@ -55,6 +55,8 @@ contribution to this chapter). River Jewels. IUCN Red List – IUCN SSC Shark Sp
 
 **Fontenelle, JP**; Larroque, J; Legault, S; Wittische, J; Underwood, JAR; James, PMA. Multi-year genotype characterization of eastern spruce budworm outbreaking populations from Quebec and adjacent regions. _Ecology_.
 
+Albert, J., Abrahão, V., Akin, D., Allen, J., Andrade, M., Arce, M., Armbruster, J., Benine, R., Bernt, M., Bichuette, M., Birindelli, J., Bragança, P., Britto, M., Buckup, P., Burns, M., Calegari, B., Carvalho, T., Casatti, L., Costa, W., Crampton, W., Dagosta, F., Egan, J., Fernández, L., Figueiredo, J., Fitzgerald, D., **Fontenelle, J. P.**, Haddad, E., Kolmann, M., Langeani, F., Lehmann, P., Leitão, R. P., Loeb, M., Lucena, C., Lucinda, P., Lujan, N., Malabarba, L., Matamoros, W., Melo, B., Netto-Ferreira, A., Pavanelli, C., Pelicice, F., Pereira, E., Plasencia, X., Ramos, R., Rocha, M., Roxo, F., Sant'Anna, V., Shibatta, O., Silva, R., Slobodian, V., Stange, M., Tagliacollo, V., Tan, M., Torgersen, K., Winemiller, K., Reis, R. 2024. An Ecological Trait Matrix of Neotropical Freshwater Fishes. _Nature Scientific Data_.
+
 ::: {.content-hidden}
 
 ### In Prep

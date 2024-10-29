@@ -2,7 +2,7 @@
 title: "Sophia Romualdi"
 sortby: "Romualdi, Sophia"
 subtitle: "MScF"
-image: : /images/people/SophiaRomualdi/SR_webiste_photo.jpg
+image: /images/people/SophiaRomualdi/SR_webiste_photo.jpg
 started: "Fall 2024"
 ended: "Current"
 toc: false
