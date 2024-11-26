@@ -1,10 +1,195 @@
 
-- description: JP was awarded a Postdoctoral Fellowship in Genome Data Science from Ontario Genomics and CANSSI Ontario (OG-CO)! 
+- description: JP was awarded a Postdoctoral Fellowship in Genome Data Science from Ontario Genomics and CANSSI Ontario (OG-CO)!JP will lead a project to investigate the implications of cyclic population demo-genetic dynamics in genetic variation over time using individual-based simulation models, coalescent analyses and empirical datasets. This study is a collaborative study with the Cullingham lab at Carleton University.
   link: https://canssiontario.utoronto.ca/fellowship-in-genome-data-science-fontenelle/news/
+ # image: /images/news/JP_award_2023.png
   date: April 2023
+- description: 
+  date: April 2023
+- description: Clara, Jack and Niamh attend IALE-NA in Riverside, California!
+  date: March 2023
+- description: We say goodbye and good luck to Sophie, as she leaves us for her job as an Assistant Professor at Simon Frasier University! All the best!
+  date: March 2023
+ # image: images/news/SW_dinner.jpg
+  
 - description: Doriana was awarded a Master’s NSERC! Congratulations Doriana!!
   date: January 2023
 - description: Léo goes from undergraduate research assistant to MScF student.
   date: September 2023
 - description: Kate Brittain and Zack Shakeri join the lab as Post Doctoral Fellows!
   date: January 2024
+- description: New paper on outbreaks!
+  link: https://doi.org/10.1016/j.cois.2023.101005
+  date: February 2023
+- description: JP's article on the biogeography of the Neotropical freshwater stingrays has been recognized as a Top Cited Article in Journal of Biogeography for the 2021-2022 period!
+  link: https://onlinelibrary.wiley.com/doi/full/10.1111/jbi.14086
+  date: February 2023
+- description: Clara attends the SERG-International conference in Victoria, BC!
+  date: February 2023
+- description: Doriana was awarded a Master’s NSERC! Congratulations Doriana!!
+  date: January 2023
+- description: Jack publishes in Forests.
+  link: https://doi.org/10.3390/f13050738 
+  date: May 2022
+- description: Sophie accepts Assistant Professor Position in Applied Terrestrial Ecology in the School of Resource and Environmental Management in the Faculty of the Environment at Simon Fraser University – CONGRATS SOPHIE!
+  date: May 2022
+- description: JP and Niamh attend the workshop "Conservation Genomics"
+  date: June 2022
+- description: Clara, Kennedy, Jack, Sophie and Franck present at NAFEW
+  date: June 2022
+- description: Patrick, Sophie, Doriana and Franck travelled to jasper to participate in a mountain beetle workshop in Jasper with Laura Chasmer’s team where they discussed the impact of Mountain pine Beetle on Wildfire risk in Alberta with a focus on Jasper’s National Park. Where Franck and Doriana presented some of their research.
+  date: June 2022
+- description: Jack was awarded 3rd place in the student presentation competition for his talk on the relationship between moisture availability and burn severity at NAFEW 2022
+  date: June 2022
+- description: JP becomes a Dad! Welcome baby Senan
+  date: July 2022
+- description: A field team composed of Paul, Kennedy, Franck, Léo as well as two volunteer students from the École d’Ingénieurs de PURPAN, Enzo Recchia and Hermine Septier characterized the impact of two outbreaking species of insects, the eastern spruce budworm and the jack pine budworm on forest structure and forest fuels across northern Ontario.
+  date: July 2022
+- description: JP, Jack, Clara, Morgane and Patrick attend ESA in Montreal! 
+  date: August 2022
+- description: Patrick publishes a review of insect-fires interactions in Current Forestry Reports
+  link: https://doi.org/10.1007/s40725-022-00170-1
+  date: August 2022
+- description: Doriana was awarded Ontario Graduate Scholarship, congratulations Doriana!!!
+  date: September 2022
+- description: The lab welcomes two new undergraduate students Jacob Klimczak and Cameron Gibson. Jacob and Cameron are joining the lab to study the effect of jack pine budworm on forest structure in Northern Ontario using the data collected during the last field season.
+  date: September 2022
+- description: Jonas and Patrick publish in Remote Sensing of Environment
+  link: https://doi.org/10.1016/j.rse.2022.113178 
+  date: October 2022
+- description: Sophie, Doriana, Kennedy, Léo and Jack represented our lab group at the Wildland Fire Conference in Edmonton.
+  date: November 2022
+- description: Clara Presented at the CANSSI Ontario Statistical Software Conference
+  date: November 2022
+- description: Clara and Patrick publish in Earth and Space Science
+  link: https://doi.org/10.1029/2021EA002019
+  date: January 2022
+- description: Jonas publishes in Urban Ecosystems
+  link: https://doi.org/10.1007/s11252-021-01194-
+  date: January 2022
+- description: Paul Piascik joins the lab as a technician! Paul has been helping the team plan and will be joining Franck, Kennedy, and Léo in the upcoming field season.
+  date: February 2022
+- description: Niamh passes her Qualifying Exam!
+  date: March 2022
+- description: In addition to helping devise a method to analyze point clouds collected from forests using a Terrestrial LiDAR scanner, Léo is helping prepare for the upcoming field season in Timmins, North Bay, and Northwestern Ontario.
+  date: April 2022
+- description: Léo receives an NSERC USRA to use LiDAR to model how forest fuels change through time following an insect outbreak. Congrats Léo!
+  date: May 2022
+- description: JP publishes in Integrative and Comparative Biology
+  link: https://doi.org/10.1093/icb/icac019
+  date: May 2022
+- description: JP publishes in Zoologica Scripta
+  link: https://doi.org/10.1111/zsc.12531
+  date: May 2022
+- description: JP is invited to the San Francisco Aquarium Society and the Sacramento Aquarium Society
+  date: May 2022
+- description: Patrick publishes in Frontiers in Forests and Global Change
+  link: https://doi.org/10.3389/ffgc.2022.831663 
+  date: May 2022
+- description: Sophie joins the podcast For Peat’s Sake to talk about peatland fires!
+  link: https://open.spotify.com/episode/4kTmMnoiufFVwaYC8zh5ws?si=aoO5UHwFRSuh2Lg6lCyiYA&nd=1
+  date: May 2022
+- description: Patrick publishes in Current Forestry Reports!
+  link: https://doi.org/10.1007/s40725-021-00140-z
+  date: June 2021
+- description: JP is invited to the symposium “Phenotype still matters in the genomic era” and the II SBE Meeting. See his talk "Polymorphic, cryptic or hybridizing species? The importance of phenotype in interpreting molecular patterns in a fast-evolving, taxonomically complicated group of Neotropical stingrays.""
+  link: https://www.youtube.com/watch?v=q_o5yvIXb5w
+  date: June 2021
+- description: JP is featured as an Early Career Researcher in the Journal of Biogeography! 
+  link: https://journalofbiogeographynews.org/2021/06/28/ecr-feature-joao-pedro-jp-fontanelle-on-stingrays-biogeography/
+  date: June 2021
+- description: JP’s paper in the Biological Journal of the Linnean Society is published!
+  link: https://academic.oup.com/biolinnean/article/134/2/381/6329148
+  date: July 2021
+- description: JP’s paper in Global and Planetary Change is published!
+  link: https://www.sciencedirect.com/science/article/pii/S0921818121001399
+  date: July 2021
+- description: "JP presents his talk \"Evolution and Diversity of the Neotropical Freshwater Stingrays: a Genomic Perspective\" at the 2021 Joint Meeting of Ichthyology and Herpelotology, hosted as a hybrid meeting in Phoenix, USA." 
+  date: July 2021
+- description: Clara is awarded the Queen Elizabeth II Graduate Scholarship in Science and Technology!
+  date: July 2021
+- description: The intrepid team of Jared, Franck, and Kendriah successfully complete and challenging first field season collecting fuels data in post-JPBW stands. Bravo!
+  date: August 2021
+- description: Doriana goes from undergraduate assistant to MScF student, studying the effects of mountain pine beetle outbreaks on wildlife severity in BC and Alberta. Her thesis work is supported by a grant from fRi Research.
+  date: September 2021
+- description: Simon, Julian, and Patrick publish in Molecular Ecology!
+  link: https://doi.org/10.1111/mec.16160.
+  date: September 2021
+- description: Julian publishes in HYSTRIX, the Italian Journal of Mammalogy!
+  link: https://doi.org/10.4404/hystrix-00444-2021.
+  date: October 2021
+- description: Niamh is awarded the Ontario Graduate Scholarship!
+  date: October 2021
+- description: Patrick publishes in Landscape Ecology!
+  link: https://doi.org/10.1007/s10980-021-01300-z
+  date: October 2021
+- description: Read Patrick’s contribution to the Ontario Professional Forest Association Newsletter (p. 16) about spruce budworm and wildfire interaction in the boreal forest.
+  link: https://opfa.ca/wp-content/uploads/2021/09/ProfessionalForesterIssue243Sept2021-2021-09-14.pdf
+  date: October 2021
+- description: First NSERC Fire Network meeting - a PDF of the James Lab slides can be found here.
+  link: https://www.jameslab.ca/s/NSERC_Fire_network_Pres.pdf
+  date: November 2021
+- description: Kennedy passes her PhD transfer exam and is officially a PhD student. Congrats Kennedy!
+  date: December 2021
+- description: Mathieu Landry successfully defends his PhD thesis at UQAM. Bravo Mathieu!
+  date: December 2021
+- description: Read all about Jonas’s work using thermal imaging to assess forest health, profiled here.
+  link: https://academic.daniels.utoronto.ca/forestry/temperature-check-using-thermal-imaging-to-assess-forest-health/
+  date: December 2021
+- description: Clara is awarded the SERG-I Graduate Student Award for attendance to a (now 2023) meeting!
+  date: December 2021
+- description: Jeremy, Julian, and Patrick publish in Landscape Ecology!
+  link:  https://doi.org/10.1007/s10980-021-01382-9
+  date: December 2021
+- description: Léo Jourdan joins the lab as an undergraduate researcher. Léo is helping devise a method to analyze point clouds collected from forests using a Terrestrial LiDAR Scanner. Welcome Léo!
+  date: January 2022
+- description: Julian is published in Biodiversity and Conservation!
+  link: https://doi.org/10.1007/s10531-022-02371-3
+  date: January 2022
+- description: Mathieu and Patrick publish in the Journal of Biogeography!
+  link: https:://doi.org/10.1111/jbi.1429
+  date: January 2022
+- description: Jack publishes in Ecological Monographs!
+  link: https://doi.org/10.1002/ecm.1487.
+  date: January 2022
+- description: Doriana has been awarded an NSERC UGRA to work on fire-mountain pine beetle interactions. Congrats Doriana!
+  date: May 2021
+- description: Clara attends the virtual 2021-IALE North American Annual Meeting.
+  date: April 2021
+- description: Patrick presents at the Fire in MN Ecosystem Symposium! Watch a recording of his presentation here.
+  link: https://www.youtube.com/watch?v=BexkRVoRi4c
+  date: April 2021
+- description: JP’s paper in Biogeography is featured on The New Scientist – read it here. Congrats JP!
+  link: https://www.newscientist.com/article/2273362-stingrays-in-the-amazon-were-stranded-there-by-the-caribbean-sea/
+  date: April 2021
+- description: Patrick is involved in a new paper on insect-fire interactions - read it here.
+  link: https://link.springer.com/article/10.1007/s10980-021-01209-7
+  date: April 2021
+- description: JP’s paper in the Journal of Biogeography is published. Congrats JP!
+  link:  https://doi.org/10.1111/jbi.14086.
+  date: March 2021
+- description: Jack’s paper in Current Zoology is published. Congrats Jack!
+  link:  https://doi.org/10.1093/cz/zoab025.
+  date: March 2021
+- description: Franck successfully defends his PhD on February 19th. Congratulations Franck!
+  date: February 2021
+- description: Morgane Henry joins the lab as a PhD student, co-supervised by Brian Leung at McGill University. Welcome Morgane!
+  date: January 2021
+- description: "Julia presents her MFC capstone project: The Spatial Genetic Structure of a Spruce Budworm Outbreak. Congrats Julia!"
+  date: December 2020
+- description: JP is invited to give an online lecture on the use of molecular data for phylogeography, biogeography, and diversity at Universidade do Estadual Paulista (UNESP), Brazil.
+  date: December 2020
+- description: João Pedro Fontenelle joins the lab as a PDF after defending his PhD in September. Welcome JP!
+  date: November 2020
+- description: "The James Lab gets much bigger: Doriana Romualdi joins the lab as an undergraduate researcher, Kennedy Korkola joins the lab as an MScF student, Clara Risk, Jack Goldman, and Jared Haney join the lab as PhD students and Franck Gandiaga joins the lab as a Post Doctoral Fellow."
+  date: September 2020
+- description: Jonas Hamberg joins the lab as a PDF. Welcome Jonas!
+  date: June 2020
+- description: Niamh and Julian attend the (virtual) 2020-IALE North American Annual Meeting.
+  date: April 2020
+- description: Julia Fang begins an internship in the lab as a Masters in Forest Conservation student. Her research will focus on looking at the genetic structure of a spruce budworm outbreak.
+  date: April 2020
+- description: Niamh Wall joins the lab as a PhD student, co-supervised by Marie-Josée Fortin (EEB).
+  date: September 2019
+- description: As of July 1 2019, the James lab has officially moved to the Graduate Department of Forestry, in the Daniels Faculty of Architecture, Landscape, and Design at the University of Toronto. Looking forward to new projects, challenges, and collaborations around forestry and forest conservation!
+  image: images/news/forestry_logo.png
+  date: July 2019
