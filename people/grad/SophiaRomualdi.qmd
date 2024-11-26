@@ -2,7 +2,7 @@
 title: "Sophia Romualdi"
 sortby: "Romualdi, Sophia"
 subtitle: "MScF"
-image: /images/people/SophiaRomualdi/SR_webiste_photo.jpg
+image: /images/people/SophiaRomualdi/SR_website_photo.jpg
 started: "Fall 2024"
 ended: "Current"
 toc: false
@@ -27,6 +27,6 @@ Sophia has a BSc from the University of Toronto in Ecology and Evolutionary Biol
 -   **University of Toronto**<br /> Undergraduate degree: Double major in Ecology and Evolutionary Biology, and Environmental Biology 
  **University of Toronto**<br /> MScF. 2024-Present
 
-## Confernces 
+## Conferences 
 
 Romualdi, S., Fang, J., Wittische, J., James, P.M.A. Assigning phenologically asynchronous moths to source populations using individual genotypes. 3rd Joint Congress on Evolutionary Biology, July 26-30, 2024

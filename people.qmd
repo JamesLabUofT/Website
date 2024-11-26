@@ -63,15 +63,16 @@ listing:
     - "people/alumni/*.qmd"
     - "people/alumni/alumni.yml"
     type: table
-    sort: sortby
-    fields: [title, subtitle, ended]
-    sort-ui: [title, subtitle, ended]
-    filter-ui: [title, subtitle, ended]
+    sort: 
+    - "started desc"
+    - "subtitle"
+    fields: [title, subtitle, started]
+    sort-ui: [title, subtitle, started]
+    filter-ui: [title, subtitle, started]
     field-display-names: 
       title: "Name"
       subtitle: "Role"
-      started: "Started"
-      ended: "Ended"
+      started": "Started in the lab"
 ---
 
 

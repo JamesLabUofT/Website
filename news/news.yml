@@ -1,23 +1,80 @@
-
+- description: Jessica continues in the lab as a master’s student studying population genetics of cyclic outbreaking spruce budworm.
+  date: September 2024
+- description: Sophia continues in the lab as a master’s student exploring the spatiotemporal eco-genomic and demographic data of the spruce budworm across eastern Canada.
+  date: September 2024
+- description: Léo received an OGS scholarship to fund his second year as a MScF student.
+  date: September 2024
+- description: Morgane and others publish in Forest Ecology and Management!
+  link: https://doi.org/10.1016/j.foreco.2024.122046
+  date: August 2024
+- description: JP taught the course "Intro to Population Genomics for Ecology and Evolution" at "Museu Paraense Emilio Goeldi" in Belém do Pará/PA, Brazil.
+  date: August 2024
+- description: A field team composed of Kennedy, Zack, Léo, Emily, and undergraduates Yasmin Radisch and Dianel Lowe traveled across northern Ontario to study the impact of the eastern spruce budworm and jack pine budworm on forest structure and fuels.
+  date: July 2024
+  image: /images/news/2024_Fieldwork.jpg
+- description: Patrick, Kate, and Jessica embark on fieldwork, sampling spruce budworm in Quebec.
+  date: July 2024
+- description: "Kate, JP, Sophia, and Jessica attend the 3rd Joint Congress on Evolutionary Biology.
+    Kate presented her poster: “Leveraging citizen science to answer questions of population genetic inference in cyclic populations.”
+    JP presented the talk: “Variability in the sensitivity of outlier detection methods in outbreaking systems: a spruce budworm case study” and the poster: “How do population cycle outbreaks affect population genetic inferences?”
+    Sophia presented her poster: “Assigning phenologically asynchronous moths to source populations using individual genotypes.”
+    Jessica presented her poster: “Genetic consequences of outbreaks in forest Lepidoptera: temporal variation in effective population size (Ne).”"
+  date: July 2024
+- description: Sophia joins the lab as an undergraduate.
+  date: May 2024
+- description: "JP presents a poster at the 2024 CANSSI Research Day:
+    Fontenelle, J. P., Cullingham, C., & James, P. (2024). How do population outbreak cycles affect population genetic inferences?"
+  date: May 2024
+- description: "JP and Morgane attend the Annual Conference for the Canadian Society for Ecology & Evolution in Vancouver, British Columbia.
+    JP presents his work collaborating with Dr. Catherine Cullingham at Carleton University: “Demographic and genetic variation in population outbreak cycles: influences on genetic inferences and their consequences.”
+    Morgane presents her talk: “The values of zeros: detecting Allee effect in low-density population time series.”"
+  date: May 2024
+- description: Kennedy and Nick attend the Fuels and Fire Behaviour conference in Boise, Idaho. Kennedy presents her work on measuring spruce budworm-altered fuels through time using terrestrial LiDAR.
+  date: April 2024
+- description: Kennedy completed her Qualifying Exam and is now a PhD Candidate. Congrats Kennedy!
+  date: April 2024
+- description: "JP gives a talk: “Developing a Model Tool to Simulate Population Dynamics of Forest Outbreaking Pests to Support Conservations and Management Initiatives” at the 2024 Ontario Genomics Snack and Learn to stakeholders about his Ontario Genomics CANSSI Ontario fellowship."
+  date: March 2024
+- description: Kate Brittain joins the lab as a postdoctoral fellow investigating spatial and temporal population dynamics to manage outbreaking insect species.
+  date: February 2024
+- description: Kennedy presents her work on initial attack success in Ontario at the CIFFC Students of Fire National Conversation.
+  date: February 2024
+- description: Patrick and Simon publish in Environmental Entomology!
+  link: https://doi.org/10.1093/ee/nvad110
+  date: November 2023
+- description: Kennedy presents her work at the Forest Health Review in Orillia, Ontario, on the interaction between spruce budworm and wildfire.
+  date: October 2023
+- description: JP’s preprint “Comparing Approaches to Specimen Identification using Neotropical Freshwater Fishes in the Barra del Colorado Wildlife Refuge, Costa Rica.” is available on bioRxiv
+  link: https://doi.org/10.1101/2023.10.02.560474v1
+  date: October 2023
+- description: Léo started a MScF in the lab. His first year is funded by an NSERC CGS-M scholarship.
+  date: September 2023
+- description: Nick Dewez joins the lab as a PhD student. His PhD work is focused on modelling wildfire and defoliator interactions in Canada’s eastern boreal forests under climate change.
+  date: September 2023
+- description: JP publishes in the North American Journal of Fisheries Management!
+  link: https://doi.org/10.1002/nafm.10888
+  date: August 2023
+- description: "Patrick, JP, Franck, Morgane, Clara, and Nick attend the Spruce Budworm Science and Management workshop in Montreal, Quebec.
+  JP presented the talk: “Outbreaks and genetic stability: Temporal variation of genetic structure and diversity under cyclic irruptive population dynamics.”"
+  date: July 2023
+- description: Jessica’s summer work in the James lab is supported by an NSERC UGRA.
+  date: June 2023
+- description: Léo was awarded a University of Toronto Excellence Award to fund his undergraduate research for the summer of 2023.
+  date: May 2023
+- description: Kennedy and Léo attended a one-week workshop called “Airborne Lidar Theory, Data Processing, Modelling and Biomass Applications” at the University of Lethbridge, organized by the ARTeMiS lab. They received financial support from Canada Wildfire.
+  date: May 2023
 - description: JP was awarded a Postdoctoral Fellowship in Genome Data Science from Ontario Genomics and CANSSI Ontario (OG-CO)!JP will lead a project to investigate the implications of cyclic population demo-genetic dynamics in genetic variation over time using individual-based simulation models, coalescent analyses and empirical datasets. This study is a collaborative study with the Cullingham lab at Carleton University.
   link: https://canssiontario.utoronto.ca/fellowship-in-genome-data-science-fontenelle/news/
- # image: /images/news/JP_award_2023.png
-  date: April 2023
-- description: 
+  image: /images/news/JP_award_2023.png
   date: April 2023
 - description: Clara, Jack and Niamh attend IALE-NA in Riverside, California!
   date: March 2023
 - description: We say goodbye and good luck to Sophie, as she leaves us for her job as an Assistant Professor at Simon Frasier University! All the best!
   date: March 2023
- # image: images/news/SW_dinner.jpg
-  
+  image: images/news/SW_dinner.jpg
 - description: Doriana was awarded a Master’s NSERC! Congratulations Doriana!!
   date: January 2023
-- description: Léo goes from undergraduate research assistant to MScF student.
-  date: September 2023
-- description: Kate Brittain and Zack Shakeri join the lab as Post Doctoral Fellows!
-  date: January 2024
-- description: New paper on outbreaks!
+  description: New paper on outbreaks!
   link: https://doi.org/10.1016/j.cois.2023.101005
   date: February 2023
 - description: JP's article on the biogeography of the Neotropical freshwater stingrays has been recognized as a Top Cited Article in Journal of Biogeography for the 2021-2022 period!
@@ -25,8 +82,6 @@
   date: February 2023
 - description: Clara attends the SERG-International conference in Victoria, BC!
   date: February 2023
-- description: Doriana was awarded a Master’s NSERC! Congratulations Doriana!!
-  date: January 2023
 - description: Jack publishes in Forests.
   link: https://doi.org/10.3390/f13050738 
   date: May 2022

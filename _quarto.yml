@@ -4,29 +4,24 @@ project:
 website:
   title: "The James Lab"
   favicon: "images/JamesLabLogo_Small.png"
+  search: false
   navbar:
     collapse: true
+    logo: "images/JamesLabLogo_Small.png"
+    logo-href: https://www.jameslab.ca
     left:
-      - href: index.qmd
-        text: Home
-      - href: news.qmd
-        text: News
+      - href: https://www.jameslab.ca/projects
+        text: Projects
       - href: people.qmd
         text: People
-  search: 
-    location: navbar
-    type: overlay
-    limit: 5
-    copy-button: true
-
-
-page-footer:
-  border: false
-  background:
-  foreground:
-  left: "2024"
-  right: 
-    - 
+      - href: https://www.jameslab.ca/publications
+        text: Publications
+      - href: https://www.jameslab.ca/teaching
+        text: Teaching
+      - href: news.qmd
+        text: News
+      - href: https://www.jameslab.ca/contact
+        text: Contact
 
 format:
   html:

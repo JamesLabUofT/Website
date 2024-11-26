@@ -1,41 +1,282 @@
 - title: Franck Gandiaga
   subtitle: PDF
   current: Post Doc @ University of Picardie Jules Verne, France
+  started: 2020
 - title: Sophie Wilkinson
   subtitle: PDF
   current: Assistant Progessor @ SFU
+  started: 2021
 - title: Jonas Hamberg
   subtitle: PDF
   current: Researcher @ Credit Valley Conservation Authority
+  started: 2020
 - title: Amanda Xuereb
   subtitle: PDF
   current: Post Doc @ U. Laval, Quebec City
+  started: 2019
 - title: Jeremy Larroque
   subtitle: PDF
   current: Post Doc @ University of Göttingen, Germany
+  started: 2016
 - title: Marion Germain
   subtitle: PDF
   current: Post Doc @ Sheffield, UK
+  started: 2017
 - title: Louis-Etienne Robert
   subtitle: PDF
   current: CFS Research Scientist
+  started: 2014
 - title: Colin Garroway
   subtitle: PDF
   current: Assistant Professor @ University of Manitoba
+  started: 2015
 - title: Ronan Marrec
   subtitle: PDF
   current: Assistant Professor @ University of Picardie Jules Verne, France
+  started: 2015
 - title: Julian Wittische
   subtitle: PhD
   current: Data scientist @ the Luxembourg National Museum of Natural History
+  started: 2014
 - title: Mathieu Landry
   subtitle: PhD. Co-directed with S. Kembel, UQAM
   current: Data scientist @ IQVIA
+  started: 2016
+- title: Doriana Romualdi
+  subtitle: MScF
+  current: Analyst @ ApexRMS
+  started: 2021
 - title: Jennifer Sauri  
   subtitle: MSc. Co-directed with L. Perez, UdeM
+  started: 2017
 - title: Dominique Caron
   subtitle: MSc
+  started: 2017
 - title: Paul Mayrand
   subtitle: MSc
+  started: 2014
 - title: Olivier Pontbriand-Paré
   subtitle: MSc
+  started: 2014
+- title: Charlotte Grieve
+  subtitle: MFC
+  started: 2023
+- title: Arun Josuwa
+  subtitle: MFC
+  started: 2022
+- title: Callum Guppy
+  subtitle: MFC
+  started: 2022
+- title: Shraddha Vadgama
+  subtitle: MFC 
+  started: 2022
+- title: Verna Valliere
+  subtitle: MFC
+  started: 2021
+- title: Julia Fang
+  subtitle: MFC
+  started: 2020
+- title: Zhimo Fang
+  subtitle: MFC
+  started: 2020
+- title: Ana Kostic
+  subtitle: MFC
+  started: 2019
+- title: Jiarong Zhang
+  subtitle: MFC
+  started: 2019
+- title: Yichao Zhou
+  subtitle: MFC
+  started: 2019
+- title: Emily Jones
+  subtitle: Summer student
+  started: 2023
+- title: Jessica Underwood
+  subtitle: Summer student
+  started: 2023
+- title: Léo Jourdan
+  subtitle: Summer student (UTEA UGRA)
+  started: 2023
+- title: Léo Jourdan
+  subtitle: Summer student (NSERC UGRA)
+  started: 2022
+- title: Hermine Septier
+  subtitle: Field Assistant/Int'l intern
+  started: 2022
+- title: Enzo Recchia
+  subtitle: Field Assistant/Int'l intern
+  started: 2022
+- title: Elaine Liu
+  subtitle: Research assistant
+  started: 2022
+- title: Doriana Romualdi
+  subtitle: Summer student (NSERC UGRA)
+  started: 2021
+- title: Doriana Romualdi
+  subtitle: Research assistant
+  started: 2020
+- title: Caitlin Tejowinoto
+  subtitle: Research assistant
+  started: 2020
+- title: Cheng Ji
+  subtitle: NSERC UGRA
+  started: 2017
+- title: Raphaëlle Grondin
+  subtitle: Research assistant
+  started: 2017
+- title: Anais Boa
+  subtitle: NSERC UGRA
+  started: 2016
+- title: Roger-Micheal Deschènes
+  subtitle: Research assistant
+  started: 2015
+- title: Chloé Fredette
+  subtitle: Research assistant
+  started: 2015
+- title: Marie-Line Buteau
+  subtitle: NSERC UGRA
+  started: 2015
+- title: Soufiane Tahir
+  subtitle: NSERC UGRA
+  started: 2014
+- title: Camille Marier-Desroches
+  subtitle: NSERC UGRA
+  started: 2014
+- title: Élise St.-Pierrre
+  subtitle: Lab assistant
+  started: 2014
+- title: Elsa Le
+  subtitle: Lab assistant
+  started: 2014
+- title: Paul Mayrand
+  subtitle: Lab assistant
+  started: 2014
+- title: Olivier Pontbriand-Paré
+  subtitle: Field assistant
+  started: 2014
+- title: Guillaume Beaulieu-Pelletier
+  subtitle: Field assistant
+  started: 2014
+- title: Stéphanie Berthiaume
+  subtitle: Field assistant
+  started: 2014
+- title: Félix Massé
+  subtitle: Field assistant    
+  started: 2013
+- title: Daiana Tourne
+  subtitle: Visiting Researcher (PhD Student; Brazil)
+  started: 2018
+- title: Helena Ruiz Carbayo
+  subtitle: Visiting Researcher (PhD Student; CREAF)
+  started: 2017
+- title: Arnald Marcer
+  subtitle: Visiting Researcher (CREAF)
+  started: 2016
+- title: Patricia Sanae Suji
+  subtitle: Visiting Researcher (PhD Student; Brazil)
+  started: 2015
+- title: Paul Piascik
+  subtitle: Lab Technician
+  started: 2022
+- title: Jade Canape
+  subtitle: Lab Technician
+  started: 2017
+- title: Julie Marleau
+  subtitle: Lab Technician
+  started: 2014
+- title: Simone Périnet
+  subtitle: Lab Technician
+  started: 2014
+- title: Mathieu Neau
+  subtitle: Lab Technician
+  started: 2014
+- title: Yasmin Radisch
+  subtitle: Undergraduate volunteer
+  started: 2024
+- title: Daniel Lowe
+  subtitle: Undergraduate volunteer
+  started: 2024
+- title: Jacob Klimczak
+  subtitle: Undergraduate volunteer
+  started: 2023
+- title: Rakshan Balachandran
+  subtitle: Undergraduate volunteer
+  started: 2022
+- title: Esther Chee
+  subtitle: Undergraduate volunteer
+  started: 2021
+- title: Caitlin Tejowinoto
+  subtitle: Undergraduate volunteer
+  started: 2019
+- title: Caitlin Tejowinoto
+  subtitle: Undergraduate volunteer
+  started: 2020
+- title: Mathilde Léonard
+  subtitle: Undergraduate volunteer
+  started: 2019
+- title: Salomé Bouskila
+  subtitle: Undergraduate volunteer
+  started: 2019
+- title: Xiao Ju
+  subtitle: Undergraduate volunteer
+  started: 2016
+- title: Xiao Ju
+  subtitle: Undergraduate volunteer
+  started: 2017
+- title: Xiao Ju
+  subtitle: Undergraduate volunteer
+  started: 2018
+- title: Cheng Ji
+  subtitle: Undergraduate volunteer
+  started: 2017
+- title: David Touchette
+  subtitle: Undergraduate volunteer
+  started: 2015
+- title: Antoine Asselin-Nguyen
+  subtitle: Undergraduate volunteer
+  started: 2015
+- title: Alexandrine Larson-Dupuis
+  subtitle: Undergraduate volunteer
+  started: 2015
+- title: Roger-Michael Deschènes
+  subtitle: Undergraduate volunteer
+  started: 2015
+- title: Chloé Frédette
+  subtitle: Undergraduate volunteer
+  started: 2015
+- title: Elsa Le
+  subtitle: Undergraduate volunteer
+  started: 2014
+- title: Sandrine Harrison
+  subtitle: Undergraduate volunteer
+  started: 2014
+- title: Helene Mbaididje
+  subtitle: Undergraduate volunteer
+  started: 2014
+- title: Stéphanie Berthiaume
+  subtitle: Undergraduate volunteer
+  started: 2014
+- title: Mélanie Poirier
+  subtitle: Undergraduate volunteer
+  started: 2014
+- title: Olivier Pontbriand-Paré
+  subtitle: Undergraduate volunteer
+  started: 2014
+- title: Olivier Pontbriand-Paré
+  subtitle: Undergraduate volunteer
+  started: 2013
+- title: Emmanuelle Batisse
+  subtitle: Undergraduate volunteer
+  started: 2013
+- title: Karyna Alexeyeva
+  subtitle: Undergraduate volunteer
+  started: 2012
+- title: Laurent Alflalo
+  subtitle: Undergraduate volunteer
+  started: 2012
+- title: Axelle Bono
+  subtitle: Undergraduate volunteer
+  started: 2012
+- title: Melissa Goepfert
+  subtitle: Undergraduate volunteer
+  started: 2012

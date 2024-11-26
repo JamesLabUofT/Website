@@ -1,0 +1,31 @@
+---
+title: "Morgane Henry"
+sortby: "Henry, Morgane"
+subtitle: "PhD"
+image: /images/people/MorganeHenry/MorganeHenry.jpeg
+started: "Winter 2021"
+ended: "Current"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  #links:
+  #- text: GitHub
+  #  href: https://github.com/yourgithub
+  #- text: Email
+  #  href: mailto:youremail@utoronto.ca
+---
+
+::: {#person-profile}
+:::
+## Biography
+
+Co-supervised with Brian Leung at McGill University
+
+Morgane has a BSc in Biology from the University of Lausanne (Switzerland) and a MSc in Marine Conservation from the University of Aberdeen (Scotland). Her work has transitioned from the marine ecosystem to the boreal forest and she is now studying the spatial outbreak dynamics of the spruce budworm. Her goal is to develop spatial models using demographic, environmental, and phenological data to investigate how environmental context and dispersal drive the spatial spread of spruce budworm outbreaks.  
+
+Morgane’s research is funded by a FRQNT PhD Scholarship and an FRQNT Team Grant.
+## Education
+
+-   **University of Aberdeen**<br /> MSc in Marine Conservation
+-   **University of Lausanne**<br /> BSc in Biology

@@ -7,7 +7,9 @@
     <% } else{ %>  
     <span class="listing-name"><%= item.description %></span><br/>
     <% } %>
-    
+    <% if(item.image){ %>
+    <img class="listing-name" width = "100%" src = "<%- item.image %>"><br/>
+    <% } %>
     <span class="listing-custom-field"><%= item.date %><span>
     </li>
 <% } %>

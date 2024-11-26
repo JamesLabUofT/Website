@@ -3,12 +3,19 @@ title: "Léo Jourdan"
 sortby: "Jourdan, Léo"
 subtitle: "MScF"
 image: /images/people/LeoJourdan/LeoJourdan.jpg
-started: "Winter 2022"
+started: "2023"
 ended: "Current"
 toc: false
 about:
   id: person-profile
   template: jolla
+  links:
+  - text: LinkedIn
+    href: https://www.linkedin.com/in/leo-jourdan/
+  - text: GitHub
+    href: https://github.com/LeofkJ
+  - text: Email
+    href: mailto:leo.jourdan@mail.utoronto.ca
 ---
 
 ::: {#person-profile}
@@ -20,24 +27,34 @@ Léo has a BSc in Computer Science and Mathematics from the University of Toront
 
 ## Education
 
--   **University of Toronto**<br /> Undergrad: Computer Science and Mathematics
+-   **University of Toronto**<br /> Undergrad: Hon. BSc. in Computer Science and Mathematics
 
 ## Role in the lab
 
-Doing an MScF to compare stands of trees affected by JPBW...
+Aside from working on his MScF, Léo likes to help his colleagues code, and enjoys taking care of the lab's computational server.
 
 ## Conferences
 
-## Publications
+**Jourdan, L.**, & James, P. M. A. (2024, December 13). Evaluating fuel structure metrics using synthetic terrestrial lidar scans: Ontario’s jack pine stands as a case study. AGU 2024, Washington D.C., USA.
 
- __________________________________________
+**Jourdan, L.**, & James, P. M. A. (2024, November 26). Évaluation des métriques de combustibles en utilisant des données synthétiques de Lidar. TRIDIFOR 2024.
+
+**Jourdan, L.**, & James, P. M. A. (2024, October 31). Using synthetic terrestrial lidar scans to evaluate fuel structure metrics: Ontario’s jack pine stands as a case study. Wildland Fire Canada, Fredericton, N.B.
+
+Risk, C., **Jourdan, L.**, Gandiaga, F., Korkola, K., & James, P. M. A. (2022, November 10). An interactive operations research tool for field work site selection in forestry. CANSSI Ontario Statistical Software Conference, Toronto, ON.
+
+__________________________________________
 ::: {.grid}
+::: {.g-col-6}
+![](/images/people/LeoJourdan/LeoJourdan-Fieldwork.jpg)
+:::
+::: {.g-col-6}
+![](/images/people/LeoJourdan/TLS-Scan.jpeg)
+:::
+:::
+Below is a [webpage](https://leofkj.github.io/AGUPoster/) for a demo of synthetic terrestrial lidar of Ontario's jack pine stands. Prepared alongside a poster for the AGU 2024 conference.
 
-::: {.g-col-4}
-![LidarTree](/images/people/LeoJourdan/VoxelTree.gif)
-:::
+```{=html}
+<iframe width="500" height="1000" src="https://leofkj.github.io/AGUPoster/" title="AGU 2024 demo"></iframe>
+```
 
-::: {.g-col-8}
-This shows the cool stuff you can do with lidar and voxels
-:::
-:::
