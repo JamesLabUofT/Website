@@ -1,0 +1,16 @@
+---
+pagetitle: "Teaching"
+toc: false
+listing:
+- id: courses
+  contents: 
+    - teaching/courses.yml
+  type: grid
+  template: teaching/teaching.ejs
+  fields: [title, subtitle, syllabus]
+---
+
+## Courses taught
+
+::: {#courses}
+:::

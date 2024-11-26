@@ -1,0 +1,11 @@
+**SBW larvae and moths were collected across Quebec and New Brunswick, Canada as well as Vermont and Maine USA between 2012 and 2015. The following maps illustrate when and where samples were collected.**
+
+![All locations sampled between 2012 and 2015. Many sites were sampled successively over all years, whereas others were sampled for only a single year. See legend for details on colour coding of each site. Also, each site may contain either larvae, moths, or a combination of the two. Many sites in the Cote Nord region were collected for larvae as well as moths at multiple times during the summer. The goal of this repeated sampling was to try to collect moths outside of their predicted phenological window (based on BIOSIM). Moths captured early or late relative to phenological prediction are labelled as putative migrants. Currently we are using genotyping (GBS) to test these phenologically-based hypotheses and to identify the most likely source of these migrants.](/images/projects/SBW/Sites_QC-NB-2012-2015.png)
+
+![Sites sampled in 2012. This was our first year of sampling and we focused specifically on the developing outbreak patch in the Cote Nord Region (see inset, top left). Additional sites (labelled “LL”) have been contributed by collaborators Lisa Lumley (RAM, Alberta) and Michel Cusson (NRCan, CFS, Quebec).](/images/projects/SBW/Sites_QC-NB-2012.png)
+
+![Sites sampled in 2013.](/images/projects/SBW/Sites_QC-NB-2013.png)
+
+![Sites sampled in 2014 including moths provided by the CFS (CFL, AFC) and the Maine Forest Service.](/images/projects/SBW/Sites_QC-NB-2014.png)
+
+![Sites sampled in 2015.](/images/projects/SBW/Sites_QC-NB-2015.png)

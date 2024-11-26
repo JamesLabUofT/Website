@@ -1,0 +1,27 @@
+---
+title: "Contact"
+---
+::: {.grid}
+::: {.g-col-6}
+**Email:** patrick.james"\_at\_"utoronto.ca
+
+**Tel: ** +1 (416) 978-0314
+
+**Office: ** ESC 4017
+
+**Address**
+
+Patrick James<br>
+Mailroom ES 1016F<br>
+Daniels Faculty<br>
+University of Toronto<br>
+33 Willcocks Street<br>
+Toronto, ON  M5S 3B3
+
+:::
+::: {.g-col-6}
+```{=html}
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5772.761088502136!2d-79.40259352384919!3d43.66105487110176!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b34bf0cdf8d0b%3A0xe912b79518a81282!2s33%20Willcocks%20St%2C%20Toronto%2C%20ON%20M5S%203E8!5e0!3m2!1sen!2sca!4v1732662177073!5m2!1sen!2sca" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+```
+:::
+:::

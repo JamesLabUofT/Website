@@ -1,0 +1,31 @@
+---
+title: "Spatial genetics of outbreaking populations"
+---
+::: {.grid}
+::: {.g-col-7}
+Population outbreaks affect spatial demographic variation which can influence  population genetic inference. Current models that aim to understand the spatial, temporal, and landscape genetic dynamics of outbreaking populations risk making incorrect conclusions regarding landscape connectivity, dispersal capacity, and adaptation. The goal of this research theme is to characterize how demographic context affects neutral and adaptive population genetic patterns and to develop new approaches that take this context into account. This work primarily focuses on outbreaking forest insect pests such as the spruce budworm. However, long-lived species (e.g., turtles) also present novel demographic contexts that confound traditional approaches to population genetic inference.
+
+**Spruce budworm**
+
+The spruce budworm (SBW; Choristoneura fumiferana) is a lepidopteran forest pest that devastates huge areas of spruce and fir forest during its periodic outbreaks. SBW outbreak dynamics are shaped by the complex interactions among climate, forest structure, communities of natural enemies, and dispersal. Despite the significance of movement to the spatial dynamics of SBW outbreaks, little is known about SBW dispersal, how it varies with spatial context and over course of an outbreak, and how it affects spatial synchrony in outbreak dynamics. This research applies tools and methods from spatial population genetics to characterize genetic connectivity among outbreak patches in the current outbreak in eastern north America. Using this information on genetic connectivity, and how it varies within and among years, we will infer patterns of gene flow and dispersal and how it varies as a function of intervening land-cover (isolation by resistance) and local environmental conditions (isolation by environment). Concurrently, we are developing dispersal models using predicted phenology (BioSIM) and demographic data collected from pheromone traps (adult males). Together, this work will increase our knowledge of how SBW movement varies in different forest and landscape contexts and will be used to improve simulation models that predict insect population dynamics and forecast future outbreak risk. This work will also address the important question of the potential efficacy  of currently proposed early intervention strategies.
+
+Check out our [photo gallery](SBW/sbwsampling.qmd) illustrating our sampling network and developing results. 
+
+**Students:**  JP Fontenelle, Morgane Henry
+
+**Collaborators:**  Rob Johns (CFS, AFC), Brian Leung, Jeremy Larroque
+
+**Recent Publications**
+
+Larroque J, Wittische J, James PMA. 2022. Quantifying and predicting population connectivity of an outbreaking forest insect pest. Landscape Ecology. 37(3), 763-778. 
+
+Landry M, Kneeshaw D, James PMA, Kembel S. 2022. Spruce budworm gut bacterial communities vary among sites and host tree species in a boreal landscape. Journal of Biogeography. 49(2), 299-309 
+
+Legault S, Wittische J, Cusson M, Brodeur J, James PMA. 2021. Genetic evidence of large-scale population connectivity in spruce budworm parasitoids. Molecular Ecology. 30(22), 5658-5673 
+
+Larroque J, Johns R, Canape J, Morin B, James PMA. 2020. Spatial genetic structure at the leading edge of a spruce budworm outbreak: the role of dispersal in outbreak spread. Forest Ecology and Management 461, 117965
+:::
+::: {.g-col-5}
+![SBW larva hanging by a thread. Photo: Olivier Pontbriand-Paré](/images/projects/SBW.jpg)
+:::
+:::

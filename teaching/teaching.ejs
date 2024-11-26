@@ -1,0 +1,20 @@
+```{=html}
+<ul class="list">
+<% for (const item of items) { %>
+  <li <%= metadataAttrs(item) %>>
+    <table>
+    <tr>
+      <td>
+        <img style = "width:50%" src = "<%- item.image %>">
+      </td>
+      <td>
+        <strong><%= item.title %></strong><br/>
+        <span><%= item.subtitle %></span><br/>
+      <a href="<%- item.syllabus %>">Syllabus</a><br/>
+      </td>
+    </tr>
+    </table>
+  </li>
+<% } %>
+</ul>
+```
