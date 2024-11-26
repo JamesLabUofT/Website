@@ -1,6 +1,0 @@
----
-title: "Forest Analytics and Disturbance Ecology Lab @ UofT"
----
-
-## James Lab
-We are a group of disturbance ecologists in the Institute of Forestry and Conservation at the University of Toronto. Our research explores the impacts of wildfire, insect disturbance and land-use on Canadian forest ecosystems in the current era of global change. We investigate these important problems through the application of a range of novel, data driven tools and methods.
