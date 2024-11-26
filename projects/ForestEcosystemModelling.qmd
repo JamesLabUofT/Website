@@ -1,0 +1,17 @@
+---
+title: "Forest ecosystem modelling"
+---
+::: {.grid}
+::: {.g-col-6}
+Researchers are often faced with questions at spatial and temporal scales that exceed our manipulative capacities. For example, understanding the long term consequences of climate change or different forest management regimes on forest dynamics requires data at spatial and temporal scales much larger than are usually feasible in traditional ecological studies. Spatially explicit simulation modelling can be used to address these questions, with the caveat that models are not reality, but instead represent a simplified version of reality containing the main processes in which we are interested. In this way, simulation models should be considered as a way for us to observe the consequences of our assumptions about how systems work even when direct manipulation and observation may not be possible.
+
+This research theme focuses on the long term consequences of forest management on landscape composition and configuration and how these spatial patterns affect habitat availability, landscape connectivity, and biodiversity conservation. Using spatially explicit simulation models and the SELES simulation platform, we examine how interactions between the spatial legacies created by forest management policies affect other ecological processes such as climate, fire and insect disturbance, forest succession, as well as community and population dynamics. 
+
+Much of the other ongoing research in the lab will contribute new parameters, sub-models, and conceptual frameworks to current models of forest ecosystem dynamics and will improve their capacity to evaluate the sustainability of current land-management practices. 
+:::
+::: {.g-col-6}
+![](/images/projects/emod3.jpg)
+
+![](/images/projects/GeneralVLM.jpg)
+:::
+:::

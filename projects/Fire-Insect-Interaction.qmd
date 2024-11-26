@@ -1,0 +1,30 @@
+---
+title: "Fire-Insect Interactions"
+---
+::: {.grid}
+::: {.g-col-8}
+Outbreaks of forest insects are a significant agent of disturbance in Canada’s boreal and mixed-wood forests that affect forest landscape structure, including the accumulation of combustible fuels. As a result of repeated defoliation over consecutive years, defoliation by the spruce budworm (SBW; Choristoneura fumiferana) creates large patches of dead fir or spruce that have the potential to affect fire activity. Although it is generally believed that forest insects affect fire activity, how they have such an influence, and how this affect varies through time, remains equivocal. Expected northward expansion of multiple species of forest insect pest in combination with forecast climate-related increases in forest fire activity in the boreal forest means that there a a great deal of uncertainty regarding future disturbance interactions, their effects on forest composition and connectivity, and consequent ecosystem service provisioning.
+
+In this research, we are seeking to better understand how historical defoliation by the spruce budworm affects fire risk including the probability of ignition, the probability of escape from initial control, and final fire size, in combination with multiple spatial and temporal covariates (e.g., weather and climate). 
+
+Recently, we completed a project modelling the relationship between historical fire ignitions and defoliation in Ontario using a a series of generalized additive logistic regression models. Using these models we contrasted fire-defoliation relationships between spring and summer fire seasons, as well as between ecoregions in eastern and western Ontario. We found that, in general, spruce budworm activity increases the risk of ignition 8-10 years after defoliation occurred, but decreases this risk immediately following defoliation (< 1 year).
+
+The long term goal of this research is to produce predictive spatial models that can be used in combination with forecasted future climate and fire weather to predict changes in fire risk in response to changing forest landscapes and insect-induced changes to fuel structure and connectivity. 
+
+**Students**:  Sophie Wilkinson, Franck Gandiaga, Kennedy Korkola, Clara Risk, Doriana Romualdi, Jack Goldman, Léo Jourdan
+
+**Collaborators**:  Mike Wotton (UToronto), Jen Beverly (UAlberta), Laura Chasmer (ULeth), Jon Boucher (CFS)
+
+**Recent publications**
+
+Fettig CJ, Runyon JB, Homicz CS, James PMA, Ulyshen MD. (in press) Fire and Insect Interactions in North American Forests. Current Forestry Reports
+
+Risk C & James PMA. 2022. Optimal cross-validation strategies for selection of spatial models in the Canadian Forest Fire Weather Index System. Earth and Space Science. 9(2), e2021EA002019.
+
+James PMA, Robert, LE, Wotton BM, Martel D, Fleming RA. 2016. Lagged cumulative spruce budworm defoliation affects the risk of fire ignition in Ontario, Canada. Ecological Applications. 27(2): 532-544
+Photo credit: Terry Chapin. http://www.lternet.edu/node/49513. 
+:::
+::: {.g-col-4}
+![Photo credit: Terry Chapin. http://www.lternet.edu/node/49513.](/images/projects/Fire-Insect.jpg)
+:::
+:::

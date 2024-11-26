@@ -8,26 +8,35 @@ website:
   navbar:
     collapse: true
     logo: "images/JamesLabLogo_Small.png"
-    logo-href: https://www.jameslab.ca
+    logo-href: index.qmd
     left:
-      - href: https://www.jameslab.ca/projects
+      - href: projects.qmd
         text: Projects
       - href: people.qmd
         text: People
-      - href: https://www.jameslab.ca/publications
+      - href: publications.qmd
         text: Publications
-      - href: https://www.jameslab.ca/teaching
+      - href: teaching.qmd
         text: Teaching
       - href: news.qmd
         text: News
-      - href: https://www.jameslab.ca/contact
+      - href: contact.qmd
         text: Contact
-
+  page-footer:
+    left: |
+      **Patrick M. A. James** <br>
+      Associate Professor <br>
+      Institute of Forestry and Conservation <br>
+      John H. Daniels Faculty of Architecture, Landscape, and Design <br>
+      University of Toronto <br>
+      33 Willcocks St. Toronto, ON. <br>
+      M5S 3E8 CANADA 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    
 
 
 

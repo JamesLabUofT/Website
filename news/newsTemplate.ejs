@@ -3,14 +3,14 @@
 <% for (const item of items) { %>
   <li <%= metadataAttrs(item) %>>
     <% if(item.link){ %>
-    <a href="<%- item.link %>" class="listing-name"><%= item.description %></a><br/>
+    <a href="<%- item.link %>"><%= item.description %></a><br/>
     <% } else{ %>  
-    <span class="listing-name"><%= item.description %></span><br/>
+    <span><%= item.description %></span><br/>
     <% } %>
     <% if(item.image){ %>
-    <img class="listing-name" width = "100%" src = "<%- item.image %>"><br/>
+    <img width = "100%" src = "<%- item.image %>"><br/>
     <% } %>
-    <span class="listing-custom-field"><%= item.date %><span>
+    <span><%= item.date %><span>
     </li>
 <% } %>
 </ul>
