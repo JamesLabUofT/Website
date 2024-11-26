@@ -2,7 +2,7 @@
 title: "Kennedy Korkola"
 sortby: "Korkola, Kennedy"
 subtitle: "PhD Candidate"
-image: /images/people/kennedykorkola/headshot_KK.jpg
+image: ../../images/people/kennedykorkola/headshot_KK.jpg
 started: "2020"
 ended: "Present"
 toc: false

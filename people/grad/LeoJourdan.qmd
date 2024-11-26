@@ -2,7 +2,7 @@
 title: "Léo Jourdan"
 sortby: "Jourdan, Léo"
 subtitle: "MScF"
-image: "/images/people/LeoJourdan/LeoJourdan.jpg"
+image: ../../images/people/LeoJourdan/LeoJourdan.jpg
 started: "2023"
 ended: "Current"
 toc: false

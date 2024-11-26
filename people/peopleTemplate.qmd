@@ -2,7 +2,7 @@
 title: "first Last"
 sortby: "Last, First"
 subtitle: "Position in the lab"
-image: image.jpg
+image: ../../images/people/YourFolder/YourImage.jpg
 started: "Season Year"
 ended: "Current or Season Year"
 toc: false

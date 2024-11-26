@@ -2,7 +2,7 @@
 title: "Samuel Isaac"
 sortby: "Isaac, Samuel"
 subtitle: "HBSc, Research Assistant "
-image: /images/people/SamuelIsaac/SI_haliburton.png
+image: ../../images/people/SamuelIsaac/SI_haliburton.png
 started: "Fall 2023"
 ended: "Current"
 toc: false

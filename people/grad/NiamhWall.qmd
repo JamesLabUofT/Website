@@ -2,7 +2,7 @@
 title: "Niamh Wall"
 sortby: "Wall, Niamh"
 subtitle: "PhD Candidate"
-image: "/images/people/NiamhWall/niamhwall_bltu.JPG" 
+image: ../../images/people/NiamhWall/niamhwall_bltu.JPG
 started: "Fall 2019"
 ended: "Present"
 toc: false

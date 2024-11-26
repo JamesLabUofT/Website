@@ -2,7 +2,7 @@
 title: "Morgane Henry"
 sortby: "Henry, Morgane"
 subtitle: "PhD"
-image: /images/people/MorganeHenry/MorganeHenry.jpeg
+image: ../../images/people/MorganeHenry/MorganeHenry.jpeg
 started: "Winter 2021"
 ended: "Current"
 toc: false

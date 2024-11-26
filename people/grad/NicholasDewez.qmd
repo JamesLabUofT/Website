@@ -2,7 +2,7 @@
 title: "Nick Dewez"
 sortby: "Dewez, Nick"
 subtitle: "Ph.D. Student"
-image: /images/people/NicholasDewez/NicholasDewez.jpg
+image: ../../images/people/NicholasDewez/NicholasDewez.jpg
 started: "Fall 2023"
 ended: "Current"
 toc: false

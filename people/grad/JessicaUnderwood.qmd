@@ -2,7 +2,7 @@
 title: "Jessica Underwood"
 sortby: "Underwood, Jessica"
 subtitle: "MScF"
-image: /images/people/JessicaUnderwood/JessicaUnderwood.jpg
+image: ../../images/people/JessicaUnderwood/JessicaUnderwood.jpg
 started: "Fall 2024"
 ended: "Current"
 toc: false

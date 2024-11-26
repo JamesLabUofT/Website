@@ -2,7 +2,7 @@
 title: "João Pedro (JP) Fontenelle"
 sortby: "Fontenelle, JP"
 subtitle: "OG-CO Postdoctoral Fellow in Genome Data Science"
-image: /images/people/jpfontenelle/jpfontenelle.jpg
+image: ../../images/people/jpfontenelle/jpfontenelle.jpg
 started: "Fall 2020"
 ended: "Current"
 toc: false
