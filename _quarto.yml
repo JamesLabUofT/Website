@@ -8,7 +8,6 @@ website:
   navbar:
     collapse: true
     logo: "images/JamesLabLogo_Small.png"
-    logo-href: index.qmd
     left:
       - href: projects.qmd
         text: Projects
