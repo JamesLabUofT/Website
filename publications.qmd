@@ -163,9 +163,10 @@ Rayfield BR, **James PMA**, Fall A, Fortin M-J. 2007. Comparing static versus dy
 
 ### Book Chapters
 
-Doyon F, Sturtevant BR, Papaik M, Fall A, Miranda B, Kneeshaw DD, Messier C, Fortin M-J, **James PMA**. 2011. Assessing knowledge ambiguity in the creation of a model based on expert knowledge and comparison with the results of a landscape succession model in central Labrador. In: Expert Knowledge and its Application in Landscape Ecology. Perera A (Ed.). Springer. [lien vers page web livre]
+Doyon F, Sturtevant BR, Papaik M, Fall A, Miranda B, Kneeshaw DD, Messier C, Fortin M-J, **James PMA**. 2011. Assessing knowledge ambiguity in the creation of a model based on expert knowledge and comparison with the results of a landscape succession model in central Labrador. In: Expert Knowledge and its Application in Landscape Ecology. Perera A (Ed.). Springer. [Read it here](http://www.springer.com/life+sciences/ecology/book/978-1-4614-1033-1).
 
 **James PMA**, Fortin M-J. 2012. Ecosystems and Spatial Patterns. Encyclopaedia of Sustainability Science and Technology. Springer Science.
+
 ### Other Reports
 
 Craven D, Angers VA, Larose-Filotas E, Tittler R, M Desrochers, Messier C, **James PMA** . 2013. L'Aménagement écosystémique des forêts privées du Centre-du-Québec dans le contexte des changements globaux . Rapport Présenté à l'Agence forestière des Bois-Francs, 99 p.
