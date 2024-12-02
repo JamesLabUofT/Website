@@ -8,7 +8,9 @@
     <span><%= item.description %></span><br/>
     <% } %>
     <% if(item.image){ %>
-    <img width = "100%" src = "<%- item.image %>"><br/>
+    <div style = "text-align: center">
+      <img style="max-height:50vh;max-width:50vw;height:auto;width:auto;" src = "<%- item.image %>"><br/>
+    </div>
     <% } %>
     <span style = "font-size: 85%; color: gray"><%= item.date %><span>
     </li>
