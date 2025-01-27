@@ -20,19 +20,19 @@
     ]
   },
   {
-    "listing": "/projects.html",
-    "items": [
-      "/projects/Fire-Insect-Interaction.html",
-      "/projects/ForestEcosystemModelling.html",
-      "/projects/SpatialGenetics.html"
-    ]
-  },
-  {
     "listing": "/news.html",
     "items": []
   },
   {
     "listing": "/teaching.html",
     "items": []
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/Fire-Insect-Interaction.html",
+      "/projects/ForestEcosystemModelling.html",
+      "/projects/SpatialGenetics.html"
+    ]
   }
 ]
