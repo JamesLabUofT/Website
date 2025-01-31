@@ -3,11 +3,11 @@ project:
 
 website:
   title: "The James Lab"
-  favicon: "images/JamesLabLogo_Small.png"
+  favicon: "images/JamesLabLogo.png"
   search: false
   navbar:
     collapse: true
-    logo: "images/JamesLabLogo_Small.png"
+    logo: "images/JamesLabLogo.png"
     left:
       - href: projects.qmd
         text: Projects
@@ -21,6 +21,8 @@ website:
         text: News
       - href: contact.qmd
         text: Contact
+      - href: opportunities.qmd
+        text: Opportunities  
   page-footer:
     left: |
       **Patrick M. A. James** <br>
