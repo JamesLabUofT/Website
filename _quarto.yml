@@ -21,8 +21,8 @@ website:
         text: News
       - href: contact.qmd
         text: Contact
-      - href: opportunities.qmd
-        text: Opportunities  
+      #- href: opportunities.qmd
+      #  text: Opportunities  
   page-footer:
     left: |
       **Patrick M. A. James** <br>

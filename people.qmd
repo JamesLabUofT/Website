@@ -38,8 +38,8 @@ listing:
     field-display-names: 
       started: "Started"
     grid-item-align: center
-  - id: RA
-    contents: "people/RA/*.qmd"
+  - id: staff
+    contents: "people/staff/*.qmd"
     type: grid
     image-height: 225px
     grid-columns: 3
@@ -91,9 +91,9 @@ listing:
 :::{#grad}
 :::
 
-## Research assistant
+## Staff
 
-:::{#RA}
+:::{#staff}
 :::
 
 ## Undergraduate students

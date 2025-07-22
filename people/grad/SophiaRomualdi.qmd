@@ -20,7 +20,7 @@ about:
 :::
 ## Biography
 
-Sophia has a BSc from the University of Toronto in Ecology and Evolutionary Biology and Environmental Biology. She is currently working on her MScF, exploring the spatiotemporal, eco-genomic, and demographic data of the spruce budworm moth across eastern Canada in order to better characterize its outbreak dynamics and early intervention. In her free time, she enjoys crocheting, making beaded jewelry, and attempting to grow seasonal vegetables.
+Sophia has a BSc from the University of Toronto in Ecology and Evolutionary Biology and Environmental Biology. For her MScF, she is exploring the influence of bioinformatic filtering thresholds on population genetic inference, using the Eastern Spruce Budworm as a case study. In her free time, she enjoys crocheting, making beaded jewelry, and attempting to grow seasonal vegetables.
 
 ## Education
 

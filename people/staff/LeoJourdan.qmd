@@ -1,9 +1,9 @@
 ---
 title: "Léo Jourdan"
 sortby: "Jourdan, Léo"
-subtitle: "MScF"
+subtitle: "Research Assistant"
 image: ../../images/people/LeoJourdan/LeoJourdan.jpg
-started: "2023"
+started: "2025"
 ended: "Current"
 toc: false
 about:
@@ -22,18 +22,21 @@ about:
 :::
 ## Biography
 
-Léo has a BSc in Computer Science and Mathematics from the University of Toronto. He is currently working on his MScF in the James Lab, where he is devising methods for analyzing fuel structure attributes from point clouds of forests collected using Terrestrial LiDAR Scanners. These new methods will help him investigate the impact of jack pine budworm outbreaks on fire behaviour in Ontario’s boreal forest. When not busy writing code, he is either cooking or thinking about the next thing he is going to cook.
+Léo has a BSc in Computer Science and Mathematics, and a MScF, both from the University of Toronto. He completed his MScF in the James Lab, where he was devising methods for analyzing fuel structure attributes from point clouds of forests collected using Terrestrial LiDAR Scanners. These new methods helped him investigate the impact of jack pine budworm outbreaks on fire behaviour in Ontario’s boreal forest. He stayed in the lab as a Research Assistant, helping with the WRFI lidar project. When not busy writing code, he is either cooking or thinking about the next thing he is going to cook.
 
 
 ## Education
 
 -   **University of Toronto**<br /> Undergrad: Hon. BSc. in Computer Science and Mathematics
+-   **University of Toronto**<br /> Master of Science in Forestry
 
 ## Role in the lab
 
-Aside from working on his MScF, Léo likes to help his colleagues code, and enjoys taking care of the lab's computational server.
+When not simulating lidar, fires, or both, Léo likes to help his colleagues code, and enjoys taking care of the lab's computational server. If this website is out of date, it might be his fault!
 
 ## Conferences
+
+**Jourdan, L.,** & James, P. M. A. (2025, February. 25). Evaluating terrestrial lidar fuel metrics in NG-CFFDRS sampling plots  using synthetic point clouds. International workshop on the operational use of mobile and airborne lidar for enhanced forest inventory and modelling forest fire. Quebec City, Quebec.
 
 **Jourdan, L.**, & James, P. M. A. (2024, December 13). Evaluating fuel structure metrics using synthetic terrestrial lidar scans: Ontario’s jack pine stands as a case study. AGU 2024, Washington D.C., USA.
 
