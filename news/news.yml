@@ -1,6 +1,6 @@
 - description: Léo continues in the lab as a Research Assistant, helping with the WRFI lidar project
   date: July 2025
-- description: "JP, Kate, Jessica, and Sophia presented their research at the 2025 CSEE conference in Sherbrooke!
+- description: "JP, Kate, Jessica, and Sophia presented their research at the 2025 CSEE conference in Sherbrooke!\n
   JP presented the talk: “Effects of Connectivity (and Synchrony) on Genetic Differentiation Through Time in Cyclic Outbreaking Populations”"
   image: /images/news/csee2025.jpg
   date: July 2025
@@ -8,9 +8,9 @@
   link: https://www.nature.com/articles/s41597-025-04674-w
   image: /images/news/jp_nff_image.jpg
   date: July 2025
-- description: "JP and Prof. Nathan Lujan (ROM) organize the symposium “ROM Population Genomics Symposium”, bringing together PIs and Students from all UofT campus, including Patrick, Niamh, Kate, Jessica and Sophia.
-  Kate presented the talk: The challenges of outbreaking demography to population genetic studies of eastern spruce budworm
-  Jessica presented the talk: Genetic consequences of outbreaks in forest Lepidoptera: temporal variation in effective population size
+- description: "JP and Prof. Nathan Lujan (ROM) organize the symposium “ROM Population Genomics Symposium”, bringing together PIs and Students from all UofT campus, including Patrick, Niamh, Kate, Jessica and Sophia.\n
+  Kate presented the talk: The challenges of outbreaking demography to population genetic studies of eastern spruce budworm \n
+  Jessica presented the talk: Genetic consequences of outbreaks in forest Lepidoptera: temporal variation in effective population size \n 
   Patrick presented the talk: Using population genetics to understand insect outbreaks"
   image: /images/news/jp_rom_symposium.jpg
   date: June 2025
@@ -52,10 +52,9 @@
   image: /images/news/2024_Fieldwork.jpg
 - description: Patrick, Kate, and Jessica embark on fieldwork, sampling spruce budworm in Quebec.
   date: July 2024
-- description: "Kate, JP, Sophia, and Jessica attend the 3rd Joint Congress on Evolutionary Biology.
-    Kate presented her poster: “Leveraging citizen science to answer questions of population genetic inference in cyclic populations.”
-    JP presented the talk: “Variability in the sensitivity of outlier detection methods in outbreaking systems: a spruce budworm case study” and the poster: “How do population cycle outbreaks affect population genetic inferences?”
-    Sophia presented her poster: “Assigning phenologically asynchronous moths to source populations using individual genotypes.”
+- description: "Kate, JP, Sophia, and Jessica attend the 3rd Joint Congress on Evolutionary Biology.\n
+    Kate presented her poster: “Leveraging citizen science to answer questions of population genetic inference in cyclic populations.” \n    JP presented the talk: “Variability in the sensitivity of outlier detection methods in outbreaking systems: a spruce budworm case study” and the poster: “How do population cycle outbreaks affect population genetic inferences?”
+    Sophia presented her poster: “Assigning phenologically asynchronous moths to source populations using individual genotypes.” \n
     Jessica presented her poster: “Genetic consequences of outbreaks in forest Lepidoptera: temporal variation in effective population size (Ne).”"
   date: July 2024
 - description: Sophia joins the lab as an undergraduate.
@@ -63,8 +62,8 @@
 - description: "JP presents a poster at the 2024 CANSSI Research Day:
     Fontenelle, J. P., Cullingham, C., & James, P. (2024). How do population outbreak cycles affect population genetic inferences?"
   date: May 2024
-- description: "JP and Morgane attend the Annual Conference for the Canadian Society for Ecology & Evolution in Vancouver, British Columbia.
-    JP presents his work collaborating with Dr. Catherine Cullingham at Carleton University: “Demographic and genetic variation in population outbreak cycles: influences on genetic inferences and their consequences.”
+- description: "JP and Morgane attend the Annual Conference for the Canadian Society for Ecology & Evolution in Vancouver, British Columbia. \n
+    JP presents his work collaborating with Dr. Catherine Cullingham at Carleton University: “Demographic and genetic variation in population outbreak cycles: influences on genetic inferences and their consequences.” \n
     Morgane presents her talk: “The values of zeros: detecting Allee effect in low-density population time series.”"
   date: May 2024
 - description: Kennedy and Nick attend the Fuels and Fire Behaviour conference in Boise, Idaho. Kennedy presents her work on measuring spruce budworm-altered fuels through time using terrestrial LiDAR.

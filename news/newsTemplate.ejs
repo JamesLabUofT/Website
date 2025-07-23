@@ -5,7 +5,7 @@
     <% if(item.link){ %>
     <a href="<%- item.link %>"><%= item.description %></a><br/>
     <% } else{ %>  
-    <span><%= item.description %></span><br/>
+    <span style="white-space: pre-line"><%= item.description %></span><br/>
     <% } %>
     <% if(item.image){ %>
     <div style = "text-align: center">
@@ -14,6 +14,7 @@
     <% } %>
     <span style = "font-size: 85%; color: gray"><%= item.date %><span>
     </li>
+    <br>
 <% } %>
 </ul>
 ```
