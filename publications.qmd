@@ -1,15 +1,23 @@
 ### In Review
 
-Wall N, Fortin M-J, **James PMA**. Genetic effects of landscape change on three sympatric turtle species in southern Ontario, Canada. Conservation Genetics
+Korkola K, Beverly J, **James PMA**. Wildfire containment probability is not affected by eastern spruce budworm defoliation. International Journal of Wildland Fire
 
-**James PMA**, Fang JT, Wittische J, Cusson M, Larroque J, Roe A, Johns R. Assigning phenologically asynchronous moths to source populations using individual genotypes. Molecular Ecology
+Goldman J, Fortin M-J, **James PMA**. Within and among years moisture availability influences wildfire burn severity in the boreal forest. Fire Ecology
 
 Romualdi D, Parisien M-A, **James PMA**. The effect of mountain pine beetle outbreak legacies on wildfire burn severity in British Columbia, Canada. Fire Ecology
 
-Goldman J, Fortin M-J, **James PMA**. Direct and indirect effects of forest structure, snow-free date, and duration on wildfire burn severity in the boreal forest. Philosophical Transactions of the Royal Society B
+Goldman J, Fortin M-J, **James PMA**. Direct and indirect effects of forest structure, snow-free date, and duration on wildfire burn severity in the boreal forest. Forest Ecology and Management
 
 Wittische J, Legendre P, **James PMA**. Detecting temporal changes in genetic diversity: a new tool for molecular ecology studies with repeated surveys. Ecosphere
-Accepted
+## Accepted
+
+### 2025
+
+Wall N, Fortin M-J, **James PMA**. Genetic effects of landscape change on three sympatric turtle species in southern Ontario, Canada. Conservation Genetics
+
+**James PMA**, Fang JT, Wittische J, Cusson M, Larroque J, Roe A, Johns R. 2025. Assigning phenologically asynchronous moths to source populations using individual genotypes. Molecular Ecology
+
+Skretting T, Chasmer L, Watson C, **James PMA**, Townshend I, Perrakis D. 2025. Forest fuel structure and loading along a gradient of gray-phase mountain pine beetle severity in Jasper National Park, Alberta, Canada. Canadian Journal of Forest Research. 55, 1-14
 
 ### 2024
 
