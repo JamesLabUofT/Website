@@ -32,8 +32,6 @@ JP has a BSc in biological sciences and a MSc in zoology from the Universidade d
 
 Currently, JP is a Visiting Scholar at Museu Paraense Emilio Goeldi (Brazil)
 
-JP’s research is funded by a CANSSI / Ontario Genomics Postdoctoral Fellowship in Genome Data Science
-
 ## Education
 
 -   **University of Toronto**<br /> Doctor of Philosophy : Environmental Sciences (2015-2020)
@@ -48,13 +46,14 @@ JP is currently investigating the effects of demographic changes related to irru
 
 ### In review
 
-Charvet, P., **Fontenelle, J. P.**, Rincón, G., Rosa, R. S., de Araújo, M. L. G., Prang, G., Torres, Y. (all authors made an equal
-contribution to this chapter). River Jewels. IUCN Red List – IUCN SSC Shark Specialist Group.
+Hemraj-Naraine, D., **Fontenelle, J. P.**, Acosta-Santos, A., Lovejoy, N., Elford, L., Kolmann, M. A. A new species of freshwater stingray (Myliobatiformes: Potamotrygoninae) from the Demerara River, Guyana. _Neotropical Ichthyology_.
+
+::: {.content-hidden}
 
 ### Accepted for Publication
 
 
-Albert, J., Abrahão, V., Akin, D., Allen, J., Andrade, M., Arce, M., Armbruster, J., Benine, R., Bernt, M., Bichuette, M., Birindelli, J., Bragança, P., Britto, M., Buckup, P., Burns, M., Calegari, B., Carvalho, T., Casatti, L., Costa, W., Crampton, W., Dagosta, F., Egan, J., Fernández, L., Figueiredo, J., Fitzgerald, D., **Fontenelle, J. P.**, Haddad, E., Kolmann, M., Langeani, F., Lehmann, P., Leitão, R. P., Loeb, M., Lucena, C., Lucinda, P., Lujan, N., Malabarba, L., Matamoros, W., Melo, B., Netto-Ferreira, A., Pavanelli, C., Pelicice, F., Pereira, E., Plasencia, X., Ramos, R., Rocha, M., Roxo, F., Sant'Anna, V., Shibatta, O., Silva, R., Slobodian, V., Stange, M., Tagliacollo, V., Tan, M., Torgersen, K., Winemiller, K., Reis, R. 2024. An Ecological Trait Matrix of Neotropical Freshwater Fishes. _Nature Scientific Data_.
+:::
 
 ::: {.content-hidden}
 
@@ -73,6 +72,11 @@ Marques, F. P. L.; **Fontenelle, J. P.**; Lovejoy, N. R. Phylogenomics and popul
 :::
 
 ### Published
+
+20) Albert, J., Abrahão, V., Akin, D., Allen, J., Andrade, M., Arce, M., Armbruster, J., Benine, R., Bernt, M., Bichuette, M., Birindelli, J., Bragança, P., Britto, M., Buckup, P., Burns, M., Calegari, B., Carvalho, T., Casatti, L., Costa, W., Crampton, W., Dagosta, F., Egan, J., Fernández, L., Figueiredo, J., Fitzgerald, D., **Fontenelle, J. P.**, Haddad, E., Kolmann, M., Langeani, F., Lehmann, P., Leitão, R. P., Loeb, M., Lucena, C., Lucinda, P., Lujan, N., Malabarba, L., Matamoros, W., Melo, B., Netto-Ferreira, A., Pavanelli, C., Pelicice, F., Pereira, E., Plasencia, X., Ramos, R., Rocha, M., Roxo, F., Sant'Anna, V., Shibatta, O., Silva, R., Slobodian, V., Stange, M., Tagliacollo, V., Tan, M., Torgersen, K., Winemiller, K., Reis, R. (2025). An Ecological Trait Matrix of Neotropical Freshwater Fishes. _Nature Scientific Data_.[DOI](https://doi.org/10.1038/s41597-025-04674-w)
+
+19) Charvet, P., **Fontenelle, J. P.**, Rincón, G., Rosa, R. S., de Araújo, M. L. G., Prang, G., Torres, Y. (2024) (all authors made an equal
+contribution to this chapter). River Jewels. IUCN Red List – IUCN SSC Shark Specialist Group.[DOI](https://doi.org/10.59216/ssg.gsrsrc.2024) 
 
 18). **Fontenelle, J.P.**; Larroque, J.; Legault, S.; Wittische, J.; Underwood, J.A.R.; James, P.M.A. (2024) Multi-year genotype characterization of eastern spruce budworm outbreaking populations from Quebec and adjacent regions. _Ecology_.[DOI](https://doi.org/10.1002/ecy.4466)
 
@@ -112,7 +116,7 @@ Marques, F. P. L.; **Fontenelle, J. P.**; Lovejoy, N. R. Phylogenomics and popul
 
 ### Fundings and Awards
 
-- Ontario Genomics / CANSSI Ontario Postdoctoral Fellowship in Genome Data Science
+- Ontario Genomics / CANSSI Ontario Postdoctoral Fellowship in Genome Data Science (OG/CANSSI)
 - International PhD Scholarship (CNPq)
 - International Research Award (FAPESP)
 - Masters in Science Scholarship (FAPESP)
