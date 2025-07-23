@@ -1,7 +1,14 @@
 - description: Léo continues in the lab as a Research Assistant, helping with the WRFI lidar project
   date: July 2025
 - description: JP, Kate, Jessica, and Sophia presented their research at the 2025 CSEE conference in Sherbrooke!
+  JP presented the talk: “Effects of Connectivity (and Synchrony) on Genetic Differentiation Through Time in Cyclic Outbreaking Populations”
   date: July 2025
+- description: JP and Prof. Nathan Lujan (ROM) organized the symposium "ROM Population Genomics Symposium", bringing together PIs and Students from all UofT campus, including Patrick, Niamh, Kate, Jessica and Sophia.
+  Kate presentet the talk: The challenges of outbreaking demography to population genetic studies of eastern spruce budworm
+  Jessica presented the talk: Genetic consequences of outbreaks in forest Lepidoptera: temporal variation in effective population size
+  Patrick presented the talk: Using population genetics to understand insect outbreaks
+  image: /images/news/jp_rom_symposium.jpg
+  date: June 2025
 - description: Léo successfully defends his Masters' thesis!
   date: April 2025
 - description: JP is a dad again! Welcome baby Oran!
@@ -20,9 +27,10 @@
   date: October 2024
 - description: JP, Jessica and Patrick publish in Ecology!
   date: October 2024
+  image: /images/news/jp_ecology_datapaper.jpg
   link: https://doi.org/10.1002/ecy.4466
 - description: Jessica continues in the lab as a master’s student studying population genetics of cyclic outbreaking spruce budworm.
-  date: September 2024
+  date: September 2024https://doi.org/10.1093/icb/icae023
 - description: Sophia continues in the lab as a master’s student exploring the spatiotemporal eco-genomic and demographic data of the spruce budworm across eastern Canada.
   date: September 2024
 - description: Léo received an OGS scholarship to fund his second year as a MScF student.
@@ -56,6 +64,9 @@
   date: April 2024
 - description: Kennedy completed her Qualifying Exam and is now a PhD Candidate. Congrats Kennedy!
   date: April 2024
+- description: JP and others publish at Integrative and Comparative Biology.
+  date: April 2024
+  link: https://doi.org/10.1093/icb/icae023
 - description: "JP gives a talk: “Developing a Model Tool to Simulate Population Dynamics of Forest Outbreaking Pests to Support Conservations and Management Initiatives” at the 2024 Ontario Genomics Snack and Learn to stakeholders about his Ontario Genomics CANSSI Ontario fellowship."
   date: March 2024
 - description: Kate Brittain joins the lab as a postdoctoral fellow investigating spatial and temporal population dynamics to manage outbreaking insect species.
