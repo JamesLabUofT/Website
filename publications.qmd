@@ -9,6 +9,7 @@ Romualdi D, Parisien M-A, **James PMA**. The effect of mountain pine beetle outb
 Goldman J, Fortin M-J, **James PMA**. Direct and indirect effects of forest structure, snow-free date, and duration on wildfire burn severity in the boreal forest. Forest Ecology and Management
 
 Wittische J, Legendre P, **James PMA**. Detecting temporal changes in genetic diversity: a new tool for molecular ecology studies with repeated surveys. Ecosphere
+
 ## Accepted
 
 ### 2025
