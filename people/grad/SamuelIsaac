@@ -1,0 +1,32 @@
+---
+title: "Samuel Isaac"
+sortby: "Isaac, Samuel"
+subtitle: "MScF"
+image: ../../images/people/SamuelIsaac/SI_haliburton.png
+started: "Fall 2023"
+ended: "Current"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  #links:
+  #- text: GitHub
+  #  href: https://github.com/s6lmon
+  #- text: Email
+  #  href: mailto:samuel.isaac@mail.utoronto.ca
+---
+
+::: {#person-profile}
+:::
+## Biography
+
+Samuel a MScF reasearch steam student studying boreal disturbance interactions and their relationship to landscape fire exposure metrics. He completed his undergrad in forest conservation science and pure mathematics in 2025, supporting the James Lab as research assistant since 2023.
+He specializes in cellular automata forest landscape simulation models and their emergent landscape properties. Samuel also enjoys cooking and live music.
+
+## Education
+
+-   **University of Toronto**<br /> Honours Bachelor of Science
+
+## Role in the lab
+
+When not immersed the world of SELES, Samuel is currently working on a manuscript involving the modelling and simulation of timber-conservation trade-offs in Southern Labrador.
