@@ -3,7 +3,8 @@ title: "Samuel Isaac"
 sortby: "Isaac, Samuel"
 subtitle: "MScF"
 image: ../../images/people/SamuelIsaac/SI_haliburton.png
-started: "Fall 2023"
+start_year: 2025
+started: "Fall 2025"
 ended: "Current"
 toc: false
 about:

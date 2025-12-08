@@ -33,7 +33,7 @@ listing:
     type: grid
     image-height: 225px
     grid-columns: 3
-    sort: sortby
+    sort: start_year
     fields: [image, title, subtitle, started]
     field-display-names: 
       started: "Started"
@@ -62,17 +62,19 @@ listing:
     contents: 
     - "people/alumni/*.qmd"
     - "people/alumni/alumni.yml"
-    type: table
+    type: default
     sort: 
-    - "started desc"
-    - "subtitle"
-    fields: [title, subtitle, started]
-    sort-ui: [title, subtitle, started]
-    filter-ui: [title, subtitle, started]
+    - "ended desc"
+    - "started asc"
+    fields: [title, subtitle, ended, current]
+    sort-ui: [title, subtitle, ended, current]
+    filter-ui: [title, subtitle, ended, current]
     field-display-names: 
       title: "Name"
       subtitle: "Role"
-      started": "Started in the lab"
+      started: "Started in the lab"
+      ended: "Ended"
+      current: "Current role"
 ---
 
 

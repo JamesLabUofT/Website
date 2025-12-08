@@ -3,7 +3,7 @@ title: "Zackary Shakeri"
 sortby: "Shakeri, Zackary"
 subtitle: "PDF researcher"
 image: ../../images/people/ZackShakeri/IMG_1809.jpeg
-started: "January 2024"
+started: "Winter 2024"
 ended: "Current"
 toc: false
 about:

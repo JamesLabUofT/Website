@@ -3,6 +3,7 @@ title: "Niamh Wall"
 sortby: "Wall, Niamh"
 subtitle: "PhD Candidate"
 image: ../../images/people/NiamhWall/niamhwall_bltu.JPG
+start_year: 2019
 started: "Fall 2019"
 ended: "Present"
 toc: false

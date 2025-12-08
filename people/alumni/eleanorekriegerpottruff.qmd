@@ -4,7 +4,7 @@ sortby: "Krieger-Pottruff, Eleanore"
 subtitle: "Research Assistant"
 image: ../../images/people/eleanorekriegerpottruff/lnrkp.jpeg
 started: "2022"
-ended: "Present"
+ended: "2023"
 toc: false
 about:
   id: person-profile

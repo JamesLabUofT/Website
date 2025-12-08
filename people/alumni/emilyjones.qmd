@@ -4,7 +4,7 @@ sortby: "Jones, Emily"
 subtitle: "Graduate Research Assistant"
 image: ../../images/people/emilyjones/emilyjones.jpeg
 started: "2023"
-ended: "Present"
+ended: "2024"
 toc: false
 about:
   id: person-profile

@@ -3,6 +3,7 @@ title: "Morgane Henry"
 sortby: "Henry, Morgane"
 subtitle: "PhD"
 image: ../../images/people/MorganeHenry/MorganeHenry.jpeg
+start_year: 2021
 started: "Winter 2021"
 ended: "Current"
 toc: false

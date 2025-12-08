@@ -3,8 +3,9 @@ title: "João Pedro (JP) Fontenelle"
 sortby: "Fontenelle, JP"
 subtitle: "Postdoctoral Researcher"
 image: ../../images/people/jpfontenelle/jpfontenelle.jpg
-started: "Fall 2020"
-ended: "Current"
+started: 2020
+ended: 2025
+current: "Research Administration Officer @ UTSC" 
 toc: false
 about:
   links:

@@ -3,7 +3,8 @@ title: "Jack A. Goldman"
 sortby: "Goldman, Jack"
 subtitle: "PhD Candidate"
 image: ../../images/people/jackagoldman/Rushmore-headshot.jpeg
-started: "2020"
+start_year: 2020
+started: "Fall 2020"
 ended: "Present"
 toc: false
 about:

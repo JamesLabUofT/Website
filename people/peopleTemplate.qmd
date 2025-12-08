@@ -3,6 +3,7 @@ title: "first Last"
 sortby: "Last, First"
 subtitle: "Position in the lab"
 image: ../../images/people/YourFolder/YourImage.jpg
+start_year: YEAR
 started: "Season Year"
 ended: "Current or Season Year"
 toc: false
