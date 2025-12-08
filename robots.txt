@@ -1,1 +1,1 @@
-Sitemap: https://JamesLabUofT.github.io/Website/sitemap.xml
+Sitemap: https://jameslab.ca/sitemap.xml
