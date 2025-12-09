@@ -24,7 +24,8 @@ about:
 :::
 ## Biography
 
-I am a landscape ecologist in training and landscape genetics enthusiast. I am a PhD candidate in the James lab and Fortin lab at the University of Toronto's Institute of Forestry and Conservation. My PhD research focuses on the landscape and genetic connectivity of freshwater turtle populations in southern Ontario, Canada. I spend a lot of time thinking about how ecological research can be linked to on-the-ground conservation. 
+Niamh has a Bachelors in Environmental Management from the University of Guelph, and a Masters in Forest
+Conservation from the University of Toronto. Between her masters and her current role as a PhD candidate in the James lab, and the Fortin lab, she spent time in the environmental non-profit sector learning about policy and conservation in Ontario. Her research focuses on the conservation of Ontario's turtle species, specifically on how habitat loss and fragmentation affect these species persistence. 
 
 ## Education
 
@@ -33,15 +34,12 @@ I am a landscape ecologist in training and landscape genetics enthusiast. I am a
 
 ## Publications
 
-### In review
-
 Davy, Christina M., Newton, Erica, **Wall, Niamh M.**, Murphy, Robert W.
-Comparative spatial genetics of three at-risk freshwater turtles near their northern
-range limits. _Submitted to Animal Conservation_ 
+Species-specific genetic patterns in sympatric freshwater turtles challenge a generalized multi-species conservation approach. _Accepted in Animal Conservation_ 
 
-**Wall, Niamh M.**, Davy, Christina M., Fortin, Marie-Josée, James, P.M.A. 
+**Wall, Niamh M.**, Davy, Christina M., Fortin, Marie-Josée, James, P.M.A.(2025) 
 Genetic effects of landscape change on three sympatric turtle species in southern Ontario,
-Canada. _Submitted to Conservation Genetics_ 
+Canada. _Conservation Genetics_ 26, 953-969 
 
 ## Conference Presentations
 
