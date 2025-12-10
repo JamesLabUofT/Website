@@ -15,7 +15,9 @@ about:
     - text: ResearchGate
       href: https://www.researchgate.net/profile/Nooshin-Mashhadi/research
     - text: Email
-      href: mailto:nooshin.mashhadi1@utoronto.ca
+      href: mailto:nooshin.mashhadi@utoronto.ca
+	- text: LinkedIn
+      href: https://ca.linkedin.com/in/nooshin-mashhadi-395b07334
 ---
 
 ::: {#person-profile}
