@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Forest disturbance, landscape ecology, population genetics, ecosystem modelling – The James Lab</title>
+<title>The James Lab</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -26,6 +26,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
 <script src="site_libs/quarto-nav/headroom.min.js"></script>
 <link href="./images/JamesLabLogo.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
@@ -53,7 +55,66 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-news .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-description','listing-date','listing-image','listing-link',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] }],
+      page: 25,
+    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
+      searchColumns: ["listing-description","listing-date","listing-image","listing-link"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-news'] = new List('listing-news', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -117,7 +178,7 @@ ul.task-list li input[type="checkbox"] {
         
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content page-columns page-full" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -138,9 +199,75 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><img src="images/JamesLabLogo.png" class="img-fluid" style="width:80.0%"></p>
+
+<div class="no-row-height column-margin column-container"><div id="listing-news" class="quarto-listing quarto-listing-container-custom">
+<b> Latest lab news </b>
+<div>
+
+  <div data-index="0" data-listing-date-sort="1761955200000">
+      
+    <span style="white-space: pre-line">The lab goes on a retreat at the Koffler Scientific Reserve!</span><br>
+    
+    <span style="font-size: 85%; color: gray">November 2025<span>
+    </span></span></div>
+    <br>
+
+  <div data-index="1" data-listing-date-sort="1759276800000">
+      
+    <span style="white-space: pre-line">Kennedy, Léo and Nooshin travel to Kamloops for the 2025 WRCC: Building Foundational Knowledge Gathering. Léo presented the WRFI lidar project.</span><br>
+    
+    <span style="font-size: 85%; color: gray">October 2025<span>
+    </span></span></div>
+    <br>
+
+  <div data-index="2" data-listing-date-sort="1756684800000">
+      
+    <span style="white-space: pre-line">Sam continues in the lab as a master's student, exploring landscape simulation models!</span><br>
+    
+    <span style="font-size: 85%; color: gray">September 2025<span>
+    </span></span></div>
+    <br>
+
+  <div data-index="3" data-listing-date-sort="1756684800000">
+      
+    <span style="white-space: pre-line">Fynn joins the lab as a master's student, working on characterising surface fuels from lidar data!</span><br>
+    
+    <span style="font-size: 85%; color: gray">September 2025<span>
+    </span></span></div>
+    <br>
+
+  <div data-index="4" data-listing-date-sort="1756684800000">
+      
+    <span style="white-space: pre-line">Nooshin joins the lab as Postdoctoral Fellow, working on the WRFI lidar project!</span><br>
+    
+    <span style="font-size: 85%; color: gray">September 2025<span>
+    </span></span></div>
+    <br>
+
+  <div data-index="5" data-listing-date-sort="1751328000000">
+      
+    <span style="white-space: pre-line">Léo continues in the lab as a Research Assistant, helping with the WRFI lidar project</span><br>
+    
+    <span style="font-size: 85%; color: gray">July 2025<span>
+    </span></span></div>
+    <br>
+
+  <div data-index="6" data-listing-date-sort="1751328000000">
+      
+    <span style="white-space: pre-line">JP, Kate, Jessica, and Sophia presented their research at the 2025 CSEE conference in Sherbrooke!
+ JP presented the talk: “Effects of Connectivity (and Synchrony) on Genetic Differentiation Through Time in Cyclic Outbreaking Populations”</span><br>
+    
+    <span style="font-size: 85%; color: gray">July 2025<span>
+    </span></span></div>
+    <br>
+
+</div>
+<a href="./news.html">Older news</a> 
+<div class="listing-no-matching d-none">No matching items</div>
+</div></div><p><img src="images/JamesLabLogo.png" class="img-fluid" style="width:80.0%"></p>
 <p>We are a group of disturbance ecologists in the Institute of Forestry and Conservation at the University of Toronto. Our research explores the impacts of wildfire, insect disturbance and land-use on Canadian forest ecosystems in the current era of global change. We investigate these important problems through the application of a range of novel, quantitative, and data driven tools and methods.</p>
 <p>Our goal is to conduct research that has practical impacts for understanding the links between forest patterns and processes to better forecast the consequences of land-use and global change on forest health. We collaborate with government agencies, private stakeholders, and communities to generate new knowledge and meaningful impacts necessary for conserving forest ecosystem structure and function.</p>
+
 
 
 
