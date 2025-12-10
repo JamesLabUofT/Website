@@ -9,13 +9,15 @@ toc: false
 about:
   id: person-profile
   template: jolla
-  #links:
-  #- text: Google Scholar
-    #href: https://scholar.google.ca/citations?user=Wyath8cAAAAJ&hl=en
- # - text: ResearchGate
-   # href: https://www.researchgate.net/profile/Nooshin-Mashhadi/research
- # - text: Email
-    #href: mailto:nooshin.mashhadil@utoronto.ca
+  links:
+  - text: Google Scholar
+    href: https://scholar.google.ca/citations?user=Wyath8cAAAAJ&hl=en
+  - text: LinkedIn
+    href: https://ca.linkedin.com/in/nooshin-mashhadi-395b07334
+  - text: Email
+    href: mailto:nooshin.mashhadi@utoronto.ca
+  - text: ResearchGate
+    href: https://www.researchgate.net/profile/Nooshin-Mashhadi?ev=hdr_xprf
 ---
 
 ::: {#person-profile}
