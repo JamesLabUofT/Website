@@ -1,6 +1,25 @@
 ---
 title: "Forest disturbance, landscape ecology, population genetics, ecosystem modelling"
+pagetitle: "The James Lab"
+format:
+  html:
+    css: styles.css
+listing:
+- id: news
+  sort:
+    - "date desc"
+  contents: 
+    - news/news.yml
+  template: news/newsTemplateFrontPage.ejs
+  date-format: "MMMM YYYY"
+  max-items: 7
+  field-types:
+    date: date
 ---
+
+::: {.column-margin #news}
+
+:::
 
 ![](images/JamesLabLogo.png){width="80%"}
 
