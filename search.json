@@ -56,81 +56,95 @@
     "text": "Conferences\nJourdan, L., & James, P. M. A. (2025, February. 25). Evaluating terrestrial lidar fuel metrics in NG-CFFDRS sampling plots using synthetic point clouds. International workshop on the operational use of mobile and airborne lidar for enhanced forest inventory and modelling forest fire. Quebec City, Quebec.\nJourdan, L., & James, P. M. A. (2024, December 13). Evaluating fuel structure metrics using synthetic terrestrial lidar scans: Ontario’s jack pine stands as a case study. AGU 2024, Washington D.C., USA.\nJourdan, L., & James, P. M. A. (2024, November 26). Évaluation des métriques de combustibles en utilisant des données synthétiques de Lidar. TRIDIFOR 2024.\nJourdan, L., & James, P. M. A. (2024, October 31). Using synthetic terrestrial lidar scans to evaluate fuel structure metrics: Ontario’s jack pine stands as a case study. Wildland Fire Canada, Fredericton, N.B.\nRisk, C., Jourdan, L., Gandiaga, F., Korkola, K., & James, P. M. A. (2022, November 10). An interactive operations research tool for field work site selection in forestry. CANSSI Ontario Statistical Software Conference, Toronto, ON.\n\n\n\n\n\n\n\n\n\nBelow is a webpage for a demo of synthetic terrestrial lidar of Ontario’s jack pine stands. Prepared alongside a poster for the AGU 2024 conference."
   },
   {
-    "objectID": "people/grad/SophiaRomualdi.html",
-    "href": "people/grad/SophiaRomualdi.html",
-    "title": "Sophia Romualdi",
+    "objectID": "people/grad/fynndevuonofraser.html",
+    "href": "people/grad/fynndevuonofraser.html",
+    "title": "Fynn A. De Vuono-Fraser",
     "section": "",
-    "text": "Email"
+    "text": "email"
   },
   {
-    "objectID": "people/grad/SophiaRomualdi.html#biography",
-    "href": "people/grad/SophiaRomualdi.html#biography",
-    "title": "Sophia Romualdi",
+    "objectID": "people/grad/fynndevuonofraser.html#biography",
+    "href": "people/grad/fynndevuonofraser.html#biography",
+    "title": "Fynn A. De Vuono-Fraser",
     "section": "Biography",
-    "text": "Biography\nSophia has a BSc from the University of Toronto in Ecology and Evolutionary Biology and Environmental Biology. For her MScF, she is exploring the influence of bioinformatic filtering thresholds on population genetic inference, using the Eastern Spruce Budworm as a case study. In her free time, she enjoys crocheting, making beaded jewelry, and attempting to grow seasonal vegetables."
+    "text": "Biography\nI am a statastician with a strong interest in enviromental applications, and was introduced to forestry through my summer job as a tree planter. I am currently studying harvested forest fuel structure and fire behaviour through LiDAR scanning and prescribed burns, to determine how harvesting can be utalized to mitigate wildfire risk."
   },
   {
-    "objectID": "people/grad/SophiaRomualdi.html#education",
-    "href": "people/grad/SophiaRomualdi.html#education",
-    "title": "Sophia Romualdi",
+    "objectID": "people/grad/fynndevuonofraser.html#education",
+    "href": "people/grad/fynndevuonofraser.html#education",
+    "title": "Fynn A. De Vuono-Fraser",
     "section": "Education",
-    "text": "Education\n\nUniversity of Toronto Undergraduate degree: Double major in Ecology and Evolutionary Biology, and Environmental Biology University of Toronto MScF. 2024-Present"
+    "text": "Education\n\nUniversity of Guelph Bachelor of Mathematics and Statistics, 2020-2024"
   },
   {
-    "objectID": "people/grad/SophiaRomualdi.html#conferences",
-    "href": "people/grad/SophiaRomualdi.html#conferences",
-    "title": "Sophia Romualdi",
-    "section": "Conferences",
-    "text": "Conferences\nRomualdi, S., Fang, J., Wittische, J., James, P.M.A. Assigning phenologically asynchronous moths to source populations using individual genotypes. 3rd Joint Congress on Evolutionary Biology, July 26-30, 2024"
-  },
-  {
-    "objectID": "people/grad/MorganeHenry.html#biography",
-    "href": "people/grad/MorganeHenry.html#biography",
-    "title": "Morgane Henry",
-    "section": "Biography",
-    "text": "Biography\nCo-supervised with Brian Leung at McGill University\nMorgane has a BSc in Biology from the University of Lausanne (Switzerland) and a MSc in Marine Conservation from the University of Aberdeen (Scotland). Her work has transitioned from the marine ecosystem to the boreal forest and she is now studying the spatial outbreak dynamics of the spruce budworm. Her goal is to develop spatial models using demographic, environmental, and phenological data to investigate how environmental context and dispersal drive the spatial spread of spruce budworm outbreaks.\nMorgane’s research is funded by a FRQNT PhD Scholarship and an FRQNT Team Grant. ## Education\n\nUniversity of Aberdeen MSc in Marine Conservation\nUniversity of Lausanne BSc in Biology"
-  },
-  {
-    "objectID": "people/grad/jackagoldman.html",
-    "href": "people/grad/jackagoldman.html",
-    "title": "Jack A. Goldman",
+    "objectID": "people/grad/kennedykorkola.html",
+    "href": "people/grad/kennedykorkola.html",
+    "title": "Kennedy Korkola",
     "section": "",
-    "text": "ResearchGate\n  \n  \n     Twitter\n  \n  \n     GitHub\n  \n  \n     Email\n  \n  \n     Website"
+    "text": "Email\n  \n  \n     LinkedIn\n  \n  \n     Wildfire Analytics Lab"
   },
   {
-    "objectID": "people/grad/jackagoldman.html#biography",
-    "href": "people/grad/jackagoldman.html#biography",
-    "title": "Jack A. Goldman",
+    "objectID": "people/grad/kennedykorkola.html#biography",
+    "href": "people/grad/kennedykorkola.html#biography",
+    "title": "Kennedy Korkola",
     "section": "Biography",
-    "text": "Biography\nI am a disturbance ecologist and environmental data scientist interested in seasonally snow-covered forest ecosystems and the context dependent interactions between natural disturbances and climate change. My current research leverages large spatial and temporal datasets through remote sensing and other publicaly available sources to address the climate and ecological drivers of wildfire burn severity in the boreal forest. I incorporate methods from different fields, from remote sensing, spatial and temmporal modelling, and structural equation modelling to machine learning. Outside of his reseach, Jack is an avid cyclist, and can be found riding or racing his bike all over Ontario and Quebec."
+    "text": "Biography\nKennedy completed her BSc in Ecology and Evolutionary Biology and Human Biology at the University of Toronto. She has experience as a Fire Ranger in Northwestern Ontario which provides her with practical knowledge on fire behaviour and management in Ontario. Her PhD investigates the structural fuel changes following a spruce budworm outbreak and how these changes affect wildfire behaviour."
   },
   {
-    "objectID": "people/grad/jackagoldman.html#education",
-    "href": "people/grad/jackagoldman.html#education",
-    "title": "Jack A. Goldman",
-    "section": "Education",
-    "text": "Education\n\nConcordia Unviersity M.Sc 2017-2019\nUniversity of Toronto B.Sc 2013-2017"
-  },
-  {
-    "objectID": "people/grad/jackagoldman.html#role-in-the-lab",
-    "href": "people/grad/jackagoldman.html#role-in-the-lab",
-    "title": "Jack A. Goldman",
+    "objectID": "people/grad/kennedykorkola.html#role-in-the-lab",
+    "href": "people/grad/kennedykorkola.html#role-in-the-lab",
+    "title": "Kennedy Korkola",
     "section": "Role in the lab",
-    "text": "Role in the lab\nJack is currenly modelling wildfire burn severity across Ontario’s boreal shield ecoregion. Specifcally he is trying to better udnerstand the role of global change and insect disturbance on wildfire burn severity and ecosystem recover following wildfire. Jack is also developing reproducible workflows for generating burn severity and forest recovery maps using Google Earth Engine, check out his work here"
+    "text": "Role in the lab\nKennedy uses various machine learning and statistical modelling techniques to better understand how insect-altered fuels affect initial attack success and area burned in Ontario. She also leads field work in Northern Ontario in SBW and JPBW affected stands to better quantify these structural fuel changes with terrestrial LiDAR."
   },
   {
-    "objectID": "people/grad/jackagoldman.html#publications",
-    "href": "people/grad/jackagoldman.html#publications",
-    "title": "Jack A. Goldman",
+    "objectID": "people/grad/kennedykorkola.html#education",
+    "href": "people/grad/kennedykorkola.html#education",
+    "title": "Kennedy Korkola",
+    "section": "Education",
+    "text": "Education\n\nUniversity of Toronto B.Sc. 2016-2020\nUniversity of Toronto Ph.D. 2020-present"
+  },
+  {
+    "objectID": "people/grad/kennedykorkola.html#publications",
+    "href": "people/grad/kennedykorkola.html#publications",
+    "title": "Kennedy Korkola",
     "section": "Publications",
-    "text": "Publications\n\nIn Prep\nGoldman JA, Fortin MJ, James PMA. Moisture availability at short timescales influences wildfire burn severity in the boreal forest\n\n\nIn Review\nGoldman JA, Fortin MJ, James PMA. Direct and indirect effects of forest structure, snow-free date, and duration on wildfire burn severity in the boreal forest. Philosophical Transactions of the Royal Society B\n\n\nPublished\n7). Goldman JA, Crane A, Feyten, LEA, E Collins, Brown GE. (2022) Disturbance cue communication is shaped by emitter diet and receiver background risk in Trinidadian guppies. Current Zoology 68(4), 433-440\n6). Messaoud Y, Reid A, Tchebakova NM, Goldman JA, Hofgaard A. (2022) The Historical Complexity of Tree Height Growth Dynamic Associated with Climate Change in Western North America. Forests 13(5), 738\n5). Crane AL, Bairos-Novak KR, Goldman JA, Brown GE. (2021) Chemical disturbance cues in aquatic systems - a review and prospectus. Ecological Monographs 92(1), e10487 Link\n4). Brown GE, Demers EM, Goldman JA, Singh A, Ferrari MCO, Chivers DP. (2020) Unpredictable risk enhances induced neophobia in Northern red-bellied dace. Animal Behaviour 168, 121-127.\n3). Goldman JA, Desormeaux IS, Brown GE. (2020) Disturbance cues function as sources of risk assessment information under natural conditions. Freshwater Biology. 65(5), 981-986.\n2). Goldman JA, Feyten LEA, Ramnarine IW, Brown GE. (2020). Sender and receiver experience with risk alters the response to disturbance cues by Trinidadian guppies. Current Zoology 66(3), 255-261.\n1). Goldman JA, Singh A, Demers EM, Feyten LEA, Brown GE. (2019) Does donor group size matter? The response of Trinidadian guppies and Convict cichlids to disturbance cues from conspecific and heterospecific donors. Canadian Journal of Zoology, 97(4) 319-325. *Selected as Editor’s Choice"
+    "text": "Publications\nKorkola, K., Wheatley, M., Beverly, J., James, P. M. A. (2024). A comparative analysis of wildfire initial attack objectives and modelling strategies in Ontario, Canada. International Journal of Wildland Fire."
   },
   {
-    "objectID": "people/grad/jackagoldman.html#funding",
-    "href": "people/grad/jackagoldman.html#funding",
-    "title": "Jack A. Goldman",
-    "section": "Funding",
-    "text": "Funding\n\nOGS QEIISST 2023-2024\nNSERC PGS-D 2020-2023"
+    "objectID": "people/grad/kennedykorkola.html#conferences",
+    "href": "people/grad/kennedykorkola.html#conferences",
+    "title": "Kennedy Korkola",
+    "section": "Conferences",
+    "text": "Conferences\n\nKorkola, K., Beverly, J., James, P. M. A. (April 16, 2024). Quantifying the influence of spruce budworm on fuel structure through time using terrestrial LiDAR. Oral presentation at the Fuels and Fire Behaviour Conference (International). Boise, Idaho. Presented as part of doctoral thesis.\nKorkola, K., Beverly, J., James, P. M. A. (February 28, 2024). The effects of eastern spruce budworm defoliation on models of forest fire containment in Ontario. Oral presentation for CIFFC Students of Fire National Conversations. Presented as part of doctoral thesis.\nKorkola, K., James, P. M. A. (October 25, 2023) The impacts of spruce budworm defoliation on wildfire behaviour. Oral presentation at Forest Health Review. Orillia, ON. Presented as part of doctoral thesis.\nKorkola, K., Beverly, J., James, P. M. A. (November 1, 2022) The effects of eastern spruce budworm on initial attack success in Ontario. Poster presentation at the Wildland Fire Canada Conference (WFCC; National). Edmonton, Alberta. Presented as part of doctoral thesis.\nKorkola, K., Wheatley, M., Beverly, J., James, P. M. A. (November 1, 2022) Wildfire containment objectives and modelling strategies: a case study in Ontario, Canada. Poster presentation at the Wildland Fire Canada Conference (WFCC; National). Edmonton, Alberta.\nKorkola, K., Beverly, J., James, P. M. A. (June 23, 2022) Disturbance interactions in the boreal forest: the impacts of spruce budworm defoliation on fire suppression effectiveness. Oral presentation to the North American Forest Ecology Workshop (NAFEW; International). Sault St. Marie, ON. Presented as part of doctoral thesis.\nKorkola, K., Beverly, J., James, P. M. A. (November 24, 2021) Influence of spruce budworm defoliation on fire escape probability in Ontario. Oral presentation to the Canada Wildfire NSERC Strategic Network (National). Presented as part of doctoral thesis."
+  },
+  {
+    "objectID": "people/grad/kennedykorkola.html#gallery",
+    "href": "people/grad/kennedykorkola.html#gallery",
+    "title": "Kennedy Korkola",
+    "section": "Gallery",
+    "text": "Gallery\n Field work in northern Ontario using terrestrial LiDAR to measure fuel changes following eastern spruce budworm defoliation.\n Fighting fires in Dryden, Ontario."
+  },
+  {
+    "objectID": "people/grad/NicholasDewez.html",
+    "href": "people/grad/NicholasDewez.html",
+    "title": "Nick Dewez",
+    "section": "",
+    "text": "Nicholas has a a B.S. in Forestry from the University of Idaho and a M.S. in Biology from Texas A&M University Kingsville, preceeded by several years of practical field experience in the Rocky Mountains. Nicholas is curious about topics related to landscape-scale relationships between pattern and process in forest ecosystems. His work with the James Lab at U of T focuses on better understanding the mechanistic links between Spruce Budworm (Choristoneura fumiferana) defoliation and fire hazard. By leveraging big data and simulation modelling, he is looking to gain new insight into the implications of these linked effects for estimating burn probability under climate change. When not at his desk, Nicholas can be found riding his bike to the nearest auto show or exploring the trails Toronto has to offer.\n\n\n\n\nTexas A&M University - Kingsville M.S. Biology\nUniversity of Idaho  B.S. Forestry"
+  },
+  {
+    "objectID": "people/grad/NicholasDewez.html#biography",
+    "href": "people/grad/NicholasDewez.html#biography",
+    "title": "Nick Dewez",
+    "section": "",
+    "text": "Nicholas has a a B.S. in Forestry from the University of Idaho and a M.S. in Biology from Texas A&M University Kingsville, preceeded by several years of practical field experience in the Rocky Mountains. Nicholas is curious about topics related to landscape-scale relationships between pattern and process in forest ecosystems. His work with the James Lab at U of T focuses on better understanding the mechanistic links between Spruce Budworm (Choristoneura fumiferana) defoliation and fire hazard. By leveraging big data and simulation modelling, he is looking to gain new insight into the implications of these linked effects for estimating burn probability under climate change. When not at his desk, Nicholas can be found riding his bike to the nearest auto show or exploring the trails Toronto has to offer."
+  },
+  {
+    "objectID": "people/grad/NicholasDewez.html#education",
+    "href": "people/grad/NicholasDewez.html#education",
+    "title": "Nick Dewez",
+    "section": "",
+    "text": "Texas A&M University - Kingsville M.S. Biology\nUniversity of Idaho  B.S. Forestry"
   },
   {
     "objectID": "people/grad/NiamhWall.html",
@@ -462,95 +476,81 @@
     "text": "Role in the lab\nWhen not immersed the world of SELES, Samuel is currently working on a manuscript involving the modelling and simulation of timber-conservation trade-offs in Southern Labrador."
   },
   {
-    "objectID": "people/grad/bio.html",
-    "href": "people/grad/bio.html",
-    "title": "Fynn A. De Vuono-Fraser",
+    "objectID": "people/grad/jackagoldman.html",
+    "href": "people/grad/jackagoldman.html",
+    "title": "Jack A. Goldman",
     "section": "",
-    "text": "email"
+    "text": "ResearchGate\n  \n  \n     Twitter\n  \n  \n     GitHub\n  \n  \n     Email\n  \n  \n     Website"
   },
   {
-    "objectID": "people/grad/bio.html#biography",
-    "href": "people/grad/bio.html#biography",
-    "title": "Fynn A. De Vuono-Fraser",
+    "objectID": "people/grad/jackagoldman.html#biography",
+    "href": "people/grad/jackagoldman.html#biography",
+    "title": "Jack A. Goldman",
     "section": "Biography",
-    "text": "Biography\nI am a statastician with a strong interest in enviromental applications, and was introduced to forestry through my summer job as a tree planter. I am currently studying harvested forest fuel structure and fire behaviour through LiDAR scanning and prescribed burns, to determine how harvesting can be utalized to mitigate wildfire risk."
+    "text": "Biography\nI am a disturbance ecologist and environmental data scientist interested in seasonally snow-covered forest ecosystems and the context dependent interactions between natural disturbances and climate change. My current research leverages large spatial and temporal datasets through remote sensing and other publicaly available sources to address the climate and ecological drivers of wildfire burn severity in the boreal forest. I incorporate methods from different fields, from remote sensing, spatial and temmporal modelling, and structural equation modelling to machine learning. Outside of his reseach, Jack is an avid cyclist, and can be found riding or racing his bike all over Ontario and Quebec."
   },
   {
-    "objectID": "people/grad/bio.html#education",
-    "href": "people/grad/bio.html#education",
-    "title": "Fynn A. De Vuono-Fraser",
+    "objectID": "people/grad/jackagoldman.html#education",
+    "href": "people/grad/jackagoldman.html#education",
+    "title": "Jack A. Goldman",
     "section": "Education",
-    "text": "Education\n\nUniversity of Guelph Bachelor of Mathematics and Statistics, 2020-2024"
+    "text": "Education\n\nConcordia Unviersity M.Sc 2017-2019\nUniversity of Toronto B.Sc 2013-2017"
   },
   {
-    "objectID": "people/grad/NicholasDewez.html",
-    "href": "people/grad/NicholasDewez.html",
-    "title": "Nick Dewez",
-    "section": "",
-    "text": "Nicholas has a a B.S. in Forestry from the University of Idaho and a M.S. in Biology from Texas A&M University Kingsville, preceeded by several years of practical field experience in the Rocky Mountains. Nicholas is curious about topics related to landscape-scale relationships between pattern and process in forest ecosystems. His work with the James Lab at U of T focuses on better understanding the mechanistic links between Spruce Budworm (Choristoneura fumiferana) defoliation and fire hazard. By leveraging big data and simulation modelling, he is looking to gain new insight into the implications of these linked effects for estimating burn probability under climate change. When not at his desk, Nicholas can be found riding his bike to the nearest auto show or exploring the trails Toronto has to offer.\n\n\n\n\nTexas A&M University - Kingsville M.S. Biology\nUniversity of Idaho  B.S. Forestry"
-  },
-  {
-    "objectID": "people/grad/NicholasDewez.html#biography",
-    "href": "people/grad/NicholasDewez.html#biography",
-    "title": "Nick Dewez",
-    "section": "",
-    "text": "Nicholas has a a B.S. in Forestry from the University of Idaho and a M.S. in Biology from Texas A&M University Kingsville, preceeded by several years of practical field experience in the Rocky Mountains. Nicholas is curious about topics related to landscape-scale relationships between pattern and process in forest ecosystems. His work with the James Lab at U of T focuses on better understanding the mechanistic links between Spruce Budworm (Choristoneura fumiferana) defoliation and fire hazard. By leveraging big data and simulation modelling, he is looking to gain new insight into the implications of these linked effects for estimating burn probability under climate change. When not at his desk, Nicholas can be found riding his bike to the nearest auto show or exploring the trails Toronto has to offer."
-  },
-  {
-    "objectID": "people/grad/NicholasDewez.html#education",
-    "href": "people/grad/NicholasDewez.html#education",
-    "title": "Nick Dewez",
-    "section": "",
-    "text": "Texas A&M University - Kingsville M.S. Biology\nUniversity of Idaho  B.S. Forestry"
-  },
-  {
-    "objectID": "people/grad/kennedykorkola.html",
-    "href": "people/grad/kennedykorkola.html",
-    "title": "Kennedy Korkola",
-    "section": "",
-    "text": "Email\n  \n  \n     LinkedIn\n  \n  \n     Wildfire Analytics Lab"
-  },
-  {
-    "objectID": "people/grad/kennedykorkola.html#biography",
-    "href": "people/grad/kennedykorkola.html#biography",
-    "title": "Kennedy Korkola",
-    "section": "Biography",
-    "text": "Biography\nKennedy completed her BSc in Ecology and Evolutionary Biology and Human Biology at the University of Toronto. She has experience as a Fire Ranger in Northwestern Ontario which provides her with practical knowledge on fire behaviour and management in Ontario. Her PhD investigates the structural fuel changes following a spruce budworm outbreak and how these changes affect wildfire behaviour."
-  },
-  {
-    "objectID": "people/grad/kennedykorkola.html#role-in-the-lab",
-    "href": "people/grad/kennedykorkola.html#role-in-the-lab",
-    "title": "Kennedy Korkola",
+    "objectID": "people/grad/jackagoldman.html#role-in-the-lab",
+    "href": "people/grad/jackagoldman.html#role-in-the-lab",
+    "title": "Jack A. Goldman",
     "section": "Role in the lab",
-    "text": "Role in the lab\nKennedy uses various machine learning and statistical modelling techniques to better understand how insect-altered fuels affect initial attack success and area burned in Ontario. She also leads field work in Northern Ontario in SBW and JPBW affected stands to better quantify these structural fuel changes with terrestrial LiDAR."
+    "text": "Role in the lab\nJack is currenly modelling wildfire burn severity across Ontario’s boreal shield ecoregion. Specifcally he is trying to better udnerstand the role of global change and insect disturbance on wildfire burn severity and ecosystem recover following wildfire. Jack is also developing reproducible workflows for generating burn severity and forest recovery maps using Google Earth Engine, check out his work here"
   },
   {
-    "objectID": "people/grad/kennedykorkola.html#education",
-    "href": "people/grad/kennedykorkola.html#education",
-    "title": "Kennedy Korkola",
-    "section": "Education",
-    "text": "Education\n\nUniversity of Toronto B.Sc. 2016-2020\nUniversity of Toronto Ph.D. 2020-present"
-  },
-  {
-    "objectID": "people/grad/kennedykorkola.html#publications",
-    "href": "people/grad/kennedykorkola.html#publications",
-    "title": "Kennedy Korkola",
+    "objectID": "people/grad/jackagoldman.html#publications",
+    "href": "people/grad/jackagoldman.html#publications",
+    "title": "Jack A. Goldman",
     "section": "Publications",
-    "text": "Publications\nKorkola, K., Wheatley, M., Beverly, J., James, P. M. A. (2024). A comparative analysis of wildfire initial attack objectives and modelling strategies in Ontario, Canada. International Journal of Wildland Fire."
+    "text": "Publications\n\nIn Prep\nGoldman JA, Fortin MJ, James PMA. Moisture availability at short timescales influences wildfire burn severity in the boreal forest\n\n\nIn Review\nGoldman JA, Fortin MJ, James PMA. Direct and indirect effects of forest structure, snow-free date, and duration on wildfire burn severity in the boreal forest. Philosophical Transactions of the Royal Society B\n\n\nPublished\n7). Goldman JA, Crane A, Feyten, LEA, E Collins, Brown GE. (2022) Disturbance cue communication is shaped by emitter diet and receiver background risk in Trinidadian guppies. Current Zoology 68(4), 433-440\n6). Messaoud Y, Reid A, Tchebakova NM, Goldman JA, Hofgaard A. (2022) The Historical Complexity of Tree Height Growth Dynamic Associated with Climate Change in Western North America. Forests 13(5), 738\n5). Crane AL, Bairos-Novak KR, Goldman JA, Brown GE. (2021) Chemical disturbance cues in aquatic systems - a review and prospectus. Ecological Monographs 92(1), e10487 Link\n4). Brown GE, Demers EM, Goldman JA, Singh A, Ferrari MCO, Chivers DP. (2020) Unpredictable risk enhances induced neophobia in Northern red-bellied dace. Animal Behaviour 168, 121-127.\n3). Goldman JA, Desormeaux IS, Brown GE. (2020) Disturbance cues function as sources of risk assessment information under natural conditions. Freshwater Biology. 65(5), 981-986.\n2). Goldman JA, Feyten LEA, Ramnarine IW, Brown GE. (2020). Sender and receiver experience with risk alters the response to disturbance cues by Trinidadian guppies. Current Zoology 66(3), 255-261.\n1). Goldman JA, Singh A, Demers EM, Feyten LEA, Brown GE. (2019) Does donor group size matter? The response of Trinidadian guppies and Convict cichlids to disturbance cues from conspecific and heterospecific donors. Canadian Journal of Zoology, 97(4) 319-325. *Selected as Editor’s Choice"
   },
   {
-    "objectID": "people/grad/kennedykorkola.html#conferences",
-    "href": "people/grad/kennedykorkola.html#conferences",
-    "title": "Kennedy Korkola",
+    "objectID": "people/grad/jackagoldman.html#funding",
+    "href": "people/grad/jackagoldman.html#funding",
+    "title": "Jack A. Goldman",
+    "section": "Funding",
+    "text": "Funding\n\nOGS QEIISST 2023-2024\nNSERC PGS-D 2020-2023"
+  },
+  {
+    "objectID": "people/grad/MorganeHenry.html#biography",
+    "href": "people/grad/MorganeHenry.html#biography",
+    "title": "Morgane Henry",
+    "section": "Biography",
+    "text": "Biography\nCo-supervised with Brian Leung at McGill University\nMorgane has a BSc in Biology from the University of Lausanne (Switzerland) and a MSc in Marine Conservation from the University of Aberdeen (Scotland). Her work has transitioned from the marine ecosystem to the boreal forest and she is now studying the spatial outbreak dynamics of the spruce budworm. Her goal is to develop spatial models using demographic, environmental, and phenological data to investigate how environmental context and dispersal drive the spatial spread of spruce budworm outbreaks.\nMorgane’s research is funded by a FRQNT PhD Scholarship and an FRQNT Team Grant. ## Education\n\nUniversity of Aberdeen MSc in Marine Conservation\nUniversity of Lausanne BSc in Biology"
+  },
+  {
+    "objectID": "people/grad/SophiaRomualdi.html",
+    "href": "people/grad/SophiaRomualdi.html",
+    "title": "Sophia Romualdi",
+    "section": "",
+    "text": "Email"
+  },
+  {
+    "objectID": "people/grad/SophiaRomualdi.html#biography",
+    "href": "people/grad/SophiaRomualdi.html#biography",
+    "title": "Sophia Romualdi",
+    "section": "Biography",
+    "text": "Biography\nSophia has a BSc from the University of Toronto in Ecology and Evolutionary Biology and Environmental Biology. For her MScF, she is exploring the influence of bioinformatic filtering thresholds on population genetic inference, using the Eastern Spruce Budworm as a case study. In her free time, she enjoys crocheting, making beaded jewelry, and attempting to grow seasonal vegetables."
+  },
+  {
+    "objectID": "people/grad/SophiaRomualdi.html#education",
+    "href": "people/grad/SophiaRomualdi.html#education",
+    "title": "Sophia Romualdi",
+    "section": "Education",
+    "text": "Education\n\nUniversity of Toronto Undergraduate degree: Double major in Ecology and Evolutionary Biology, and Environmental Biology University of Toronto MScF. 2024-Present"
+  },
+  {
+    "objectID": "people/grad/SophiaRomualdi.html#conferences",
+    "href": "people/grad/SophiaRomualdi.html#conferences",
+    "title": "Sophia Romualdi",
     "section": "Conferences",
-    "text": "Conferences\n\nKorkola, K., Beverly, J., James, P. M. A. (April 16, 2024). Quantifying the influence of spruce budworm on fuel structure through time using terrestrial LiDAR. Oral presentation at the Fuels and Fire Behaviour Conference (International). Boise, Idaho. Presented as part of doctoral thesis.\nKorkola, K., Beverly, J., James, P. M. A. (February 28, 2024). The effects of eastern spruce budworm defoliation on models of forest fire containment in Ontario. Oral presentation for CIFFC Students of Fire National Conversations. Presented as part of doctoral thesis.\nKorkola, K., James, P. M. A. (October 25, 2023) The impacts of spruce budworm defoliation on wildfire behaviour. Oral presentation at Forest Health Review. Orillia, ON. Presented as part of doctoral thesis.\nKorkola, K., Beverly, J., James, P. M. A. (November 1, 2022) The effects of eastern spruce budworm on initial attack success in Ontario. Poster presentation at the Wildland Fire Canada Conference (WFCC; National). Edmonton, Alberta. Presented as part of doctoral thesis.\nKorkola, K., Wheatley, M., Beverly, J., James, P. M. A. (November 1, 2022) Wildfire containment objectives and modelling strategies: a case study in Ontario, Canada. Poster presentation at the Wildland Fire Canada Conference (WFCC; National). Edmonton, Alberta.\nKorkola, K., Beverly, J., James, P. M. A. (June 23, 2022) Disturbance interactions in the boreal forest: the impacts of spruce budworm defoliation on fire suppression effectiveness. Oral presentation to the North American Forest Ecology Workshop (NAFEW; International). Sault St. Marie, ON. Presented as part of doctoral thesis.\nKorkola, K., Beverly, J., James, P. M. A. (November 24, 2021) Influence of spruce budworm defoliation on fire escape probability in Ontario. Oral presentation to the Canada Wildfire NSERC Strategic Network (National). Presented as part of doctoral thesis."
-  },
-  {
-    "objectID": "people/grad/kennedykorkola.html#gallery",
-    "href": "people/grad/kennedykorkola.html#gallery",
-    "title": "Kennedy Korkola",
-    "section": "Gallery",
-    "text": "Gallery\n Field work in northern Ontario using terrestrial LiDAR to measure fuel changes following eastern spruce budworm defoliation.\n Fighting fires in Dryden, Ontario."
+    "text": "Conferences\nRomualdi, S., Fang, J., Wittische, J., James, P.M.A. Assigning phenologically asynchronous moths to source populations using individual genotypes. 3rd Joint Congress on Evolutionary Biology, July 26-30, 2024"
   },
   {
     "objectID": "people/undergrad/JacobKlimczak.html#biography",
