@@ -11,11 +11,11 @@
     "items": []
   },
   {
-    "listing": "/index.html",
+    "listing": "/teaching.html",
     "items": []
   },
   {
-    "listing": "/teaching.html",
+    "listing": "/index.html",
     "items": []
   },
   {
@@ -33,6 +33,7 @@
       "/people/grad/JessicaUnderwood.html",
       "/people/grad/SophiaRomualdi.html",
       "/people/grad/SamuelIsaac.html",
+      "/people/grad/bio.html",
       "/people/staff/LeoJourdan.html",
       "/people/undergrad/JacobKlimczak.html",
       "/people/alumni/jpfontenelle.html",
