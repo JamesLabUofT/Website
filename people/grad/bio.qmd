@@ -1,0 +1,26 @@
+--- 
+title: "Fynn A. De Vuono-Fraser"
+sortby: "De Vuono-Fraser, Fynn"
+subtitle: "MScF"
+image: /images/people/fynndevuonofraser/pic.jpg
+start_year: 2025
+started: "2025"
+ended: "Current"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - text: email
+      href: mailto:fynndevuonofraser@mail.utoronto.ca
+---
+
+::: {#person-profile}
+:::
+## Biography
+
+I am a statastician with a strong interest in enviromental applications, and was introduced to forestry through my summer job as a tree planter. I am currently studying harvested forest fuel structure and fire behaviour through LiDAR scanning and prescribed burns, to determine how harvesting can be utalized to mitigate wildfire risk. 
+
+## Education
+
+-   **University of Guelph**<br /> Bachelor of Mathematics and Statistics, 2020-2024
