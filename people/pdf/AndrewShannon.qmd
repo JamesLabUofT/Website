@@ -1,0 +1,24 @@
+---
+title: "Andrew Shannon"
+sortby: "Shannon, Andrew"
+subtitle: "PDF Researcher"
+image: ../../images/people/AndrewShannon/AndrewShannon.png
+start_year: 2026
+started: "Winter 2026"
+ended: "Current"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  #links:
+  #- text: GitHub
+  #  href: https://github.com/yourgithub
+  #- text: Email
+  #  href: mailto:youremail@utoronto.ca
+---
+
+::: {#person-profile}
+:::
+## Biography
+
+Andrew completed his PhD in Geospatial Analytics from North Carolina State University, where he studied the interactions between multiple forest disturbance agents (fire & drought), management activities, and climate across temperate forest types in the continental United States. He seeks to leverage his experience in remote sensing, GIS, and landscape simulation modeling to provide future-oriented, decision support information to practitioners and managers through collaborative research projects. In the James Lab, Andrew is excited to study the interactions between insect outbreak, forest fire, and management to enhance the understanding of disturbance dynamics in boreal forests systems across various scales of time and space in partnership with the Ontario Ministry of Natural Resources.

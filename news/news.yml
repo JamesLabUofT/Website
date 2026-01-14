@@ -7,9 +7,17 @@
 # escape the " character with a \ (e.g. \"title \")
 # Most importantly: TEST your changes before pushing please. Simply render the news.qmd page and ensure everything you've added is
 # where you expect, and none of the surrounding news items are broken.
+- description: Andrew joins the lab as Postdoctoral Fellow, working on spatial disturbance dynamics in Ontario's boreal forest! 
+  date: January 2026
+- description: Jack successfully defends his PhD thesis at the departmental oral examination! Onto the Senate defence!
+  date: December 2025
+- description: Sophia successfully defends her Masters' thesis! Congratulations Sophia!
+  date: December 2025
 - description: The lab goes on a retreat at the Koffler Scientific Reserve!
   date: November 2025
   image: /images/news/LabRetreat_2025.JPG
+- description: "Kennedy attends the National Forest Pest Management Forum and presented the talk: “Quantifying Fuel Structural Changes Following Spruce Budworm Outbreaks”"
+  date: November 2025
 - description: "Kennedy, Léo and Nooshin travel to Kamloops for the 2025 WRCC: Building Foundational Knowledge Gathering. Léo presented the WRFI lidar project."
   date: October 2025
   image: /images/news/Leo_WRCC2025.jpeg
