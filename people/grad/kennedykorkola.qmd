@@ -38,23 +38,34 @@ Kennedy uses various machine learning and statistical modelling techniques to be
 
 ## Publications
 
-Korkola, K., Wheatley, M., Beverly, J., James, P. M. A. (2024). A comparative analysis of wildfire initial attack objectives and modelling strategies in Ontario, Canada. International Journal of Wildland Fire. 
+Korkola, K., Wheatley, M., Beverly, J., James, P.M. and Wotton, M., 2024. A comparative analysis of wildfire initial attack containment objectives and modelling strategies in Ontario, Canada. International Journal of Wildland Fire, 33(12).
+
+Korkola, K., Beverly, J.L. and James, P.M., 2025. Wildfire containment probability is not affected by eastern spruce budworm defoliation in Ontario, Canada. International Journal of Wildland Fire, 34(9), p.WF25058.
+
+Jourdan, L., Korkola, K., Piascik, P., James, P.M., Right on target: monopods and polystyrene spheres as an alternative to traditional tripods for terrestrial laser scanning. Canadian Journal of Forest Research (in review). 
+
 
 ## Conferences
 
--   Korkola, K., Beverly, J., James, P. M. A. (April 16, 2024). Quantifying the influence of spruce budworm on fuel structure through time using terrestrial LiDAR. Oral presentation at the Fuels and Fire Behaviour Conference (International). Boise, Idaho. Presented as part of doctoral thesis. 
+-   Korkola, K., & James, P. M. A. (November 19, 2025). Quantifying the influence of spruce budworm on fuel structure through time. National Forest Pest Management Forum, Ottawa, Ontario.
 
--   Korkola, K., Beverly, J., James, P. M. A. (February 28, 2024). The effects of eastern spruce budworm defoliation on models of forest fire containment in Ontario. Oral presentation for CIFFC Students of Fire National Conversations. Presented as part of doctoral thesis. 
+-   Korkola, K., & James, P. M. A. (February 25, 2025). Quantifying the influence of spruce budworm on fuel structure through time using terrestrial LiDAR. International Workshop on the Operational Use of Mobile and Airborne LiDAR for Enhanced Forest Inventory and Modelling Forest Fire, Quebec City, Quebec.
 
--   Korkola, K., James, P. M. A. (October 25, 2023) The impacts of spruce budworm defoliation on wildfire behaviour. Oral presentation at Forest Health Review. Orillia, ON. Presented as part of doctoral thesis.
+-   Korkola, K., Beverly, J., James, P. M. A. (October 30, 2024). Impact of eastern spruce budworm defoliation on area burned in Ontario's boreal forest. Wildfire Canada Conference. Fredericton, New Brunswick. 
 
--   Korkola, K., Beverly, J., James, P. M. A. (November 1, 2022) The effects of eastern spruce budworm on initial attack success in Ontario. Poster presentation at the Wildland Fire Canada Conference (WFCC; National). Edmonton, Alberta. Presented as part of doctoral thesis.  
+-   Korkola, K., Beverly, J., James, P. M. A. (April 16, 2024). Quantifying the influence of spruce budworm on fuel structure through time using terrestrial LiDAR. Oral presentation at the Fuels and Fire Behaviour Conference (International). Boise, Idaho. 
+
+-   Korkola, K., Beverly, J., James, P. M. A. (February 28, 2024). The effects of eastern spruce budworm defoliation on models of forest fire containment in Ontario. Oral presentation for CIFFC Students of Fire National Conversations.  
+
+-   Korkola, K., James, P. M. A. (October 25, 2023) The impacts of spruce budworm defoliation on wildfire behaviour. Oral presentation at Forest Health Review. Orillia, ON. 
+
+-   Korkola, K., Beverly, J., James, P. M. A. (November 1, 2022) The effects of eastern spruce budworm on initial attack success in Ontario. Poster presentation at the Wildland Fire Canada Conference (WFCC; National). Edmonton, Alberta.  
 
 -   Korkola, K., Wheatley, M., Beverly, J., James, P. M. A. (November 1, 2022) Wildfire containment objectives and modelling strategies: a case study in Ontario, Canada. Poster presentation at the Wildland Fire Canada Conference (WFCC; National). Edmonton, Alberta.  
 
--   Korkola, K., Beverly, J., James, P. M. A. (June 23, 2022) Disturbance interactions in the boreal forest: the impacts of spruce budworm defoliation on fire suppression effectiveness. Oral presentation to the North American Forest Ecology Workshop (NAFEW; International). Sault St. Marie, ON. Presented as part of doctoral thesis. 
+-   Korkola, K., Beverly, J., James, P. M. A. (June 23, 2022) Disturbance interactions in the boreal forest: the impacts of spruce budworm defoliation on fire suppression effectiveness. Oral presentation to the North American Forest Ecology Workshop (NAFEW; International). Sault St. Marie, ON.  
 
--   Korkola, K., Beverly, J., James, P. M. A. (November 24, 2021) Influence of spruce budworm defoliation on fire escape probability in Ontario. Oral presentation to the Canada Wildfire NSERC Strategic Network (National). Presented as part of doctoral thesis. 
+-   Korkola, K., Beverly, J., James, P. M. A. (November 24, 2021) Influence of spruce budworm defoliation on fire escape probability in Ontario. Oral presentation to the Canada Wildfire NSERC Strategic Network (National).  
 
 ## Gallery 
 ![Field work](/images/people/kennedykorkola/lidar_kk_field.jpg)
@@ -62,3 +73,6 @@ Field work in northern Ontario using terrestrial LiDAR to measure fuel changes f
 
 ![FireRanger](/images/people/kennedykorkola/fire_kk_omnr.jpg)
 Fighting fires in Dryden, Ontario. 
+
+![Field team](/images/people/kennedykorkola/field_team_2024.jpg)
+The 2024 field team investigating the impacts of jack pine budworm defoliation north of Red Lake ON.
