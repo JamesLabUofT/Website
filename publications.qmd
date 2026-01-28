@@ -1,6 +1,6 @@
 ### In Review
 
-Korkola K, Beverly J, **James PMA**. Wildfire containment probability is not affected by eastern spruce budworm defoliation. International Journal of Wildland Fire
+Jourdan L, Korkola K, Piascik P, **James PMA**, Right on target: monopods and polystyrene spheres as an alternative to traditional tripods for terrestrial laser scanning. Canadian Journal of Forest Research  
 
 Goldman J, Fortin M-J, **James PMA**. Within and among years moisture availability influences wildfire burn severity in the boreal forest. Fire Ecology
 
@@ -13,6 +13,8 @@ Wittische J, Legendre P, **James PMA**. Detecting temporal changes in genetic di
 ## Accepted
 
 ### 2025
+
+Korkola K, Beverly JL, **James PMA**. 2025. Wildfire containment probability is not affected by eastern spruce budworm defoliation in Ontario, Canada. International Journal of Wildland Fire, 34(9)
 
 Wall N, Fortin M-J, **James PMA**. Genetic effects of landscape change on three sympatric turtle species in southern Ontario, Canada. Conservation Genetics
 
