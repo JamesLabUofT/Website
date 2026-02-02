@@ -1,0 +1,74 @@
+---
+title: "James Lab Operating Manual"
+format: html
+---
+
+The points below summarize some common questions and expectations for work in the **James Lab**. These are meant to get everyone on the same page and avoid confusion or uncertainty. We are a large and diverse research group. While this list of points may seem more formal than is often encountered in our university setting, I feel it is useful to help us effectively communicate, interact, and achieve our objectives. Please let me know if you have questions or other suggestions to include in this dynamic list of ideas.
+
+-   Core lab members, that is, graduate students and postdocs, are expected to be available over slack between the hours of 10am and 4pm most days of the week. Our work depends on effective and timely communication. Slack is the main way in which we can stay in touch with one another, with different work schedules, and different work from home routines.
+
+-   In general, we are expected to be on campus at least three days a week: Thursdays being a target day for all to be present for the lab meeting and following chats/activities/GSU. You may also be asked to be available on campus for additional in-person meetings on specific days.
+
+-   All graduate students in the funded cohort are expected to apply for external funding. This includes NSERC and OGS competitions.
+
+-   In general, post-docs and graduate students should aim to submit at least one journal article per year. First year PhD and MScF students are excluded from this expectation, but afterwards, it is a good target.
+
+-   All students and postdocs are expected to attend at least one conference per year. The lab has funds to support travel, accommodation, and registration for these meetings. It is expected that students early in their studies will present at more local meetings. Students later in their program, or with significant results to present, will have the opportunity to attend larger, international meetings. It is expected that students and PDFs will identify and pursue these opportunities.
+
+-   You should expect to receive requests to contribute your expertise and capacities to a range of lab-related projects. On occasion these requests may be urgent in nature. Tasks may include assisting me with technical work (coding, data prep., analysis support) and supporting fellow lab members with their projects. These requests may result in competing and/or simultaneous deadlines. Providing this support is an integral element of your role in the lab.
+
+-   There are many administrative odds and ends, as well as *processes*, involved in academia. Your best resources for information on these processes are your fellow lab members. We are in a very fortunate position to have a large lab group with a range of experience. If you cannot find an answer within our group, you can reach out to Laura Lapchinski who can help directly or point you to the correct people in Daniels (e.g., payroll, reimbursements, TA-ships). [I am not a good source of information in this regard.]{.underline} The Forestry website also has relevant information about important processes and deadlines for graduate students. <https://academic.daniels.utoronto.ca/forestry/>
+
+-   When sharing files with me for feedback, please include a descriptive title and be sure to include your initials at the beginning of the file name. (e.g., PJ_OGS_application_2024.docx). I appreciate that this is a bit *particular*, but it really helps me organize the numerous documents I have on the go at any given time. 😊
+
+-   When requesting feedback, please share your documents etc. well in advance of any impending deadlines. Reference letters require time and care, and I appreciate at least a two week heads up. Likewise, documents for committee meeting should be shared with the entire committee at least 7 days (ideally 10 days) before the meeting. If I am to provide meaningful feedback, I need to receive the document at least 7 days before that. Conference presentations should be near complete before attending a meeting. Please plan on presenting a “nearly done” (i.e., 90%) version of the talk to the lab (e.g., during lab meeting) the week prior.
+
+-   It is expected that you will have your written documents (e.g., thesis chapter drafts, grant proposals, manuscripts) proof-read by at least one (ideally two) lab members prior to passing it to me for feedback.
+
+-   When planning your timelines for important project milestones (committee meetings, appraisals, conferences, defenses) work backwards from the deadline. Always include additional flexibility for the required multiple back and forth between us (and between other committee members / co-authors). Research is necessarily iterative and almost always takes longer than one expects.
+
+**Some expectations**
+
+**What you can expect from me**
+
+-   Clear and open communication
+
+-   Support of, and engagement in, your project
+
+-   Replies to questions (emails/ slack msgs) as quickly as I can
+
+-   Clear information about when I will be slower at replying (vacation/ travel/ etc)
+
+-   Honest feedback – which can be critical at times
+
+    -   *I support you; it is the work that I think we can improve*
+
+-   Timely feedback on chapters and manuscripts to the best of my ability
+
+-   Introductions to other students and researchers
+
+-   Financial support when needed for the duration of your program + travel opportunities (\~1 conference/year)
+
+**What I expect from you**
+
+-   Clear and open communication
+
+-   Reasonable progress on your projects, including timely preparation of chapters and manuscripts
+
+-   Efforts to integrate feedback received from myself and your committee
+
+-   Engagement in your project and with the lab
+
+-   Replies to questions (emails/ slack msgs) as quickly as you can
+
+-   Clear information about when you will be slower at replying (vacation/ travel/ etc)
+
+-   Independence and initiative
+
+-   Ownership of your work and ideas
+
+-   Responsibility for the administrative aspects and timelines of your program
+
+-   Collegiality, professionalism, and participation in the broader academic community
+
+-   Collaboration with other students and researchers
