@@ -10,10 +10,10 @@ toc: false
 about:
   id: person-profile
   template: jolla
-  #links:
+  links:
   #- text: GitHub
   #  href: https://github.com/s6lmon
-  text: Email
+  - text: Email
   href: mailto:samuel.isaac@mail.utoronto.ca
 ---
 
