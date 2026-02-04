@@ -13,16 +13,15 @@ about:
   #links:
   #- text: GitHub
   #  href: https://github.com/s6lmon
-  #- text: Email
-  #  href: mailto:samuel.isaac@mail.utoronto.ca
+  text: Email
+  href: mailto:samuel.isaac@mail.utoronto.ca
 ---
 
 ::: {#person-profile}
 :::
 ## Biography
 
-Samuel a MScF reasearch steam student studying boreal disturbance interactions and their relationship to landscape fire exposure metrics. He completed his undergrad in forest conservation science and pure mathematics in 2025, supporting the James Lab as research assistant since 2023.
-He specializes in cellular automata forest landscape simulation models and their emergent landscape properties. Samuel also enjoys cooking and live music.
+Samuel is a masters student with the JamesLab focusing on improving operational wildfire simulation and risk modelling tools with LiDAR fuel metrics. He is specifically interested in new applications in Single Photon LiDAR technology to improve wildfire resiliency in Canada. He completed his undergrad in forest conservation science and mathematics in 2025, supporting the James Lab as research assistant since 2023. His previous work involved cellular automata forest landscape and fire simulation models, timber-conservation trade-offs, and boreal disturbance interactions. Outside of his research, Samuel enjoys cooking, hiking, and live music.
 
 ## Education
 
@@ -30,4 +29,4 @@ He specializes in cellular automata forest landscape simulation models and their
 
 ## Role in the lab
 
-When not immersed the world of SELES, Samuel is currently working on a manuscript involving the modelling and simulation of timber-conservation trade-offs in Southern Labrador.
+Samuel is currently working on a manuscript involving the modelling and simulation of timber-conservation trade-offs in Southern Labrador alongside his masters thesis in improving wildfire simulation and risk models with Single Photon LiDAR-derived canopy fuel metrics.
