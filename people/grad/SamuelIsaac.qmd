@@ -14,7 +14,7 @@ about:
   #- text: GitHub
   #  href: https://github.com/s6lmon
   - text: Email
-	href: mailto:samuel.isaac@mail.utoronto.ca
+    href: mailto:samuel.isaac@mail.utoronto.ca
 ---
 
 ::: {#person-profile}
