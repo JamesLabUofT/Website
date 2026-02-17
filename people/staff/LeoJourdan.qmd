@@ -1,7 +1,7 @@
 ---
 title: "Léo Jourdan"
 sortby: "Jourdan, Léo"
-subtitle: "Research Assistant"
+subtitle: "Research Associate"
 image: ../../images/people/LeoJourdan/LeoJourdan.jpg
 started: "2025"
 ended: "Current"
@@ -20,10 +20,10 @@ about:
 
 ::: {#person-profile}
 :::
+
 ## Biography
 
-Léo has a BSc in Computer Science and Mathematics, and a MScF, both from the University of Toronto. He completed his MScF in the James Lab, where he was devising methods for analyzing fuel structure attributes from point clouds of forests collected using Terrestrial LiDAR Scanners. These new methods helped him investigate the impact of jack pine budworm outbreaks on fire behaviour in Ontario’s boreal forest. He stayed in the lab as a Research Assistant, helping with the WRFI lidar project. When not busy writing code, he is either cooking or thinking about the next thing he is going to cook.
-
+Léo has a BSc in Computer Science and Mathematics, and a MScF, both from the University of Toronto. He completed his MScF in the James Lab, where he was devising methods for analyzing fuel structure attributes from point clouds of forests collected using Terrestrial LiDAR Scanners. These new methods helped him investigate the impact of jack pine budworm outbreaks on fire behaviour in Ontario’s boreal forest. He stayed in the lab as a Research Associate, helping with the [WRFI lidar project](https://jameslabuoft.github.io/WRFILidar-website/). When not busy writing code, he is either cooking or thinking about the next thing he is going to cook.
 
 ## Education
 
@@ -34,9 +34,13 @@ Léo has a BSc in Computer Science and Mathematics, and a MScF, both from the Un
 
 When not simulating lidar, fires, or both, Léo likes to help his colleagues code, and enjoys taking care of the lab's computational server. If this website is out of date, it might be his fault!
 
+## Publications
+
+Jourdan L, Korkola K, Piascik P, & James PMA. 2026. Right on target: Monopods and polystyrene spheres as an alternative to traditional tripods for terrestrial laser scanning. *Canadian Journal of Forest Research*
+
 ## Conferences
 
-**Jourdan, L.,** & James, P. M. A. (2025, February. 25). Evaluating terrestrial lidar fuel metrics in NG-CFFDRS sampling plots  using synthetic point clouds. International workshop on the operational use of mobile and airborne lidar for enhanced forest inventory and modelling forest fire. Quebec City, Quebec.
+**Jourdan, L.,** & James, P. M. A. (2025, February. 25). Evaluating terrestrial lidar fuel metrics in NG-CFFDRS sampling plots using synthetic point clouds. International workshop on the operational use of mobile and airborne lidar for enhanced forest inventory and modelling forest fire. Quebec City, Quebec.
 
 **Jourdan, L.**, & James, P. M. A. (2024, December 13). Evaluating fuel structure metrics using synthetic terrestrial lidar scans: Ontario’s jack pine stands as a case study. AGU 2024, Washington D.C., USA.
 
@@ -46,18 +50,20 @@ When not simulating lidar, fires, or both, Léo likes to help his colleagues cod
 
 Risk, C., **Jourdan, L.**, Gandiaga, F., Korkola, K., & James, P. M. A. (2022, November 10). An interactive operations research tool for field work site selection in forestry. CANSSI Ontario Statistical Software Conference, Toronto, ON.
 
-__________________________________________
-::: {.grid}
-::: {.g-col-6}
+------------------------------------------------------------------------
+
+::::: grid
+::: g-col-6
 ![](/images/people/LeoJourdan/LeoJourdan-Fieldwork.jpg)
 :::
-::: {.g-col-6}
+
+::: g-col-6
 ![](/images/people/LeoJourdan/TLS-Scan.jpeg)
 :::
-:::
+:::::
+
 Below is a [webpage](https://leofkj.github.io/AGUPoster/) for a demo of synthetic terrestrial lidar of Ontario's jack pine stands. Prepared alongside a poster for the AGU 2024 conference.
 
 ```{=html}
 <iframe width="500" height="1000" src="https://leofkj.github.io/AGUPoster/" title="AGU 2024 demo"></iframe>
 ```
-

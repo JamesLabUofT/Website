@@ -1,18 +1,28 @@
 ### In Review
 
-Jourdan L, Korkola K, Piascik P, **James PMA**, Right on target: monopods and polystyrene spheres as an alternative to traditional tripods for terrestrial laser scanning. Canadian Journal of Forest Research  
-
-Goldman J, Fortin M-J, **James PMA**. Within and among years moisture availability influences wildfire burn severity in the boreal forest. Fire Ecology
-
-Romualdi D, Parisien M-A, **James PMA**. The effect of mountain pine beetle outbreak legacies on wildfire burn severity in British Columbia, Canada. Fire Ecology
-
-Goldman J, Fortin M-J, **James PMA**. Direct and indirect effects of forest structure, snow-free date, and duration on wildfire burn severity in the boreal forest. Forest Ecology and Management
-
-Wittische J, Legendre P, **James PMA**. Detecting temporal changes in genetic diversity: a new tool for molecular ecology studies with repeated surveys. Ecosphere
+Sturtevant B, Cooke B, Kneeshaw D, Robert L-E, **James PMA**, Fortin M-J, Wolter P, & Townsend P. 2025. Insect defoliators trading spaces in a hemi-boreal forest: Implications for diversity-stability and ecosystem resilience. *Ecology*.\
+\
+Skretting T, Chamser L, Jones E, **James PMA**, Perrakis D, Shang C, Townsend I, Watson C. Forest fuel structure and loading over time since fuels reduction treatment in Jasper National Park, Alberta Canada using novel data sources. *International Journal of Wildland Fire*\
+\
+Shakeri Z, Boucher J, Marchal J, **James PMA.** Jack pine budworm defoliation shifts fuel structure and potential fire behaviour in Eastern Canada. *Canadian Journal of Forest Research*\
+\
+Henry M, **James PMA**, Kneeshaw D, Leung B. Connecting the dots: Resolving the relationship between spruce budworm population dynamics and defoliation. *Canadian Journal of Forest Research\
+*\
+Goldman J, Fortin M-J, **James PMA**. Within and among years moisture availability influences wildfire burn severity in the boreal forest. *Fire Ecology*
 
 ## Accepted
 
+### 2026
+
+Jourdan L, Korkola K, Piascik P, & **James PMA**. 2026. Right on target: Monopods and polystyrene spheres as an alternative to traditional tripods for terrestrial laser scanning. *Canadian Journal of Forest Research.\
+*\
+Johns RC, Edwards S, Amos-Binks L, Bowden JJ, Carleton D, Edge C, Hennigar C, **James PMA**, MacLean D, Martel V, Moise E, Morin B, Morrison A, Owens E, Stastny M, & Régnière J. 2026. Adaptive area-wide management for suppressing spruce budworm outbreaks: Evaluating the early intervention strategy. *Journal of Pest Science.\
+*\
+Canelles Q, Bouchard M, Aquilué N, **James PMA**, & Filotas É. 2026. Evaluating the effects of alternative forest management strategies on SBW outbreaks. *Landscape Ecology. Def, 88, 1609-02.*
+
 ### 2025
+
+Goldman J, Fortin M-J, **James PMA.** 2025. Direct and indirect effects of forest structure, snow-free date, and duration on wildfire burn severity in the boreal forest. *Forest Ecology and Management. 598, 123180.*
 
 Korkola K, Beverly JL, **James PMA**. 2025. Wildfire containment probability is not affected by eastern spruce budworm defoliation in Ontario, Canada. International Journal of Wildland Fire, 34(9)
 
@@ -28,7 +38,7 @@ Korkola K, Wheatley M, Beverly J, **James PMA**, Wotton BM. 2024. A comparative 
 
 Fontenelle JP, Larroque J, Legault S, Wittische J, Underwood J, **James PMA**. 2024. Multi-year genotype characterization of eastern spruce budworm outbreaking populations from Quebec and adjacent regions. Ecology. https://doi.org/10.1002/ecy.4466
 
-Legault S &  **James PMA**. 2024. Spatial patterns of hyperparasitism along a latitudinal gradient of forest diversity: Insights from the spruce budworm-parasitoids community. Environmental Entomology. 53(1): 116-126
+Legault S & **James PMA**. 2024. Spatial patterns of hyperparasitism along a latitudinal gradient of forest diversity: Insights from the spruce budworm-parasitoids community. Environmental Entomology. 53(1): 116-126
 
 ### 2023
 
@@ -56,7 +66,7 @@ Landry M, Kneeshaw D, **James PMA**, Kembel S. 2022. Spruce budworm gut bacteria
 
 Legault S, Wittische J, Cusson M, Brodeur J, **James PMA**. 2021. Genetic evidence of large-scale population connectivity in spruce budworm parasitoids. Molecular Ecology. 30(22), 5658-5673
 
-Urban MC,  Travis JMJ, Zurell D, Thompson PL, Synes NW, Scarpa A, Peres-Neto PR, Malchow A-K , **James PMA**, Gravel D, De Meester D, Brown D, Bocedi D, Albert CH, Gonzalez A, Hendry AP. (in press). Coding for Life: Designing a platform for projecting and protecting global biodiversity. BioScience
+Urban MC, Travis JMJ, Zurell D, Thompson PL, Synes NW, Scarpa A, Peres-Neto PR, Malchow A-K , **James PMA**, Gravel D, De Meester D, Brown D, Bocedi D, Albert CH, Gonzalez A, Hendry AP. (in press). Coding for Life: Designing a platform for projecting and protecting global biodiversity. BioScience
 
 Germain M, De Grandpré L, Desrochers M, **James PMA**, Vepakomma U, Poulin JF, Kneeshaw D, Villard M-A. 2021. Insectivorous songbirds as early indicators of future defoliation by spruce budworm. Landscape Ecology, 1-15
 
@@ -68,7 +78,7 @@ Wittische J, Heckbert S, **James PMA**, Burton AC, Fisher JT. 2021. Community-le
 
 ### 2020
 
-Robert L-E, Sturtevant BR, Kneeshaw DD, **James PMA**, Fortin M-J,  Wolter P, Townsend P, Cooke BJ. 2020. Forest landscape structure governs the cyclic-eruptive spatial dynamics of forest tent caterpillar outbreaks. Ecosphere  11 (8), e03096
+Robert L-E, Sturtevant BR, Kneeshaw DD, **James PMA**, Fortin M-J, Wolter P, Townsend P, Cooke BJ. 2020. Forest landscape structure governs the cyclic-eruptive spatial dynamics of forest tent caterpillar outbreaks. Ecosphere 11 (8), e03096
 
 Carbayo HR, Pino J, Bonal R, **James PMA**, Hampe A, Espelta JM. 2020. Disentangling the effects of host genetic identity, ontogeny, and spatial distribution in insect herbivory in expanding oak forests. Annals of Forest Science 77(2): 1-12
 
@@ -98,7 +108,7 @@ Burns I, Coltman DW, **James PMA**, Cullingham CI. 2019. Spatial and genetic str
 
 ### 2018
 
-Cullingham C, Janes J, **James PMA**, Hamelin R, Murray B, Sperling F. 2018. The contribution of genetics and genomics to understanding the ecology of the mountain pine beetle system. Canadian Journal of Forest Research. 49(7), 721-730. 
+Cullingham C, Janes J, **James PMA**, Hamelin R, Murray B, Sperling F. 2018. The contribution of genetics and genomics to understanding the ecology of the mountain pine beetle system. Canadian Journal of Forest Research. 49(7), 721-730.
 
 Legault S and **James PMA**. 2018. Parasitism rates of spruce budworm larvae: testing the enemy hypothesis along a gradient of forest diversity measured at different spatial scales. Environmental Entomology. 47(5): 1083-1095
 
@@ -108,7 +118,7 @@ Marrec R, Pontbriand-Paré O, Legault S, and **James PMA**. 2018. Spatiotemporal
 
 Robert L-E, Sturtevant BR, Cooke BJ, **James PMA**, Fortin M-J, Townsend PA, Wolter PT, Kneeshaw D. 2017. Landscape host abundance and configuration regulate periodic outbreak behavior in spruce budworm (Choristoneura fumiferana Clem.). Ecography
 
-Burke A, Kageyama M, Latombe G, Fasel M, Vrac M, Ramstein G, **James PMA**.  2017. Risky business: the impact of climate and climate variability on human population dynamics in Western Europe during the Last Glacial Maximum. Quaternary Science Reviews. 164: 217-229
+Burke A, Kageyama M, Latombe G, Fasel M, Vrac M, Ramstein G, **James PMA**. 2017. Risky business: the impact of climate and climate variability on human population dynamics in Western Europe during the Last Glacial Maximum. Quaternary Science Reviews. 164: 217-229
 
 Marcer A, Vidigal DS, **James PMA**, Fortin M-J, Méndez-Vigo B, H. Hilhorst WM, Bentsink L, Alonso-Blanco C, Picó FX. 2017. Temperature fine-tunes Mediterranean Arabidopsis thaliana life-cycle phenology geographically. Plant Biology
 
@@ -144,33 +154,33 @@ Cullingham CI, **James PMA**, Cooke JEK, Coltman DW. 2012. Characterizing the ph
 
 Samarasekera NG, Bartell NV, Lindgren BS, Cooke JEK, Davis CS, **James PMA**, Coltman DW, Mock KE, Murray BW. 2012. Spatial genetic structure of the mountain pine beetle (Dendroctonus ponderosae) outbreak in western Canada: Historical patterns and contemporary dispersal. Molecular Ecology. 21(12): 2931-2948
 
-Fortin M-J, **James PMA**, MacKenzie A, Melles SJ, Rayfield B. (2012). Spatial statistics, spatial regression, and graph theory in ecology. Spatial Statistics 1: 100-109. 
+Fortin M-J, **James PMA**, MacKenzie A, Melles SJ, Rayfield B. (2012). Spatial statistics, spatial regression, and graph theory in ecology. Spatial Statistics 1: 100-109.
 
 ### 2011
 
-**James PMA**, Murray BW, Hamelin RC, Coltman DW, Sperling FAH. 2011. Spatial genetic structure of a symbiotic beetle-fungal system: Toward multi-taxa integrated landscape genetics. PLoS ONE 6(10): e25359. [doi:10.1371/journal.pone.0025359] 
+**James PMA**, Murray BW, Hamelin RC, Coltman DW, Sperling FAH. 2011. Spatial genetic structure of a symbiotic beetle-fungal system: Toward multi-taxa integrated landscape genetics. PLoS ONE 6(10): e25359. \[doi:10.1371/journal.pone.0025359\]
 
 Roe AR \*, **James PMA** \*, Cooke J, Sperling FAH. 2011. Spatial community structure of mountain pine beetle fungal symbionts across a latitudinal gradient. Microbial Ecology. 62(2): 347-360 \*joint first authorship
 
 **James PMA**, Sturtevant B, Townsend P, Wolter P, Fortin M-J. 2011. Two dimensional wavelet analysis of spruce budworm host basal area in the Border Lakes Landscape. Ecological Applications 21(6): 2197-2209
 
-**James PMA**, Fortin M-J, Sturtevant BR, Fall A, Kneeshaw DD. 2011. Modelling spatial interactions among fire, spruce budworm, and logging in the boreal forest. Ecosystems 14: 60-75. 
+**James PMA**, Fortin M-J, Sturtevant BR, Fall A, Kneeshaw DD. 2011. Modelling spatial interactions among fire, spruce budworm, and logging in the boreal forest. Ecosystems 14: 60-75.
 
 ### 2010
 
 Anderson CD, Epperson BK, Fortin M-J, Holderegger R, **James PMA**, Rosenberg MS, Scribner KT, Spear S. 2010. Considering spatial and temporal scale in landscape-genetic studies of gene flow. Molecular Ecology 19: 3576-3591
 
-Epperson BK, McRae B, Scribner KT, Cushman S, Rosenberg MS, Fortin M-J, **James PMA**, Murphy M, Manel S, Legendre P, Dale M. 2010. Utility of computer simulations in landscape genetics. Molecular Ecology 19:3549-3564.  
+Epperson BK, McRae B, Scribner KT, Cushman S, Rosenberg MS, Fortin M-J, **James PMA**, Murphy M, Manel S, Legendre P, Dale M. 2010. Utility of computer simulations in landscape genetics. Molecular Ecology 19:3549-3564.
 
-**James PMA**, Fleming RA, Fortin M-J 2010. Identifying significant scale-specific spatial boundaries using wavelets and null models: Spruce budworm defoliation in Ontario, Canada as a case study. Landscape Ecology. 25: 873-887.  
+**James PMA**, Fleming RA, Fortin M-J 2010. Identifying significant scale-specific spatial boundaries using wavelets and null models: Spruce budworm defoliation in Ontario, Canada as a case study. Landscape Ecology. 25: 873-887.
 
-### < 2010
+### \< 2010
 
 Rayfield BR, **James PMA**, Fall A, Fortin M-J. 2007. Comparing static versus dynamic protected areas in dynamic boreal ecosystems. Biological Conservation. 141(2): 428-449
 
-**James PMA**, Fortin M-J, Fall A, Kneeshaw DD, Messier C. 2007. The effects of spatial legacies following shifting management practices and fire on boreal forest age structure. Ecosystems. 10: 1261-1277  
+**James PMA**, Fortin M-J, Fall A, Kneeshaw DD, Messier C. 2007. The effects of spatial legacies following shifting management practices and fire on boreal forest age structure. Ecosystems. 10: 1261-1277
 
-**James PMA**, Rayfield BR, Fall A, Fortin M-J, Farley G. 2005. Reserve network design combining spatial graph theory and species’ spatial requirements. Geomatica. 59(3): 121-129  
+**James PMA**, Rayfield BR, Fall A, Fortin M-J, Farley G. 2005. Reserve network design combining spatial graph theory and species’ spatial requirements. Geomatica. 59(3): 121-129
 
 ### Book Chapters
 

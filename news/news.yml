@@ -7,6 +7,9 @@
 # escape the " character with a \ (e.g. \"title \")
 # Most importantly: TEST your changes before pushing please. Simply render the news.qmd page and ensure everything you've added is
 # where you expect, and none of the surrounding news items are broken.
+- description: The new WRFI lidar project website is up. Go take a look!
+  date: January 2026
+  link: https://jameslabuoft.github.io/WRFILidar-website/
 - description: Andrew joins the lab as Postdoctoral Fellow, working on spatial disturbance dynamics in Ontario's boreal forest! 
   date: January 2026
 - description: Jack successfully defends his PhD thesis at the departmental oral examination! Onto the Senate defence!
@@ -27,7 +30,7 @@
   date: September 2025
 - description: Nooshin joins the lab as Postdoctoral Fellow, working on the WRFI lidar project!
   date: September 2025
-- description: Léo continues in the lab as a Research Assistant, helping with the WRFI lidar project
+- description: Léo continues in the lab as a Research Associate, helping coordinate the WRFI lidar project
   date: July 2025
 - description: "JP, Kate, Jessica, and Sophia presented their research at the 2025 CSEE conference in Sherbrooke!\n
   JP presented the talk: “Effects of Connectivity (and Synchrony) on Genetic Differentiation Through Time in Cyclic Outbreaking Populations”"
