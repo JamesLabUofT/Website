@@ -8,7 +8,7 @@
 # Most importantly: TEST your changes before pushing please. Simply render the news.qmd page and ensure everything you've added is
 # where you expect, and none of the surrounding news items are broken.
 - description: The new WRFI lidar project website is up. Go take a look!
-  date: January 2026
+  date: February 2026
   link: https://jameslabuoft.github.io/WRFILidar-website/
 - description: Andrew joins the lab as Postdoctoral Fellow, working on spatial disturbance dynamics in Ontario's boreal forest! 
   date: January 2026
