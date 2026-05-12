@@ -1,6 +1,6 @@
 ### In Review
 
-Sturtevant B, Cooke B, Kneeshaw D, Robert L-E, **James PMA**, Fortin M-J, Wolter P, & Townsend P. 2025. Insect defoliators trading spaces in a hemi-boreal forest: Implications for diversity-stability and ecosystem resilience. *Ecology*.\
+Jourdan L, **James PMA**. Improving Selection of Forest Fuel Metrics Using Synthetic Lidar Point Clouds. *Ecological Informatics*\
 \
 Skretting T, Chamser L, Jones E, **James PMA**, Perrakis D, Shang C, Townsend I, Watson C. Forest fuel structure and loading over time since fuels reduction treatment in Jasper National Park, Alberta Canada using novel data sources. *International Journal of Wildland Fire*\
 \
@@ -11,6 +11,8 @@ Goldman J, Fortin M-J, **James PMA**. Within and among years moisture availabili
 ## Accepted
 
 ### 2026
+
+Sturtevant B, Cooke B, Kneeshaw D, Robert L-E, **James PMA**, Fortin M-J, Wolter P, & Townsend P. 2026. Insect defoliators trading spaces in a hemi-boreal forest: Implications for diversity-stability and ecosystem resilience. *Ecology*.
 
 Henry M, **James PMA**, Kneeshaw D & Leung B. 2026. Connecting the dots: Resolving the relationship between spruce budworm population dynamics and defoliation. *Canadian Journal of Forest Research.*
 
