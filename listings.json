@@ -1,5 +1,13 @@
 [
   {
+    "listing": "/teaching.html",
+    "items": []
+  },
+  {
+    "listing": "/news.html",
+    "items": []
+  },
+  {
     "listing": "/people.html",
     "items": [
       "/people/supervisor/PatrickJames.html",
@@ -31,15 +39,7 @@
     ]
   },
   {
-    "listing": "/teaching.html",
-    "items": []
-  },
-  {
     "listing": "/index.html",
-    "items": []
-  },
-  {
-    "listing": "/news.html",
     "items": []
   }
 ]
