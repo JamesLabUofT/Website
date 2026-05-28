@@ -2,7 +2,7 @@
 title: "Samuel Isaac"
 sortby: "Isaac, Samuel"
 subtitle: "MScF"
-image: ../../images/people/SamuelIsaac/SI_haliburton.png
+image: ../../images/people/SamuelIsaac/SI_2026.jpg
 start_year: 2025
 started: "Fall 2025"
 ended: "Current"
@@ -21,7 +21,7 @@ about:
 :::
 ## Biography
 
-Samuel is a masters student with the JamesLab focusing on improving operational wildfire simulation and risk modelling tools with LiDAR fuel metrics. He is specifically interested in new applications in Single Photon LiDAR technology to improve wildfire resiliency in Canada. He completed his undergrad in forest conservation science and mathematics in 2025, supporting the James Lab as research assistant since 2023. His previous work involved cellular automata forest landscape and fire simulation models, timber-conservation trade-offs, and boreal disturbance interactions. Outside of his research, Samuel enjoys cooking, hiking, and live music.
+Samuel is a masters student with the JamesLab focusing on improving operational wildfire simulation and risk modelling tools with LiDAR fuel metrics. He is specifically interested in new applications in Single Photon LiDAR technology to improve wildfire modelling in Canada. He completed his undergrad at UofT in forest conservation science and mathematics in 2025, supporting the James Lab as research assistant since 2023. His previous work involved cellular automata forest landscape and fire simulation models, timber-conservation trade-offs, and boreal disturbance interactions. Outside of his research, Samuel enjoys cooking, hiking, and live music.
 
 ## Education
 
@@ -29,4 +29,4 @@ Samuel is a masters student with the JamesLab focusing on improving operational 
 
 ## Role in the lab
 
-Samuel is currently working on a manuscript involving the modelling and simulation of timber-conservation trade-offs in Southern Labrador alongside his masters thesis in improving wildfire simulation and risk models with Single Photon LiDAR-derived canopy fuel metrics.
+Samuel is currently working on a manuscript involving the modelling and simulation of timber-conservation trade-offs in Southern Labrador alongside his masters thesis in improving wildfire growth models with single photon LiDAR.
