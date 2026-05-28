@@ -1,10 +1,6 @@
 [
   {
-    "listing": "/teaching.html",
-    "items": []
-  },
-  {
-    "listing": "/news.html",
+    "listing": "/index.html",
     "items": []
   },
   {
@@ -32,14 +28,18 @@
     ]
   },
   {
+    "listing": "/teaching.html",
+    "items": []
+  },
+  {
+    "listing": "/news.html",
+    "items": []
+  },
+  {
     "listing": "/projects.html",
     "items": [
       "/projects/Fire-Insect-Interaction.html",
       "/projects/SpatialGenetics.html"
     ]
-  },
-  {
-    "listing": "/index.html",
-    "items": []
   }
 ]
