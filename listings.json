@@ -1,6 +1,17 @@
 [
   {
-    "listing": "/index.html",
+    "listing": "/projects.html",
+    "items": [
+      "/projects/Fire-Insect-Interaction.html",
+      "/projects/SpatialGenetics.html"
+    ]
+  },
+  {
+    "listing": "/news.html",
+    "items": []
+  },
+  {
+    "listing": "/teaching.html",
     "items": []
   },
   {
@@ -12,34 +23,24 @@
       "/people/pdf/ZackShakeri.html",
       "/people/pdf/AndrewShannon.html",
       "/people/grad/NiamhWall.html",
-      "/people/grad/jackagoldman.html",
       "/people/grad/kennedykorkola.html",
       "/people/grad/MorganeHenry.html",
       "/people/grad/NicholasDewez.html",
       "/people/grad/JessicaUnderwood.html",
-      "/people/grad/SophiaRomualdi.html",
+      "/people/grad/CharlotteGrieve.html",
       "/people/grad/SamuelIsaac.html",
       "/people/grad/fynndevuonofraser.html",
       "/people/staff/LeoJourdan.html",
-      "/people/undergrad/JacobKlimczak.html",
+      "/people/alumni/jackagoldman.html",
+      "/people/alumni/JacobKlimczak.html",
+      "/people/alumni/SophiaRomualdi.html",
       "/people/alumni/jpfontenelle.html",
       "/people/alumni/emilyjones.html",
       "/people/alumni/eleanorekriegerpottruff.html"
     ]
   },
   {
-    "listing": "/teaching.html",
+    "listing": "/index.html",
     "items": []
-  },
-  {
-    "listing": "/news.html",
-    "items": []
-  },
-  {
-    "listing": "/projects.html",
-    "items": [
-      "/projects/Fire-Insect-Interaction.html",
-      "/projects/SpatialGenetics.html"
-    ]
   }
 ]
