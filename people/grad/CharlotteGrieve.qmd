@@ -1,0 +1,29 @@
+---
+title: "Charlotte Grieve"
+sortby: "Grieve, Charlotte"
+subtitle: "PhD"
+image: ../../images/people/CharlotteGrieve/charlottegrieve.jpeg
+start_year: 2025
+started: "Fall 2025"
+ended: "Current"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  #links:
+  #- text: GitHub
+  #  href: https://github.com/yourgithub
+  #- text: Email
+  #  href: mailto:youremail@utoronto.ca
+---
+
+::: {#person-profile}
+:::
+## Biography
+
+Charlotte has a BSc in Biology from Dalhousie University and a Master of Forest Conservation from UofT. Charlotte is interested in investigating how boreal forests grow and respond to stressors and disturbances. She also has a passion for multivariate statistics. Her work in the James and Fortin labs focuses on developing novel forest management strategies that promote forest resilience to global change, and testing those strategies using a dynamic forest simulation model, LANDIS-II. Outside of her research, she enjoys canoeing, camping, and Wikipedia.
+
+## Education
+
+-   **Dalhousie University**<br /> BSc in Biology
+-   **University of Toronto**<br /> Master of Forest Conservation
