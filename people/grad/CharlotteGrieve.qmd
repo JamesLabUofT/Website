@@ -10,11 +10,11 @@ toc: false
 about:
   id: person-profile
   template: jolla
-  #links:
-  #- text: GitHub
-  #  href: https://github.com/yourgithub
-  #- text: Email
-  #  href: mailto:youremail@utoronto.ca
+  links:
+  - text: LinkedIn
+    href: https://www.linkedin.com/in/charlotte-grieve-56a51b234/
+  - text: Email
+    href: mailto:c.grieve@mail.utoronto.ca
 ---
 
 ::: {#person-profile}
