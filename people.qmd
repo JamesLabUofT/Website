@@ -97,12 +97,12 @@ listing:
 
 :::{#staff}
 :::
-
+<!-- Hide while no undergrads
 ## Undergraduate students
 
 :::{#undergrad}
 :::
-
+--->
 ## Gone but not forgotten: Lab Alumnis
 
 :::{#alumni}
