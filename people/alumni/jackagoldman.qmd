@@ -1,11 +1,12 @@
 ---
 title: "Jack A. Goldman"
 sortby: "Goldman, Jack"
-subtitle: "PhD Candidate"
+subtitle: "PhD"
 image: ../../images/people/jackagoldman/Rushmore-headshot.jpeg
 start_year: 2020
 started: "Fall 2020"
-ended: "Present"
+ended: 2026
+current: "PDF @ CarletonU" 
 toc: false
 about:
   id: person-profile
