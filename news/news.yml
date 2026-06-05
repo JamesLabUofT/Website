@@ -7,6 +7,15 @@
 # escape the " character with a \ (e.g. \"title \")
 # Most importantly: TEST your changes before pushing please. Simply render the news.qmd page and ensure everything you've added is
 # where you expect, and none of the surrounding news items are broken.
+- description: Nooshin is awarded the UofT Research Excellence Post-Doctoral Fellowship! Congratulations Nooshin!
+  date: May 2026
+- description: Patrick, Zack, Léo and Sam traveled to Wapikaimaski Lake, north of Thunder Bay, to collect some post-harvest slash fuel data.
+  date: May 2026
+- description: Léo, Kennedy, Paul and Patrick publish in Canadian Journal of Forest Research
+  date: March 2026
+  link: https://doi.org/10.1139/cjfr-2025-0285
+- description: We celebrated Jack's successful PhD defence as he embarks on his new position as a PostDoc at CarletonU! Congratulations Jack!
+  date: March 2026
 - description: The new WRFI lidar project website is up. Go take a look!
   date: February 2026
   link: https://jameslabuoft.github.io/WRFILidar-website/
