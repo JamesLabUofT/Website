@@ -1,7 +1,7 @@
 ---
 title: "Morgane Henry"
 sortby: "Henry, Morgane"
-subtitle: "PhD"
+subtitle: "PhD Candidate"
 image: ../../images/people/MorganeHenry/MorganeHenry.jpeg
 start_year: 2021
 started: "Winter 2021"

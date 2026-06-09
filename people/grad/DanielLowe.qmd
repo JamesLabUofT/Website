@@ -1,0 +1,29 @@
+---
+title: "Daniel Lowe"
+sortby: "Lowe, Daniel"
+subtitle: "PhD Student"
+image: ../../images/people/DanielLowe/DanielLowe.jpg
+start_year: 2026
+started: "Summer 2026"
+ended: "Current"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  #links:
+  #- text: GitHub
+  #  href: https://github.com/yourgithub
+  #- text: Email
+  #  href: mailto:youremail@utoronto.ca
+---
+
+::: {#person-profile}
+:::
+## Biography
+
+Daniel holds a B.Sc. in Environmental Studies, Forest Conservation Science, and Geographic Information Systems (GIS), as well as a Master of Forest Conservation from the University of Toronto. He has several years of experience working on and leading ecological restoration crews across Southern Ontario. His research focuses on how wildfire burn severity influences pollinator communities in the eastern boreal forest, with particular emphasis on the interactions between forest management, burn severity, forest structure, and pollinator diversity. Outside of research, Daniel enjoys fishing, photography, and spending time with his dogs, Mickey and Toothless.
+
+## Education
+
+-   **University of Toronto**<br /> BSc in Environmental Studies, Forest Conservation Science, and Geographic Information Systems
+-   **University of Toronto**<br /> Master of Forest Conservation

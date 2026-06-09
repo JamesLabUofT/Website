@@ -1,7 +1,7 @@
 ---
 title: "Kate Brittain"
 sortby: "Brittain, Kate"
-subtitle: "Postdoctoral Fellow"
+subtitle: "PDF Researcher"
 image: ../../images/people/KateBrittain/Kate_lab_photo.jpeg
 started: "Winter 2024"
 ended: "Current"

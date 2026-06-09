@@ -1,7 +1,7 @@
 ---
 title: "Nick Dewez"
 sortby: "Dewez, Nick"
-subtitle: "Ph.D. Student"
+subtitle: "PhD Student"
 image: ../../images/people/NicholasDewez/NicholasDewez.jpg
 start_year: 2023
 started: "Fall 2023"
