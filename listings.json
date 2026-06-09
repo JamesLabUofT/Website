@@ -1,17 +1,6 @@
 [
   {
-    "listing": "/projects.html",
-    "items": [
-      "/projects/Fire-Insect-Interaction.html",
-      "/projects/SpatialGenetics.html"
-    ]
-  },
-  {
-    "listing": "/news.html",
-    "items": []
-  },
-  {
-    "listing": "/teaching.html",
+    "listing": "/index.html",
     "items": []
   },
   {
@@ -30,6 +19,7 @@
       "/people/grad/CharlotteGrieve.html",
       "/people/grad/SamuelIsaac.html",
       "/people/grad/fynndevuonofraser.html",
+      "/people/grad/DanielLowe.html",
       "/people/staff/LeoJourdan.html",
       "/people/alumni/jackagoldman.html",
       "/people/alumni/JacobKlimczak.html",
@@ -40,7 +30,18 @@
     ]
   },
   {
-    "listing": "/index.html",
+    "listing": "/teaching.html",
     "items": []
+  },
+  {
+    "listing": "/news.html",
+    "items": []
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/Fire-Insect-Interaction.html",
+      "/projects/SpatialGenetics.html"
+    ]
   }
 ]
