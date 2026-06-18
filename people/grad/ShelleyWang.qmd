@@ -1,0 +1,29 @@
+---
+title: "Shelley Wang"
+sortby: "Wang, Shelley"
+subtitle: "PhD Student"
+image: ../../images/people/ShelleyWang/ShelleyWang_Picture.jpeg
+start_year: 2026
+started: "Summer 2026"
+ended: "Current"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  #links:
+  #- text: GitHub
+  #  href: https://github.com/yourgithub
+  #- text: Email
+  #  href: mailto:youremail@utoronto.ca
+---
+
+::: {#person-profile}
+:::
+## Biography
+
+Shelley has a BSc in Applied Biology from the University of British Columbia, and a MSc in Ecology & Evolutionary Biology from the University of Toronto, where she tested methods to reflect effects of disturbances and functional traits in tree range shift models. Broadly, she is interested in exploring landscape-scale spatiotemporal patterns of global change, and bridging ecological research with management and decision-making. As a PhD student in the James and Fortin labs, as well as the Nock lab at the University of Alberta, her research focuses on understanding the effects of functional and structural trait diversity in the boreal forest, to design and simulate management strategies that improve ecosystem resilience against climate change and extreme disturbances.
+
+## Education
+
+-   **University of British Columbia**<br /> BSc in Applied Biology
+-   **University of Toronto**<br /> MSc in Ecology & Evolutionary Biology
