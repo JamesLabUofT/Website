@@ -1,9 +1,5 @@
 [
   {
-    "listing": "/index.html",
-    "items": []
-  },
-  {
     "listing": "/people.html",
     "items": [
       "/people/supervisor/PatrickJames.html",
@@ -20,6 +16,7 @@
       "/people/grad/SamuelIsaac.html",
       "/people/grad/fynndevuonofraser.html",
       "/people/grad/DanielLowe.html",
+      "/people/grad/ShelleyWang.html",
       "/people/staff/LeoJourdan.html",
       "/people/alumni/jackagoldman.html",
       "/people/alumni/JacobKlimczak.html",
@@ -30,11 +27,11 @@
     ]
   },
   {
-    "listing": "/teaching.html",
+    "listing": "/news.html",
     "items": []
   },
   {
-    "listing": "/news.html",
+    "listing": "/teaching.html",
     "items": []
   },
   {
@@ -43,5 +40,9 @@
       "/projects/Fire-Insect-Interaction.html",
       "/projects/SpatialGenetics.html"
     ]
+  },
+  {
+    "listing": "/index.html",
+    "items": []
   }
 ]
