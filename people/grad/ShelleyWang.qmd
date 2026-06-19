@@ -10,11 +10,11 @@ toc: false
 about:
   id: person-profile
   template: jolla
-  #links:
-  #- text: GitHub
-  #  href: https://github.com/yourgithub
-  #- text: Email
-  #  href: mailto:youremail@utoronto.ca
+  links:
+  - text: LinkedIn
+    href: https://linkedin.com/in/wang-shelley
+  - text: Email
+    href: mailto:shirui.wang@mail.utoronto.ca
 ---
 
 ::: {#person-profile}
