@@ -1,5 +1,9 @@
 [
   {
+    "listing": "/news.html",
+    "items": []
+  },
+  {
     "listing": "/people.html",
     "items": [
       "/people/supervisor/PatrickJames.html",
@@ -27,19 +31,15 @@
     ]
   },
   {
-    "listing": "/news.html",
-    "items": []
-  },
-  {
-    "listing": "/teaching.html",
-    "items": []
-  },
-  {
     "listing": "/projects.html",
     "items": [
       "/projects/Fire-Insect-Interaction.html",
       "/projects/SpatialGenetics.html"
     ]
+  },
+  {
+    "listing": "/teaching.html",
+    "items": []
   },
   {
     "listing": "/index.html",
