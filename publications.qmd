@@ -1,6 +1,5 @@
 ### In Review
 
-Jourdan L, **James PMA**. Improving Selection of Forest Fuel Metrics Using Synthetic Lidar Point Clouds. *Ecological Informatics*\
 \
 Skretting T, Chamser L, Jones E, **James PMA**, Perrakis D, Shang C, Townsend I, Watson C. Forest fuel structure and loading over time since fuels reduction treatment in Jasper National Park, Alberta Canada using novel data sources. *International Journal of Wildland Fire*\
 \
@@ -16,6 +15,8 @@ Henry M, **James PMA**, Leung B. Low-density dynamics, Allee effects, and the va
 ## Accepted
 
 ### 2026
+
+Jourdan L, **James PMA**. 2026. Improving Selection of Forest Fuel Metrics Using Synthetic Lidar Point Clouds. *Ecological Informatics*
 
 Goldman J, Fortin M-J, **James PMA**. 2026. Within and among years moisture availability influences wildfire burn severity in the boreal forest. *Fire Ecology*
 
