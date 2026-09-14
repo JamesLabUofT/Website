@@ -1,11 +1,13 @@
 ---
-title: "James Lab Operating Manual"
+title: "James Lab internal documents"
 format: html
 ---
 
+## Lab Operating Manual 
+
 The points below summarize some common questions and expectations for work in the **James Lab**. These are meant to get everyone on the same page and avoid confusion or uncertainty. We are a large and diverse research group. While this list of points may seem more formal than is often encountered in our university setting, I feel it is useful to help us effectively communicate, interact, and achieve our objectives. Please let me know if you have questions or other suggestions to include in this dynamic list of ideas.
 
--   Core lab members, that is, graduate students and postdocs, are expected to be available over slack between the hours of 10am and 4pm most days of the week. Our work depends on effective and timely communication. Slack is the main way in which we can stay in touch with one another, with different work schedules, and different work from home routines.
+-   Core lab members, that is, graduate students and postdocs, are expected to be available over slack between the hours of 10am and 4pm most days of the week. Our work depends on effective and timely communication. Slack is the main way in which we can stay in touch with one another, with different work schedules, and different work from home routines. Afterhours communication should also be expected on occasion.
 
 -   In general, we are expected to be on campus at least three days a week: Thursdays being a target day for all to be present for the lab meeting and following chats/activities/GSU. You may also be asked to be available on campus for additional in-person meetings on specific days.
 
@@ -15,11 +17,11 @@ The points below summarize some common questions and expectations for work in th
 
 -   All students and postdocs are expected to attend at least one conference per year. The lab has funds to support travel, accommodation, and registration for these meetings. It is expected that students early in their studies will present at more local meetings. Students later in their program, or with significant results to present, will have the opportunity to attend larger, international meetings. It is expected that students and PDFs will identify and pursue these opportunities.
 
--   You should expect to receive requests to contribute your expertise and capacities to a range of lab-related projects. On occasion these requests may be urgent in nature. Tasks may include assisting me with technical work (coding, data prep., analysis support) and supporting fellow lab members with their projects. These requests may result in competing and/or simultaneous deadlines. Providing this support is an integral element of your role in the lab.
+-   You should expect to receive requests to contribute your expertise and capacities to a range of lab-related projects. On occasion these requests may be urgent in nature. Tasks may include assisting me with technical work (coding, data prep., analysis support) and supporting fellow lab members with their projects. These requests may result in competing and/or simultaneous deadlines. Providing this support is integral to your role in the lab.
 
 -   There are many administrative odds and ends, as well as *processes*, involved in academia. Your best resources for information on these processes are your fellow lab members. We are in a very fortunate position to have a large lab group with a range of experience. If you cannot find an answer within our group, you can reach out to Laura Lapchinski who can help directly or point you to the correct people in Daniels (e.g., payroll, reimbursements, TA-ships). [I am not a good source of information in this regard.]{.underline} The Forestry website also has relevant information about important processes and deadlines for graduate students. <https://academic.daniels.utoronto.ca/forestry/>
 
--   When sharing files with me for feedback, please include a descriptive title and be sure to include your initials at the beginning of the file name. (e.g., PJ_OGS_application_2024.docx). I appreciate that this is a bit *particular*, but it really helps me organize the numerous documents I have on the go at any given time. 😊
+-   When sharing files with me for feedback, please include a descriptive title and be sure to include your initials at the beginning of the file name. (e.g., PJ_OGS_application_2026.docx). I appreciate that this is a bit *particular*, but it really helps me organize the numerous documents I have on the go at any given time. 😊
 
 -   When requesting feedback, please share your documents etc. well in advance of any impending deadlines. Reference letters require time and care, and I appreciate at least a two week heads up. Likewise, documents for committee meeting should be shared with the entire committee at least 7 days (ideally 10 days) before the meeting. If I am to provide meaningful feedback, I need to receive the document at least 7 days before that. Conference presentations should be near complete before attending a meeting. Please plan on presenting a “nearly done” (i.e., 90%) version of the talk to the lab (e.g., during lab meeting) the week prior.
 
@@ -27,7 +29,7 @@ The points below summarize some common questions and expectations for work in th
 
 -   When planning your timelines for important project milestones (committee meetings, appraisals, conferences, defenses) work backwards from the deadline. Always include additional flexibility for the required multiple back and forth between us (and between other committee members / co-authors). Research is necessarily iterative and almost always takes longer than one expects.
 
-**Some expectations**
+[**Some expectations**]{.underline}
 
 **What you can expect from me**
 
@@ -72,3 +74,51 @@ The points below summarize some common questions and expectations for work in th
 -   Collegiality, professionalism, and participation in the broader academic community
 
 -   Collaboration with other students and researchers
+
+## Supervisor Meeting Guidelines
+
+A big part of your graduate / postdoctoral training is the regular interaction you have with your supervisor. I have set up a schedule for us to meet more or less biweekly, one on one, so that we can talk about your progress, work through problems, make decisions, and keep your research moving forward within the timelines of your program or project.
+
+It is not always obvious, especially early on, what you are supposed to bring to these meetings or how best to use the time. I want to emphasize that this is your time. You should be the one driving the agenda and identifying the questions, results, problems, or decisions that would be most useful for us to discuss. As you may already have noticed, if there is no clear structure, professors, myself included, are quite capable of filling the time by talking about all sorts of other things.
+
+To help you prepare and get the most out of our meetings, I have put together the guidelines below. Different projects and different stages of your training will sometimes call for different approaches, and I am always happy to discuss what is working well and adjust how we use the meeting time as needed.
+
+1.  **Know what you want to get out of the meeting.** Take a few minutes beforehand to be clear about what you need and what would be helpful to discuss. Make a short agenda and identify the questions or decisions you would especially like to work through. This will help keep the meeting focused. At the same time, be prepared for the conversation to go off track to someplace useful or unexpected. Some of the most interesting ideas can come from discussions we did not plan to have.
+
+2.  **Be prepared to briefly update me on what has changed since our last meeting**.You do not need to give a detailed account of everything you have done. Instead, remind me what you were working on, what you completed, what you learned from it, and where things now stand. This helps us maintain continuity from one meeting to the next.
+
+3.  **Bring results to share and discuss.** When possible and appropriate, bring clear figures, tables, maps, model summaries, or other outputs to discuss. You should be prepared to explain how the result was generated and the important analytical choices behind it. Also, be prepared to interpret the results. What is the main pattern? Does it answer the question you were asking? Is it what you expected? Are there alternative explanations?
+
+4.  **Bring problems as well as how you are thinking about them.** Problems are a normal part of research and are often exactly what we should be discussing. If something is not working, try to identify why, tell me what you have already tried, and come with one or two possible ways forward if you can. You do not need to solve everything before bringing it to me.
+
+5.  **Ask questions.** I am here to support you through your research and training, and our meetings are a good place to ask questions about analyses, methods, papers, writing, interpretation, or broader research decisions. If something I say is unclear, ask me to explain it differently. These discussions are an essential part of the training.
+
+6.  **Keep in mind that I do not know the answer to every question.** I may suggest an approach that doesn’t work out, overlook something important, or change my mind when we examine the ideas / results more closely. You should feel comfortable questioning an interpretation or disagreeing with me. If you think I am wrong, explain why. Good research discussions are not about being right, but about working out which explanation or approach is best supported.
+
+7.  **Bring work and ideas before they are finished.** You do not need to wait until an analysis, figure, section of writing, or idea feels 100% finished before we discuss it. In many cases, it is much more useful to talk about work while there is still time to change direction. Rough figures, outlines, alternative analyses, and partially developed ideas are all appropriate things to bring to a meeting.
+
+8.  **Take notes!** Keep track of important decisions, ideas, and action items. It is remarkably easy to leave a meeting with a clear plan and then immediately forget parts of it. Your notes should make it clear what was decided and what you are going to do next.
+
+9.  **Leave the meeting with a plan.** Before we finish, make sure we agree on the major next steps and timelines as appropriate. You should leave knowing what you are going to work on next and, ideally, what question each step is intended to answer. At the next meeting, we can begin by briefly returning to those items and seeing where they led.
+
+## Guidelines for preparing slides for conference presentations
+
+1.  Do not design the talk around what you did. Design it around what you want the audience to understand; design it around the [**story**]{.underline} you want to tell.
+
+2.  **Include only one message per slide.** Every slide should have a clear purpose. If you cannot say in one sentence what the audience is supposed to learn from the slide, it probably contains too much. Clear slide titles are essential and should state the point of the slide (i.e., like a topic sentence) rather than simply naming the content. For example, “Crown fuel load was unaffected by JPBW defoliation” is much more useful than “Results.”
+
+3.  Transitions between slides / ideas matter. Design and practice these transitions so that your audience clearly knows where you are going next.
+
+4.  The initial framing is one of the most important elements of your talk. Typically, you will be quite limited with time given (only 12 minutes / presentation). I usually budget about one slide per minute. That means you have **at most** 3 slides (maybe even just 2) with which to present your overall framing. I strongly recommend using one slide (ish) for each of the following: **Context, Problem, Research question**. They should flow logically into one another. Once the framing and problem and your goals are established, you can proceed with a presentation of methods.
+
+5.  Methods should be succinct and clear. You do not need to include all the details of what you did how and why. High level descriptions should be sufficient, although be prepared for detailed questions at the end. If you have a particularly complicated and technical set of methods, you can always let the audience know that they can inquire about details after your presentation. Backup slides with details can also be good to include at the end of the presentation in anticipation of specific technical questions.
+
+6.  When presenting multiple graphs in a single slide it’s always good practice to show one on its own initially, walk the viewers through it (axes, units, interpretation, etc), and reveal, or add using an animation, the additional graphs. This prevents cognitive overload in your audience and lets you tell your story more effectively. **Only include the results that matter to advancing the story.**
+
+7.  I generally reserve the last two slides for main takeaways, and next steps. The main take away should be the very precisely distilled take home message of your presentation. The next steps functions as a bit of a discussion section where you elaborate on where you could improve or where you intend to go next with this work. This should also be very clear and articulate and connect well to the rest of the presentation.
+
+8.  Similar to the opening, the closing is especially important. **Practice your opening and closing very carefully**. You should know exactly what you are going to say for the first 30– 60 seconds and the final 30 seconds. This is where clarity matters most.
+
+9.  Acknowledgments for funding and support must be included. If you are unsure who to include, ask. Acknowledgements can be included as a slide at the very end OR you can mention your acknowledgements right at the beginning of the talk and include logos on the title slide. This approach can be preferable to presenting them at the end of your talk, as the audience is looking at your take away / next steps slide(s) instead of the logos etc during questions.
+
+10. For each slide you choose to include in your deck: **Practice, Practice, Practice** a succinct and direct presentation of the information it contains. One of the biggest lies we tell ourselves is that we know exactly what we will say with that slide because we understand it in our mind. **Practice out loud** in front of others. Facing the gaps in our understanding or in our flow of ideas is essential to preparing a good talk.
