@@ -5,7 +5,7 @@ subtitle: "PhD Student"
 image: ../../images/people/NicholasDewez/NicholasDewez.jpg
 start_year: 2023
 started: "Fall 2023"
-ended: "Current"
+ended: "2026"
 toc: false
 about:
   id: person-profile
