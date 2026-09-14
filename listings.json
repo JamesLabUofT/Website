@@ -7,25 +7,15 @@
     ]
   },
   {
-    "listing": "/news.html",
-    "items": []
-  },
-  {
-    "listing": "/teaching.html",
-    "items": []
-  },
-  {
     "listing": "/people.html",
     "items": [
       "/people/supervisor/PatrickJames.html",
       "/people/pdf/KateBrittain.html",
       "/people/pdf/NooshinMashhadi.html",
-      "/people/pdf/ZackShakeri.html",
       "/people/pdf/AndrewShannon.html",
       "/people/grad/NiamhWall.html",
       "/people/grad/kennedykorkola.html",
       "/people/grad/MorganeHenry.html",
-      "/people/grad/NicholasDewez.html",
       "/people/grad/JessicaUnderwood.html",
       "/people/grad/CharlotteGrieve.html",
       "/people/grad/SamuelIsaac.html",
@@ -35,7 +25,9 @@
       "/people/staff/LeoJourdan.html",
       "/people/alumni/jackagoldman.html",
       "/people/alumni/JacobKlimczak.html",
+      "/people/alumni/NicholasDewez.html",
       "/people/alumni/SophiaRomualdi.html",
+      "/people/alumni/ZackShakeri.html",
       "/people/alumni/jpfontenelle.html",
       "/people/alumni/emilyjones.html",
       "/people/alumni/eleanorekriegerpottruff.html"
@@ -43,6 +35,14 @@
   },
   {
     "listing": "/index.html",
+    "items": []
+  },
+  {
+    "listing": "/teaching.html",
+    "items": []
+  },
+  {
+    "listing": "/news.html",
     "items": []
   }
 ]
