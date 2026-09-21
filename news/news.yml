@@ -7,6 +7,20 @@
 # escape the " character with a \ (e.g. \"title \")
 # Most importantly: TEST your changes before pushing please. Simply render the news.qmd page and ensure everything you've added is
 # where you expect, and none of the surrounding news items are broken.
+- description: Kennedy successfully her PhD at the departmental oral examination! Next up, the Senate defence!
+  date: September 2026
+- description: Léo and Patrick publish in Ecological Informatics
+  date: September 2026
+  link: https://doi.org/10.1016/j.ecoinf.2026.103977
+- description: Daniel, Fynn and Andrew traveled back to Wapkaimaski Lake to collect some leaf-on fuels data.
+  date: September 2026
+- description: Patrick, Zack, Nooshin, Andrew, Kennedy, Léo and Sam presented their work at the International Boreal Forest Research Association 2026 Conference in Québec City. Sam won 2nd place at the student poster competition! Congratulations Sam!
+  date: August 2026
+  image: /images/news/IBFRA-2026-collage.jpg
+- description: Niamh, Kate, JP and Patrick presented their work at the Canadian Society for Ecology and Evolution in Toronto.
+  date: May 2026
+- description: Daniel joins the lab as a PhD student, working on the impact of disturbances on insect pollinator communities. Welcome Daniel!
+  date: May 2026
 - description: Nooshin is awarded the UofT Research Excellence Post-Doctoral Fellowship! Congratulations Nooshin!
   date: May 2026
 - description: Patrick, Zack, Léo and Sam traveled to Wapikaimaski Lake, north of Thunder Bay, to collect some post-harvest slash fuel data.
@@ -41,6 +55,9 @@
   date: September 2025
 - description: Léo continues in the lab as a Research Associate, helping coordinate the WRFI lidar project
   date: July 2025
+- description: Niamh, Patrick and others publish in Conservation Genetics
+  date: July 2025
+  link: https://doi.org/10.1007/s10592-025-01715-0
 - description: "JP, Kate, Jessica, and Sophia presented their research at the 2025 CSEE conference in Sherbrooke!\n
   JP presented the talk: “Effects of Connectivity (and Synchrony) on Genetic Differentiation Through Time in Cyclic Outbreaking Populations”"
   image: /images/news/csee2025.jpg
