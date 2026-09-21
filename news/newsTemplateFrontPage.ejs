@@ -4,7 +4,7 @@
 <% for (const item of items) { %>
   <div <%= metadataAttrs(item) %>>
     <% if(item.link){ %>
-    <a href="<%- item.link %>"><%= item.description %></a><br/>
+    <a href="<%- item.link %>" target="_blank"><%= item.description %></a><br/>
     <% } else{ %>  
     <span style="white-space: pre-line"><%= item.description %></span><br/>
     <% } %>
