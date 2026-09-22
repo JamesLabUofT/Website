@@ -36,11 +36,19 @@ When not simulating lidar, fires, or both, Léo likes to help his colleagues cod
 
 ## Publications
 
+Jourdan L, James PMA. 2026. Improving Selection of Forest Fuel Metrics Using Synthetic Lidar Point Clouds. *Ecological Informatics*
+
 Jourdan L, Korkola K, Piascik P, & James PMA. 2026. Right on target: Monopods and polystyrene spheres as an alternative to traditional tripods for terrestrial laser scanning. *Canadian Journal of Forest Research*
 
-## Conferences
+## Conference presentations 
 
-**Jourdan, L.,** & James, P. M. A. (2025, February. 25). Evaluating terrestrial lidar fuel metrics in NG-CFFDRS sampling plots using synthetic point clouds. International workshop on the operational use of mobile and airborne lidar for enhanced forest inventory and modelling forest fire. Quebec City, Quebec.
+**Jourdan, L.**, Shakeri, Z., James P. M. A. (2026, August 27). Terrestrial lidar outperforms manual measurements in detecting canopy fuel structure changes after jack pine budworm outbreaks. IBFRA 2026. Quebec City, Quebec. 
+
+**Jourdan, L.** & James, P. M. A. (2026, February 27). Using Terrestrial Lidar to evaluate the gradual change in fuel structure following jack pine budworm outbreaks. Wildfire Canada Webinar.
+
+**Jourdan, L.** & James, P. M. A. (2025, October 25) Improving Forest Fuels Characterization using Lidar. Wildfire Resilience Consortium of Canada - Building Foundational Knowledge Gathering. Kamloops, BC. 
+
+**Jourdan, L.,** & James, P. M. A. (2025, February 25). Evaluating terrestrial lidar fuel metrics in NG-CFFDRS sampling plots using synthetic point clouds. International workshop on the operational use of mobile and airborne lidar for enhanced forest inventory and modelling forest fire. Quebec City, Quebec.
 
 **Jourdan, L.**, & James, P. M. A. (2024, December 13). Evaluating fuel structure metrics using synthetic terrestrial lidar scans: Ontario’s jack pine stands as a case study. AGU 2024, Washington D.C., USA.
 
@@ -50,7 +58,7 @@ Jourdan L, Korkola K, Piascik P, & James PMA. 2026. Right on target: Monopods an
 
 Risk, C., **Jourdan, L.**, Gandiaga, F., Korkola, K., & James, P. M. A. (2022, November 10). An interactive operations research tool for field work site selection in forestry. CANSSI Ontario Statistical Software Conference, Toronto, ON.
 
-------------------------------------------------------------------------
+## Other things:
 
 ::::: grid
 ::: g-col-6
@@ -62,8 +70,12 @@ Risk, C., **Jourdan, L.**, Gandiaga, F., Korkola, K., & James, P. M. A. (2022, N
 :::
 :::::
 
-Below is a [webpage](https://leofkj.github.io/AGUPoster/) for a demo of synthetic terrestrial lidar of Ontario's jack pine stands. Prepared alongside a poster for the AGU 2024 conference.
 
+------------------------------------------------------------------------
+
+Below is a [webpage](https://leofkj.github.io/AGUPoster/) for a demo of preliminary work generating synthetic terrestrial lidar of Ontario's jack pine stands, which I prepared to illustrate a poster for the AGU 2024 conference. An improved version of this work was published in *Ecological Informatics*.
+
+![](/images/people/LeoJourdan/Leo_AGU_poster.jpg)
 ```{=html}
 <iframe width="500" height="1000" src="https://leofkj.github.io/AGUPoster/" title="AGU 2024 demo"></iframe>
 ```
