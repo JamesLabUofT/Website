@@ -88,21 +88,20 @@ listing:
 :::{#postdoc}
 :::
 
+## Staff
+
+:::{#staff}
+:::
+
 ## Graduate students
 
 :::{#grad}
 :::
 
-## Staff
-
-:::{#staff}
-:::
-<!-- Hide while no undergrads
 ## Undergraduate students
 
 :::{#undergrad}
 :::
---->
 ## Gone but not forgotten: Lab Alumnis
 
 :::{#alumni}

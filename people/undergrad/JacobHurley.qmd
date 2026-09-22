@@ -1,0 +1,24 @@
+---
+title: "Jacob Hurley"
+sortby: "Hurley, Jacob"
+subtitle: "Undergraduate Volunteer"
+image: ../../images/people/JacobHurley/JacobHurley.jpg
+start_year: 2026
+started: "Fall 2026"
+ended: "Current"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  #links:
+  #- text: GitHub
+  #  href: https://github.com/yourgithub
+  #- text: Email
+  #  href: mailto:youremail@utoronto.ca
+---
+
+::: {#person-profile}
+:::
+## Biography
+
+Jacob is a third-year undergraduate student studying forest conservation and public policy. His research interests focus on disturbance ecology, particularly forest management and insect diversity in the context of wildfires. He has experience working in ecological restoration in southeastern Pennsylvania.
