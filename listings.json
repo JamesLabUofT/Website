@@ -1,24 +1,5 @@
 [
   {
-    "listing": "/news.html",
-    "items": []
-  },
-  {
-    "listing": "/index.html",
-    "items": []
-  },
-  {
-    "listing": "/teaching.html",
-    "items": []
-  },
-  {
-    "listing": "/projects.html",
-    "items": [
-      "/projects/Fire-Insect-Interaction.html",
-      "/projects/SpatialGenetics.html"
-    ]
-  },
-  {
     "listing": "/people.html",
     "items": [
       "/people/supervisor/PatrickJames.html",
@@ -36,6 +17,7 @@
       "/people/grad/ShelleyWang.html",
       "/people/staff/LeoJourdan.html",
       "/people/undergrad/JacobHurley.html",
+      "/people/undergrad/SusannahKim.html",
       "/people/alumni/jackagoldman.html",
       "/people/alumni/JacobKlimczak.html",
       "/people/alumni/NicholasDewez.html",
@@ -45,5 +27,24 @@
       "/people/alumni/emilyjones.html",
       "/people/alumni/eleanorekriegerpottruff.html"
     ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/Fire-Insect-Interaction.html",
+      "/projects/SpatialGenetics.html"
+    ]
+  },
+  {
+    "listing": "/teaching.html",
+    "items": []
+  },
+  {
+    "listing": "/index.html",
+    "items": []
+  },
+  {
+    "listing": "/news.html",
+    "items": []
   }
 ]
