@@ -1,0 +1,24 @@
+---
+title: "Susannah Kim"
+sortby: "Kim, Susannah"
+subtitle: "Undergraduate Volunteer"
+image: ../../images/people/SusannahKim/SusannahKim.jpeg
+start_year: 2026
+started: "Fall 2026"
+ended: "Current"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  #links:
+  #- text: GitHub
+  #  href: https://github.com/yourgithub
+  #- text: Email
+  #  href: mailto:youremail@utoronto.ca
+---
+
+::: {#person-profile}
+:::
+## Biography
+
+Susannah is a third-year undergraduate student studying Biology and Health & Disease. Her research interests include ecology and evolution, population genetics, and interactions between populations and environments. She's currently exploring patterns of genetic variation and differentiation in Spruce Budworm populations. In her free time, Susannah enjoys reading and watching movies!
