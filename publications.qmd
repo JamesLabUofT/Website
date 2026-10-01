@@ -1,16 +1,15 @@
 ### In Review
 
-\
-Skretting T, Chamser L, Jones E, **James PMA**, Perrakis D, Shang C, Townsend I, Watson C. Forest fuel structure and loading over time since fuels reduction treatment in Jasper National Park, Alberta Canada using novel data sources. *International Journal of Wildland Fire*\
-\
+
+Skretting T, Chamser L, Jones E, **James PMA**, Perrakis D, Shang C, Townsend I, Watson C. Forest fuel structure and loading over time since fuels reduction treatment in Jasper National Park, Alberta Canada using novel data sources. *International Journal of Wildland Fire*
+
 Shakeri Z, Boucher J, Marchal J, **James PMA.** Jack pine budworm defoliation shifts fuel structure and potential fire behaviour in Eastern Canada. *Canadian Journal of Forest Research*
 
 Brittain K, Fontenelle JP, Roe, AD, Johns RC, **James PMA**. A matter of space and time: Population genetic perspectives on outbreak dynamics. *Molecular Ecology*
 
 Romualdi S, Brittain K, Roe AD, **James PMA**. The influence of bioinformatic filtering thresholds on population genetic inference in an outbreaking system. *Genome*
 
-Henry M, **James PMA**, Leung B. Low-density dynamics, Allee effects, and the value of zeros. *Ecological Applications\
-*
+Henry M, **James PMA**, Leung B. Low-density dynamics, Allee effects, and the value of zeros. *Ecological Applications*
 
 ## Accepted
 
@@ -24,10 +23,10 @@ Sturtevant B, Cooke B, Kneeshaw D, Robert L-E, **James PMA**, Fortin M-J, Wolter
 
 Henry M, **James PMA**, Kneeshaw D & Leung B. 2026. Connecting the dots: Resolving the relationship between spruce budworm population dynamics and defoliation. *Canadian Journal of Forest Research.*
 
-Jourdan L, Korkola K, Piascik P, & **James PMA**. 2026. Right on target: Monopods and polystyrene spheres as an alternative to traditional tripods for terrestrial laser scanning. *Canadian Journal of Forest Research.\
-*\
-Johns RC, Edwards S, Amos-Binks L, Bowden JJ, Carleton D, Edge C, Hennigar C, **James PMA**, MacLean D, Martel V, Moise E, Morin B, Morrison A, Owens E, Stastny M, & Régnière J. 2026. Adaptive area-wide management for suppressing spruce budworm outbreaks: Evaluating the early intervention strategy. *Journal of Pest Science.\
-*\
+Jourdan L, Korkola K, Piascik P, & **James PMA**. 2026. Right on target: Monopods and polystyrene spheres as an alternative to traditional tripods for terrestrial laser scanning. *Canadian Journal of Forest Research.*
+
+Johns RC, Edwards S, Amos-Binks L, Bowden JJ, Carleton D, Edge C, Hennigar C, **James PMA**, MacLean D, Martel V, Moise E, Morin B, Morrison A, Owens E, Stastny M, & Régnière J. 2026. Adaptive area-wide management for suppressing spruce budworm outbreaks: Evaluating the early intervention strategy. *Journal of Pest Science.*
+
 Canelles Q, Bouchard M, Aquilué N, **James PMA**, & Filotas É. 2026. Evaluating the effects of alternative forest management strategies on SBW outbreaks. *Landscape Ecology. Def, 88, 1609-02.*
 
 ### 2025
@@ -74,7 +73,7 @@ Larroque J, Wittische J, **James PMA**. 2022. Quantifying and predicting populat
 
 Landry M, Kneeshaw D, **James PMA**, Kembel S. 2022. Spruce budworm gut bacterial communities vary among sites and host tree species in a boreal landscape. Journal of Biogeography. 49(2), 299-309
 
-Legault S, Wittische J, Cusson M, Brodeur J, **James PMA**. 2021. Genetic evidence of large-scale population connectivity in spruce budworm parasitoids. Molecular Ecology. 30(22), 5658-5673
+Legault S, Wittische J, Cusson M, Brodeur J, **James PMA**. 2021. Landscape-scale population connectivity in two parasitoid species associated with the spruce budworm: Testing the birdfeeder effect using genetic data. Molecular Ecology. 30(22), 5658-5673
 
 Urban MC, Travis JMJ, Zurell D, Thompson PL, Synes NW, Scarpa A, Peres-Neto PR, Malchow A-K , **James PMA**, Gravel D, De Meester D, Brown D, Bocedi D, Albert CH, Gonzalez A, Hendry AP. (in press). Coding for Life: Designing a platform for projecting and protecting global biodiversity. BioScience
 
