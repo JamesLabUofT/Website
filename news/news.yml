@@ -7,6 +7,9 @@
 # escape the " character with a \ (e.g. \"title \")
 # Most importantly: TEST your changes before pushing please. Simply render the news.qmd page and ensure everything you've added is
 # where you expect, and none of the surrounding news items are broken.
+- description: Daniel attended the Entomological Society of Canada's annual meeting in Winnipeg, and presented a poster on spruce budworm's natural enemies.
+  image: /images/news/Daniel_EntoSocCan_2026.jpg
+  date: October 2026
 - description: Kennedy successfully defends her PhD at the departmental oral examination! Next up, the Senate defence!
   date: September 2026
 - description: Léo and Patrick publish in Ecological Informatics
