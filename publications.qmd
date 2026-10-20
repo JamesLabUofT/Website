@@ -11,11 +11,13 @@ Romualdi S, Brittain K, Roe AD, **James PMA**. The influence of bioinformatic fi
 
 Henry M, **James PMA**, Leung B. Low-density dynamics, Allee effects, and the value of zeros. *Ecological Applications*
 
+Givelas M, Kish R, **James PMA**, Thomas S, Martin A. Severity dynamics of an invasive forest pathogen: beech bark disease in an unmanaged old-growth forest. *Forest Ecology and management*
+
 ## Accepted
 
 ### 2026
 
-KC Rodman, E Whitman, AA Howe, A Spannuth, KJ Barrett, CA Beinhart, Y Boucher, SU Busby, JT Carrasco, KD Clark-Wolf, MJ Corbett, JE Crouse, V Danneyrolles, PR Dappen, KT Davis, BJ Harvey, ZA Holden, SM Hood, JM Iniguez, **PMA James**, MR Kreider, MM Laughlin, KR Mahan, JE Morris, M-A Parisien, JP Roccaforte, SJ Saberi, CS Stevens-Rumann, MT Stoddard, N Tomczyk, EMN Twaddell, ST Vieira, AG Vorster, K Weimer, BD Woodward, J Woolet, JT Wooten, EL Yannayon, LL Yocom. 2026. [Right on time: evaluating accuracy and timing of burn-severity assessments to support post-fire management](publications/2026/Rodmanetal2026.pdf){target="_blank"}. **Fire Ecology** 22 (1), 154
+KC Rodman, E Whitman, AA Howe, A Spannuth, KJ Barrett, CA Beinhart, Y Boucher, SU Busby, JT Carrasco, KD Clark-Wolf, MJ Corbett, JE Crouse, V Danneyrolles, PR Dappen, KT Davis, BJ Harvey, ZA Holden, SM Hood, JM Iniguez, **PMA James**, MR Kreider, MM Laughlin, KR Mahan, JE Morris, M-A Parisien, JP Roccaforte, SJ Saberi, CS Stevens-Rumann, MT Stoddard, N Tomczyk, EMN Twaddell, ST Vieira, AG Vorster, K Weimer, BD Woodward, J Woolet, JT Wooten, EL Yannayon, LL Yocom. 2026. [Right on time: evaluating accuracy and timing of burn-severity assessments to support post-fire management](publications/2026/Rodmanetal2026.pdf){target="_blank"}. *Fire Ecology* 22 (1), 154
 
 Jourdan L, **James PMA**. 2026. [Improving Selection of Forest Fuel Metrics Using Synthetic Lidar Point Clouds](publications/2026/JourdanAndJames2026.pdf){target="_blank"}. *Ecological Informatics*.
 
