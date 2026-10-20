@@ -12,14 +12,25 @@ jobs:
       contents: write
     steps:
       - name: Check out repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
-      - name: Render and Publish
+      - name: Render
+        uses: quarto-dev/quarto-actions/render@v2
+
+      - name: Strip .html from internal links
+        run: |
+          find _site -name '*.html' -exec sed -i -E \
+            -e 's#href="([^":]*/)?index\.html(\#[^"]*)?"#href="\1\2"#g' \
+            -e 's#href="([^":]*)\.html(\#[^"]*)?"#href="\1\2"#g' \
+            {} +
+
+      - name: Publish
         uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages
+          render: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
