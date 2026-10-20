@@ -131,11 +131,11 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <a href="./" class="navbar-brand navbar-brand-logo">
     <img src="./images/JamesLabLogo.png" alt="" class="navbar-logo light-content">
     <img src="./images/JamesLabLogo.png" alt="" class="navbar-logo dark-content">
     </a>
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="./">
     <span class="navbar-title">The James Lab</span>
     </a>
   </div>
@@ -145,27 +145,27 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./projects.html"> 
+    <a class="nav-link" href="./projects"> 
 <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./people.html"> 
+    <a class="nav-link" href="./people"> 
 <span class="menu-text">People</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./publications.html"> 
+    <a class="nav-link" href="./publications"> 
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./teaching.html"> 
+    <a class="nav-link" href="./teaching"> 
 <span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./news.html"> 
+    <a class="nav-link" href="./news"> 
 <span class="menu-text">News</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./contact.html"> 
+    <a class="nav-link" href="./contact"> 
 <span class="menu-text">Contact</span></a>
   </li>  
 </ul>
@@ -266,7 +266,7 @@ window.Quarto = {
     <br>
 
 </div>
-<a href="./news.html">Older news</a> 
+<a href="./news">Older news</a> 
 <div class="listing-no-matching d-none">No matching items</div>
 </div></div><p><img src="images/JamesLabLogo.png" class="img-fluid" style="width:80.0%"></p>
 <p>We are a group of disturbance ecologists in the Institute of Forestry and Conservation at the University of Toronto. Our research explores the impacts of wildfire, insect disturbance and land-use on Canadian forest ecosystems in the current era of global change. We investigate these important problems through the application of a range of novel, quantitative, and data driven tools and methods.</p>
@@ -349,7 +349,7 @@ window.Quarto = {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/jameslab\.ca");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

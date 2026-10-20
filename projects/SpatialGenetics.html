@@ -70,11 +70,11 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="../index.html" class="navbar-brand navbar-brand-logo">
+    <a href="../" class="navbar-brand navbar-brand-logo">
     <img src="../images/JamesLabLogo.png" alt="" class="navbar-logo light-content">
     <img src="../images/JamesLabLogo.png" alt="" class="navbar-logo dark-content">
     </a>
-    <a class="navbar-brand" href="../index.html">
+    <a class="navbar-brand" href="../">
     <span class="navbar-title">The James Lab</span>
     </a>
   </div>
@@ -84,27 +84,27 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../projects.html"> 
+    <a class="nav-link" href="../projects"> 
 <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../people.html"> 
+    <a class="nav-link" href="../people"> 
 <span class="menu-text">People</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../publications.html"> 
+    <a class="nav-link" href="../publications"> 
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../teaching.html"> 
+    <a class="nav-link" href="../teaching"> 
 <span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../news.html"> 
+    <a class="nav-link" href="../news"> 
 <span class="menu-text">News</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../contact.html"> 
+    <a class="nav-link" href="../contact"> 
 <span class="menu-text">Contact</span></a>
   </li>  
 </ul>
@@ -148,7 +148,7 @@ ul.task-list li input[type="checkbox"] {
 <p>Population outbreaks affect spatial demographic variation which can influence population genetic inference. Current models that aim to understand the spatial, temporal, and landscape genetic dynamics of outbreaking populations risk making incorrect conclusions regarding landscape connectivity, dispersal capacity, and adaptation. The goal of this research theme is to characterize how demographic context affects neutral and adaptive population genetic patterns and to develop new approaches that take this context into account. This work primarily focuses on outbreaking forest insect pests such as the spruce budworm. However, long-lived species (e.g., turtles) also present novel demographic contexts that confound traditional approaches to population genetic inference.</p>
 <p><strong>Spruce budworm</strong></p>
 <p>The spruce budworm (SBW; Choristoneura fumiferana) is a lepidopteran forest pest that devastates huge areas of spruce and fir forest during its periodic outbreaks. SBW outbreak dynamics are shaped by the complex interactions among climate, forest structure, communities of natural enemies, and dispersal. Despite the significance of movement to the spatial dynamics of SBW outbreaks, little is known about SBW dispersal, how it varies with spatial context and over course of an outbreak, and how it affects spatial synchrony in outbreak dynamics. This research applies tools and methods from spatial population genetics to characterize genetic connectivity among outbreak patches in the current outbreak in eastern north America. Using this information on genetic connectivity, and how it varies within and among years, we will infer patterns of gene flow and dispersal and how it varies as a function of intervening land-cover (isolation by resistance) and local environmental conditions (isolation by environment). Concurrently, we are developing dispersal models using predicted phenology (BioSIM) and demographic data collected from pheromone traps (adult males). Together, this work will increase our knowledge of how SBW movement varies in different forest and landscape contexts and will be used to improve simulation models that predict insect population dynamics and forecast future outbreak risk. This work will also address the important question of the potential efficacy of currently proposed early intervention strategies.</p>
-<p>Check out our <a href="../projects/SBW/sbwsampling.html">photo gallery</a> illustrating our sampling network and developing results.</p>
+<p>Check out our <a href="../projects/SBW/sbwsampling">photo gallery</a> illustrating our sampling network and developing results.</p>
 <p><strong>Students:</strong> JP Fontenelle, Morgane Henry</p>
 <p><strong>Collaborators:</strong> Rob Johns (CFS, AFC), Brian Leung, Jeremy Larroque</p>
 <p><strong>Recent Publications</strong></p>
@@ -243,7 +243,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/jameslab\.ca");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
