@@ -1,0 +1,24 @@
+---
+title: "Ula Curley"
+sortby: "Curley, Ula"
+subtitle: "Undergraduate Volunteer"
+image: ../../images/people/UlaCurley/UlaCurley.jpg
+start_year: 2026
+started: "Fall 2026"
+ended: "Current"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  #links:
+  #- text: GitHub
+  #  href: https://github.com/yourgithub
+  #- text: Email
+  #  href: mailto:youremail@utoronto.ca
+---
+
+::: {#person-profile}
+:::
+## Biography
+
+Ula is a fourth-year undergraduate student studying environmental sciences and forest conservation science. Her research interests include forest ecology and conservation, population ecology, wildfire behaviour, and fuel dynamics. She was introduced to forestry through her summer job as a tree planter in Northern Alberta and BC.
