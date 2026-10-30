@@ -4,21 +4,6 @@
     "items": []
   },
   {
-    "listing": "/index.html",
-    "items": []
-  },
-  {
-    "listing": "/news.html",
-    "items": []
-  },
-  {
-    "listing": "/projects.html",
-    "items": [
-      "/projects/Fire-Insect-Interaction.html",
-      "/projects/SpatialGenetics.html"
-    ]
-  },
-  {
     "listing": "/people.html",
     "items": [
       "/people/supervisor/PatrickJames.html",
@@ -46,6 +31,21 @@
       "/people/alumni/jpfontenelle.html",
       "/people/alumni/emilyjones.html",
       "/people/alumni/eleanorekriegerpottruff.html"
+    ]
+  },
+  {
+    "listing": "/news.html",
+    "items": []
+  },
+  {
+    "listing": "/index.html",
+    "items": []
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/Fire-Insect-Interaction.html",
+      "/projects/SpatialGenetics.html"
     ]
   }
 ]
